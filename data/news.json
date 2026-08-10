@@ -1,0 +1,8 @@
+{
+  "updated_at": "2026-08-10 · Initial seed",
+  "items": [
+    {"title":"EMA News & Press Releases — official feed","url":"https://www.ema.europa.eu/en/news-events","summary":"PharmaHot 已接入 EMA 官方新闻源。GitHub Actions 首次成功运行后，这张初始化卡片会被最新监管与医药新闻自动替换。","source":"EMA","category":"Regulatory","date":"2026-08-10","score":92},
+    {"title":"FDA Press Announcements — official source","url":"https://www.fda.gov/news-events/fda-newsroom/press-announcements","summary":"FDA 官方 Press Announcements 作为 PharmaHot 的核心一手监管来源之一。后续版本会继续扩充 FDA 专项采集。","source":"FDA","category":"Regulatory","date":"2026-08-10","score":90},
+    {"title":"Fierce Biotech RSS — industry intelligence feed","url":"https://www.fiercebiotech.com/fiercebiotechcom/rss-feeds","summary":"用于补充临床、管线、交易和 biotech 行业动态。页面中的新闻标题和“阅读原文”均会直接跳转至真实来源。","source":"Fierce Biotech","category":"Clinical","date":"2026-08-10","score":84}
+  ]
+}
