@@ -1,0 +1,31 @@
+(()=>{
+const CLINICAL=[
+{area:'黑色素瘤',date:'2026-08-06',title:'Tudriqev + nivolumab获FDA加速批准，用于PD-1治疗后进展的晚期黑色素瘤',detail:'FDA批准基于IGNYTE研究：91例可评估患者ORR 24.2%，中位DoR 14.1个月。加速批准意味着后续仍需确证性研究验证临床获益。',bp:'注册成功不等于研发结束：继续跟踪confirmatory trial的患者数、周期和上市后研发预算。',source:'FDA具体批准公告',url:'https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-tudriqev-nivolumab-advanced-melanoma'},
+{area:'肺癌 / ADC',date:'2026-05-19',title:'恒瑞HER3 ADC SHR-A2009 III期达到主要终点',detail:'EGFR TKI治疗失败的EGFR突变晚期NSCLC研究中，对比含铂双药化疗显著延长PFS，公司计划与CDE开展上市前沟通。',bp:'III期阳性后支出从临床执行逐步转向注册、商业批、医学事务和launch readiness。',source:'恒瑞具体公告',url:'https://www.hengrui.com/media/detail-953.html'},
+{area:'NSCLC / 免疫',date:'2026-06-01',title:'信达IBI363推进免疫耐药NSCLC全球III期',detail:'IBI363在既往免疫治疗失败NSCLC长期随访中继续显示生存信号；鳞状NSCLC全球III期MarsLight-11已启动。',bp:'PoC→全球III期通常意味着中心数、患者数、药品供应和跨区域运营预算显著上台阶。',source:'信达具体临床公告',url:'https://en.innoventbio.com/InvestorsAndMedia/PressReleaseDetail?key=600'},
+{area:'SCLC / DLL3 ADC',date:'2026-06-16',title:'再鼎zocilurtatug pelitecan获EMA孤儿药资格',detail:'DLL3 ADC用于肺部神经内分泌癌获得EMA孤儿药资格，此前已披露SCLC/NEC早期临床数据并推进注册开发。',bp:'孤儿药资格不是批准；真正影响预算的节点是注册性试验规模、入组速度和监管路径。',source:'再鼎具体公告',url:'https://ir.zailaboratory.com/news-releases/news-release-details/zai-lab-receives-ema-orphan-drug-designation-zocilurtatug'},
+{area:'宫颈癌 / ADC',date:'2026-06-08',title:'TIVDAK获NMPA批准用于复发或转移性宫颈癌',detail:'中国批准基于全球III期innovaTV 301的生存获益结果，产品进入中国商业化阶段。',bp:'临床资产转商业产品后，预算重点切换到库存、准入、医学教育和销售爬坡。',source:'再鼎具体公告',url:'https://ir.zailaboratory.com/zh-hans/news-releases/news-release-details-94'},
+{area:'肾癌 / 联合治疗',date:'2026-05-21',title:'呋喹替尼联合信迪利单抗获批用于晚期肾癌',detail:'NMPA批准ELUNATE+TYVYT用于既往VEGFR-TKI治疗失败的局晚/转移性肾癌；FRUSICA-2支持该联合方案。',bp:'联合疗法的商业模型要额外关注伙伴分工、药物组合成本、渠道协同和医保策略。',source:'和黄医药具体公告',url:'https://www.hutch-med.com/nmpa-approval-for-elunate-fruquintinib-plus-tyvyt-sintilimab-for-rcc/'},
+{area:'血液病 / Phase III',date:'2026-06-12',title:'Sovleplenib III期ESLIM-02数据推进注册路径',detail:'wAIHA患者III期研究显示快速且持久的血红蛋白应答；NDA已在中国获受理并进入优先审评。',bp:'III期数据+优先审评通常要求商业化准备前移，尤其是供应、医学事务和市场准入。',source:'和黄医药具体公告',url:'https://www.hutch-med.com/eslim-02-eha26/'},
+{area:'实体瘤 / PD-L1 ADC',date:'2026-07-31',title:'复宏汉霖HLX43新增联合治疗临床批准',detail:'HLX43联合贝伐珠单抗并联合/不联合化疗用于晚期/转移性实体瘤的临床研究获NMPA批准，进一步扩展组合策略。',bp:'组合治疗会提高方案复杂度、药品供应、检测和中心执行成本；前线治疗扩展还会放大样本规模。',source:'复宏汉霖具体公告',url:'https://www.henlius.com/NewsDetails-6066-26.html'},
+{area:'前列腺癌 / TCE',date:'2026-07-30',title:'复宏汉霖三抗TCE HLX3902完成全球首例患者给药',detail:'STEAP1×CD3×CD28三特异性TCE进入I期，面向mCRPC及其他晚期实体瘤，在中国和澳大利亚同步推进。',bp:'FIH首先验证安全性、PK和剂量，不能用早期入组替代PoC；预算模型要为剂量扩展预留情景。',source:'复宏汉霖具体公告',url:'https://www.henlius.com/NewsDetails-6062-26.html'}
+];
+const AI_CASES=[
+{date:'2026-07-02',stage:'药物发现',title:'武田 × Insilico：用Pharma.AI推进多治疗领域候选药物发现',detail:'Insilico负责AI驱动的候选分子发现和优化，武田负责后续全球开发能力衔接。AI价值点从“工具采购”进一步走向“候选资产产出”。',bp:'BP看点：AI项目不能只看软件费，要比较每个candidate的周期、实验验证成本、进入IND概率和传统发现流程的替代成本。',source:'Insilico新闻稿',url:'https://www.eurekalert.org/news-releases/1134421'},
+{date:'2026-06-22',stage:'小分子发现',title:'Bayer × Iambic：AI挑战hard-to-drug靶点',detail:'Bayer使用Iambic的Enchant与NeuralPLexer平台开展小分子发现，目标是寻找新的drug entry points和差异化分子。',bp:'BP看点：AI是否创造价值最终要落到“可成药靶点→候选物→IND”的转化率，而非模型参数或生成分子数量。',source:'Bayer官方新闻稿',url:'https://www.bayer.com/media/en-us/bayer-and-iambic-collaborate-to-advance-drug-discovery-with-ai/'},
+{date:'2026-05-13',stage:'情报 / Agent',title:'AstraZeneca × Owkin：引入agentic AI支持研发与竞争情报',detail:'三年许可合作使用K Pro，并开发面向生物医药场景的AI agents，用于分析临床试验、招募趋势、潜在结果和专利等信息。',bp:'BP看点：这是更接近知识工作效率的ROI案例，可用分析工时、决策周期、外部数据库/咨询替代率衡量，而不是用药物NPV衡量。',source:'Fierce Biotech报道',url:'https://www.fiercebiotech.com/medtech/astrazeneca-pens-agentic-ai-licensing-deal-owkin'},
+{date:'2026-03-30',stage:'BD / AI发现',title:'Lilly扩大与Insilico合作：AI发现开始进入大型BD结构',detail:'公开报道显示合作包含1.15亿美元首付款、最高约26亿美元里程碑以及销售royalty，体现AI发现平台正用传统药物BD方式定价。',bp:'BP看点：把AI平台费、资产许可、里程碑和royalty拆开；headline value同样不能当成确定现金流。',source:'TechTarget报道',url:'https://www.techtarget.com/pharmalifesciences/news/366640790/Eli-Lilly-expands-Insilico-pact-with-275B-AI-drug-discovery-deal'},
+{date:'2026-02-18',stage:'临床数据 / 精准医学',title:'Merck × Mayo Clinic：AI连接临床与基因组数据支持研发决策',detail:'合作把Mayo Clinic Platform及临床/基因组数据与Merck的AI/ML能力结合，用于疾病理解、靶点识别和早期开发决策。',bp:'BP看点：这类合作的核心资产往往是高质量数据与治理能力；需要把数据许可、算力、模型开发和验证成本一起看。',source:'Mayo Clinic官方新闻',url:'https://newsnetwork.mayoclinic.org/discussion/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/'}
+];
+function groupedCompanies(){
+ if(typeof COMPANY_UPDATES==='undefined') return;
+ const groups={}; COMPANY_UPDATES.forEach(x=>(groups[x.company]??=[]).push(x));
+ const box=document.querySelector('#companyGrid'); if(!box)return;
+ box.innerHTML=Object.entries(groups).map(([name,items])=>`<article class="companygroup"><header><h3>${name}</h3><span>${items.length} 条进展</span></header><div class="companytimeline">${items.sort((a,b)=>b.date.localeCompare(a.date)).map(x=>`<div class="companyevent"><div class="companyeventmeta"><span>${x.type}</span><time>${x.date}</time></div><h4>${typeof rich==='function'?rich(x.title):x.title}</h4><p>${typeof rich==='function'?rich(x.summary):x.summary}</p><div class="companybp"><b>BP看点</b> ${typeof rich==='function'?rich(x.bp):x.bp}</div><a href="${x.url}" target="_blank" rel="noopener">具体公告 / 新闻 ↗</a></div>`).join('')}</div></article>`).join('');
+ try{bindTerms()}catch(e){}
+}
+function renderClinical(){const b=document.querySelector('#clinicalGrid');if(!b)return;b.innerHTML=CLINICAL.map(x=>`<article class="clinicalitem"><div class="clinicalmeta"><span>${x.area}</span><time>${x.date}</time></div><h3>${x.title}</h3><p>${x.detail}</p><div class="clinicalbp"><b>Finance BP</b>${x.bp}</div><a href="${x.url}" target="_blank" rel="noopener">${x.source} ↗</a></article>`).join('')}
+function renderAI(){const b=document.querySelector('#aiGrid');if(!b)return;b.innerHTML=AI_CASES.map(x=>`<article class="aiitem"><div class="aimeta"><span>${x.stage}</span><time>${x.date}</time></div><h3>${x.title}</h3><p>${x.detail}</p><div class="aibp">${x.bp}</div><a href="${x.url}" target="_blank" rel="noopener">${x.source} ↗</a></article>`).join('')}
+function boot(){setTimeout(groupedCompanies,150);renderClinical();renderAI()}
+document.readyState==='loading'?document.addEventListener('DOMContentLoaded',boot):boot();
+})();
