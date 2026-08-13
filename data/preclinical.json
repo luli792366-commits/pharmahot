@@ -1,69 +1,12 @@
 {
-  "updated_at": "2026-08-13 03:10 UTC",
+  "updated_at": "2026-08-13 03:53 UTC",
   "window_days": 60,
   "sources": [
     "Europe PMC",
     "bioRxiv",
     "Fierce Biotech"
   ],
-  "major_signals": [
-    {
-      "title": "Development of APH003─a Highly Potent, Selective, and Orally Bioavailable IRAK4 PROTAC Degrader for the Treatment of Inflammatory Diseases.",
-      "summary": "Interleukin-1 receptor-associated kinase 4 (IRAK4) represents an attractive therapeutic target in inflammatory and oncological indications due to its pivotal role as a signaling mediator downstream of TLR and IL-1R. We previously reported a series of spirocyclic IRAK4 degraders and identified APH02174 as a selective, orally bioavailable degrader. However, its hERG inhibition, hepatocyte stability, and variable cross-species PK inspired further structural optimization. The optimization gave eight PROTACs ( 5 - 10 , 14, and APH003 ) which exhibited high IRAK4 degradation ability (DC 50 ≤ 2 nM, DC 90 ≤ 10 nM, and D max ≥ 85%) in vitro . APH003 exhibited favorable PK parameters, low hERG inhibit",
-      "url": "https://europepmc.org/article/MED/42363007",
-      "date": "2026-06-26",
-      "source": "Europe PMC",
-      "authors": "Wu XW, Chen ZM, Gao C, Tian M, Liu XL, Wang H, Chen HJ, Li HX, Yang WQ, An LK.",
-      "modality": "Small Molecule",
-      "stage": "GLP tox / safety package",
-      "evidence": "Development-ready signal",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Preclinical Comparison of Two CD3xB7H4 Bispecific Antibodies for Solid Tumor Therapy Reveals CD3 Affinity-Dependent Potency and Tolerability Tradeoffs.",
-      "summary": "The immune checkpoint protein B7H4 is overexpressed in tumors compared to normal tissues, making it an attractive target for cancer immunotherapy. Here, we compare two B7H4-targeting CD3 bispecific antibodies (bsAbs) with different CD3 affinities across in vitro and in vivo characterization studies. In vitro, the CD3xB7H4 bsAb variant with higher CD3 affinity showed greater potency for tumor cell killing and cytokine secretion than the lower affinity variant. In nonclinical toxicology assessments in cynomolgus monkeys, the CD3xB7H4 bsAb variant with lower CD3 affinity induced less cytokine secretion and was tolerated at a higher maximum plasma concentration. Both CD3xB7H4 bsAbs demonstrated ",
-      "url": "https://europepmc.org/article/MED/42374845",
-      "date": "2026-06-30",
-      "source": "Europe PMC",
-      "authors": "Koopman LA, Alemdehy F, de Poot SAH, Paauwe M, Wang W, Epstein KR, van den Brink EN, Gorlani A, Verzijl D, Brandhorst M, Franken P, Smits-de Vries L, Gielen E, Plantinga TS, Houtkamp M, Engelberts PJ, Lihme Egerod F, Tha",
-      "modality": "Biologics",
-      "stage": "GLP tox / safety package",
-      "evidence": "Reproducible package",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Bispecific antibody AP402 targets p95HER2 and induces costimulation through CD137 to improve efficacy for HER2-positive tumors.",
-      "summary": "Background Outcomes for HER2-positive cancers have been greatly improved by trastuzumab and other HER2-targeted therapies. However, many tumors express a truncated p95HER2 variant that lacks the extracellular trastuzumab binding site. Since these tumors exhibit resistance and more aggressive disease phenotypes, the AP402 bispecific antibody was developed to target p95HER2 and engage activated T cells toward tumor cells via CD137 engagement. Methods AP402 was characterized in terms of binding, anti-tumor activity and safety using in vitro and in vivo models. Using p95HER2- and full-length HER2-expressing tumor cells, antibody-dependent cellular cytotoxicity (ADCC) assays were performed. AP402",
-      "url": "https://europepmc.org/article/MED/42443735",
-      "date": "2026-07-13",
-      "source": "Europe PMC",
-      "authors": "Huang PL, Hsieh HT, Kan HT, Hsu CH, Huang KM, Chen HY, Chen TN, You JJ.",
-      "modality": "Biologics",
-      "stage": "GLP tox / safety package",
-      "evidence": "Reproducible package",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Innovative use of therapeutic antibodies in lung cancer: the current landscape of ADCs and other antibody-based therapies.",
-      "summary": "The therapeutic landscape for non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) has been profoundly transformed by the advent of novel antibody therapies. These include antibody-drug conjugates (ADCs) and various novel iterations. Each therapy is at a different stage of clinical development, with several agents now approved for clinical use, others in late-stage trials, and a robust pipeline of preclinical candidates. This review will provide an overview of the antibody-based therapies, focusing on their molecular targets and clinical context in lung cancer and the future of this rapidly emerging field.",
-      "url": "https://europepmc.org/article/MED/42488115",
-      "date": "2026-07-08",
-      "source": "Europe PMC",
-      "authors": "Lee M, Lovly CM.",
-      "modality": "ADC / ATTC",
-      "stage": "Development candidate",
-      "evidence": "Early signal",
-      "signal_class": "Major Development Signal",
-      "score": 71,
-      "finance": "Expect spend to concentrate around the nominated asset: DMPK, tox, formulation/process development and IND-enabling work."
-    }
-  ],
+  "major_signals": [],
   "research_watch": [
     {
       "title": "A Newly Designed Antibody-drug Conjugate Targeting B7-H3 Demonstrates Enhanced Therapeutic Efficacy Across a Spectrum of Cancers.",
@@ -403,62 +346,6 @@
     }
   ],
   "items": [
-    {
-      "title": "Development of APH003─a Highly Potent, Selective, and Orally Bioavailable IRAK4 PROTAC Degrader for the Treatment of Inflammatory Diseases.",
-      "summary": "Interleukin-1 receptor-associated kinase 4 (IRAK4) represents an attractive therapeutic target in inflammatory and oncological indications due to its pivotal role as a signaling mediator downstream of TLR and IL-1R. We previously reported a series of spirocyclic IRAK4 degraders and identified APH02174 as a selective, orally bioavailable degrader. However, its hERG inhibition, hepatocyte stability, and variable cross-species PK inspired further structural optimization. The optimization gave eight PROTACs ( 5 - 10 , 14, and APH003 ) which exhibited high IRAK4 degradation ability (DC 50 ≤ 2 nM, DC 90 ≤ 10 nM, and D max ≥ 85%) in vitro . APH003 exhibited favorable PK parameters, low hERG inhibit",
-      "url": "https://europepmc.org/article/MED/42363007",
-      "date": "2026-06-26",
-      "source": "Europe PMC",
-      "authors": "Wu XW, Chen ZM, Gao C, Tian M, Liu XL, Wang H, Chen HJ, Li HX, Yang WQ, An LK.",
-      "modality": "Small Molecule",
-      "stage": "GLP tox / safety package",
-      "evidence": "Development-ready signal",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Preclinical Comparison of Two CD3xB7H4 Bispecific Antibodies for Solid Tumor Therapy Reveals CD3 Affinity-Dependent Potency and Tolerability Tradeoffs.",
-      "summary": "The immune checkpoint protein B7H4 is overexpressed in tumors compared to normal tissues, making it an attractive target for cancer immunotherapy. Here, we compare two B7H4-targeting CD3 bispecific antibodies (bsAbs) with different CD3 affinities across in vitro and in vivo characterization studies. In vitro, the CD3xB7H4 bsAb variant with higher CD3 affinity showed greater potency for tumor cell killing and cytokine secretion than the lower affinity variant. In nonclinical toxicology assessments in cynomolgus monkeys, the CD3xB7H4 bsAb variant with lower CD3 affinity induced less cytokine secretion and was tolerated at a higher maximum plasma concentration. Both CD3xB7H4 bsAbs demonstrated ",
-      "url": "https://europepmc.org/article/MED/42374845",
-      "date": "2026-06-30",
-      "source": "Europe PMC",
-      "authors": "Koopman LA, Alemdehy F, de Poot SAH, Paauwe M, Wang W, Epstein KR, van den Brink EN, Gorlani A, Verzijl D, Brandhorst M, Franken P, Smits-de Vries L, Gielen E, Plantinga TS, Houtkamp M, Engelberts PJ, Lihme Egerod F, Tha",
-      "modality": "Biologics",
-      "stage": "GLP tox / safety package",
-      "evidence": "Reproducible package",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Bispecific antibody AP402 targets p95HER2 and induces costimulation through CD137 to improve efficacy for HER2-positive tumors.",
-      "summary": "Background Outcomes for HER2-positive cancers have been greatly improved by trastuzumab and other HER2-targeted therapies. However, many tumors express a truncated p95HER2 variant that lacks the extracellular trastuzumab binding site. Since these tumors exhibit resistance and more aggressive disease phenotypes, the AP402 bispecific antibody was developed to target p95HER2 and engage activated T cells toward tumor cells via CD137 engagement. Methods AP402 was characterized in terms of binding, anti-tumor activity and safety using in vitro and in vivo models. Using p95HER2- and full-length HER2-expressing tumor cells, antibody-dependent cellular cytotoxicity (ADCC) assays were performed. AP402",
-      "url": "https://europepmc.org/article/MED/42443735",
-      "date": "2026-07-13",
-      "source": "Europe PMC",
-      "authors": "Huang PL, Hsieh HT, Kan HT, Hsu CH, Huang KM, Chen HY, Chen TN, You JJ.",
-      "modality": "Biologics",
-      "stage": "GLP tox / safety package",
-      "evidence": "Reproducible package",
-      "signal_class": "Major Development Signal",
-      "score": 78,
-      "finance": "Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path."
-    },
-    {
-      "title": "Innovative use of therapeutic antibodies in lung cancer: the current landscape of ADCs and other antibody-based therapies.",
-      "summary": "The therapeutic landscape for non-small cell lung cancer (NSCLC) and small cell lung cancer (SCLC) has been profoundly transformed by the advent of novel antibody therapies. These include antibody-drug conjugates (ADCs) and various novel iterations. Each therapy is at a different stage of clinical development, with several agents now approved for clinical use, others in late-stage trials, and a robust pipeline of preclinical candidates. This review will provide an overview of the antibody-based therapies, focusing on their molecular targets and clinical context in lung cancer and the future of this rapidly emerging field.",
-      "url": "https://europepmc.org/article/MED/42488115",
-      "date": "2026-07-08",
-      "source": "Europe PMC",
-      "authors": "Lee M, Lovly CM.",
-      "modality": "ADC / ATTC",
-      "stage": "Development candidate",
-      "evidence": "Early signal",
-      "signal_class": "Major Development Signal",
-      "score": 71,
-      "finance": "Expect spend to concentrate around the nominated asset: DMPK, tox, formulation/process development and IND-enabling work."
-    },
     {
       "title": "A Newly Designed Antibody-drug Conjugate Targeting B7-H3 Demonstrates Enhanced Therapeutic Efficacy Across a Spectrum of Cancers.",
       "summary": "Introduction The development of antibody-drug conjugates (ADCs) has accelerated due to their tumor-targeting precision. However, challenges in optimizing the target-linker-payload combination often lead to attrition from safety or efficacy issues, highlighting the need for ADCs with an improved therapeutic index. This study presents a newly designed B7-H3-targeted ADC, BR112, and demonstrates its superior preclinical efficacy across multiple models. Methods BR112 comprises a humanized anti-B7-H3 antibody (112-59) conjugated to the microtubule inhibitor MMAE via a Pyridazinedione-valine-citrulline-p-aminobenzyl (PD-VC-PAB) linker with a drug-to-antibody ratio (DAR) of 4.15. The binding affini",
