@@ -1,0 +1,427 @@
+{
+  "updated_at": "2026-08-13 06:26 UTC",
+  "tox_nhp": [
+    {
+      "title": "FDA: Monoclonal Antibodies — Streamlined Nonclinical Safety Studies",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/monoclonal-antibodies-streamlined-nonclinical-safety-studies",
+      "summary": "Draft guidance describes when long-term or additional animal toxicology studies may be reduced or unnecessary for certain monospecific monoclonal antibodies.",
+      "date": "2025-12-02",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "FDA: New Approach Methodologies (NAMs)",
+      "url": "https://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams",
+      "summary": "FDA hub for non-animal and human-relevant methods used to reduce, refine or replace traditional animal testing in drug development.",
+      "date": "2026",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Regulatory / design opportunity",
+      "impact": "Could reduce required animal use, study duration or total tox spend for eligible programs.",
+      "action": "Ask Nonclinical whether current tox design can use NAMs, fewer animals/species or a streamlined package before locking CRO scope."
+    },
+    {
+      "title": "FDA: Oncology Pharmaceuticals — Streamlined Nonclinical Safety Studies for Biologics and Conjugated Products",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/oncology-pharmaceuticals-streamlined-nonclinical-safety-studies-biologics-and-conjugated-products",
+      "summary": "Draft guidance describing streamlined nonclinical safety approaches for certain oncology biologics and conjugated products, including ways to reduce unnecessary animal studies.",
+      "date": "2026-05-29",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "China's pharma companies are facing a 'monkey problem' that they say is as tough as 'negotiating for an N - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMnpJdGRoMTdfb3Q5UjItUTRiT1Rza0EwS0xXczJINmlocXhCT21YaVlQRGpJblEtaGNUdm9OUnd4ejFXNmUwSHAzcUpVZVFSQzhJS1RSbVk1clpGZF9pMHBUbGFNa1M4dWdBSmI5blVnU3dxSjdMYTB0TTJNTDJuOGRBVGtIU3FxUzB2LWtUQU4zOTJWeVM3TTVuaUxlV3FfWEJndGFKdmFlRUhTUVNOTXhGbzhaV092Z3lwNXdSM28zRzlwX0pza3NCQ3VQVDhhNWRGcTh0b2JGWElLbXRyNWxJblNfSDIwVzFNeTVMY3dSZWdOU3FjeU9QZGQ0bnJoSXduaUJ2dXF1dnplZGYtLW8wMjVmSmxscDlDQjlPb9IBpAJBVV95cUxNZzduUUl5MXh3a29fZnRiRzJfYXZNODR2RkhxVjFmZFNUVHVIbWk2VWtfa2JwbGs1azg4ZlhYVUN5TlkyNnh6X2FlR1dwTk9iNmVsR3o4cmFlZjVyRTFJS21FYjFNOHpKeGVwT1dCRmIteWtNbFNIWC1jRVJYeURfZUdtLUFXMkxCNDZ1ZnJuQXE2SFBrM0s0QWZkeGI4N1g0ekNNMFE4NFZCd1oybjNpd2xNelBkM1pZYnQ3SU5OYk5RMVRvNWl0a2ZYdmttcHpBVG9GbmppM1ZkakVpQlpKZGhRU0pPeXZEM21uSkVsajRSc1V1WlR2eGRoLS1uNGdwUEFNMy1nVVRBUEMzYWthcGFaYTFuZjQ2aXNBRTZTaFFZWF9H?oc=5",
+      "summary": "China's pharma companies are facing a 'monkey problem' that they say is as tough as 'negotiating for an N &nbsp;&nbsp; The Times of India",
+      "date": "Fri, 07 Aug 2026 05:03:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Forget Nvidia chips, China's next big race is being slowed down by an unlikely rival: monkeys - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQlRGa1dYNURmWjNFNVpDZ0VLSHh5SXFKMjFoZWZ2eEhTZjE5SWVPNWFGY3RPN1lRazJTQmFTdkJKZDFGbmJyZEk5cGZMd3FsNU5yY0s0S2J0NTk5cWJ6eUlUbzhmWDEwc2pscHk5V2tMNDZEdm1OZC1RWkV1UWNzSXRlMF9mZE90NkhCUmpFMGh2SW1ocFpPYm9BVEtaanFRaFVsdl9BX1VPSWY5YnNGM1NSNDlST2VFNW1RY2VlN18zZW5YeXl2Q050SXVsMUlIQm81ZS1HYml4bzJCZUFKRUlCRXRpNlR1NllScGw2aEdaaFZiVUZxd2NJZWUwMk9DYkHSAYcCQVVfeXFMTzNzdm1LRXdqNWJnUWpzcUtibXQ3QXRDZUdCQjBWSG1wNFo2WEdzX0xYYnVKMUNBVHJaQmlweEc0UjNDNDJLLXF5eVh3NlR3UG1CRUxHaVI2YjAzWFN0TU8tX2hsRkZjVktlQ0tvNkpmTG5zYWpNc3J5dDBlbDY5dk1US0pmb1VkQl9pZE5WRFVuNXpzTEhhbUJzUGRuQnVUbHVhdko1U2FFdEhBc3BiWWphR2IySjA3aFp1WnVJY3ppUTA0cVR5TnUxZ0hVREoxMXhuZDROeUx0OU1YRzNZS3NIQm95ZkV6amRJRi1rbVgxT0UtR0s0d0kxNFg2YVEzQjJ2QUdkY28?oc=5",
+      "summary": "Forget Nvidia chips, China's next big race is being slowed down by an unlikely rival: monkeys &nbsp;&nbsp; The Economic Times",
+      "date": "Fri, 07 Aug 2026 07:50:54 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Lab monkey prices soar as China’s biotech boom fuels windfall for breeders - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTlUaThPSmxTRzlaS1hmcjk5eVJjUlRrcUp3TmZmNkNOY2JtUjNXWjE4Z0U2RW5ldjJ4MGlYcTFVNWt0Ry1IaTVUYWx0SUpFcDQ1MXNEeFZwY2lGOHVKcHlJSGFOajEwUlZhRFFNYk80d3RMcUltZTR4UXZIYS1Sakl3NjB0WDVjRDFrc1J0SHpkNkEzSnRLcTBiV3dNRFFiU0dJVEVTdTJFd3BULTVfTlJ5WTFaYVFIaTBj0gG7AUFVX3lxTE5lZjNoZGQ2cjJRS0VWVDU3RmhEODBlajZtY1VNSzhlYzFYVGlZOUtWY0pBN3NmNzE4LVRhLUhWc0R4ODVRWUp1ODBDM2FKRFRrZmhpampQT2RUcG84ZjBfNC1uTm9vdm16b085UkdEQzB4MHFiaGZfbkdFQlRYN3RkQW01b2k3bUkyYkNnZGVKRXlHNUxScTVwVFdYUGdtQlQ2Nmlwc0FzSzBFTnlBZW5LenRNdm9IR3M4VlE?oc=5",
+      "summary": "Lab monkey prices soar as China’s biotech boom fuels windfall for breeders &nbsp;&nbsp; South China Morning Post",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDhkMTZ2V0VENnM3emFyNGNPX3FHYUpmVjI3NW1fVHJyR1Q5VlZYYkh3a2VKb1BLeFNHVmhMQmU1VGJDREVmQzVXV085LTU3aFBOLWc1eTV1cFhHZHBjaXR5V0w1aGJGUUF1b1NvRlRnTlQwSnNaX1k5YncxSEJCblcwRTctekNyZ2FGLV80QWp2aWU3eEZYZEpxMHFBNTVPUldXY3lEV2E4bTNUdkpxR1dn?oc=5",
+      "summary": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech &nbsp;&nbsp; Bloomberg.com",
+      "date": "Wed, 05 Aug 2026 06:05:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Alpha Genesis Adds Rodent Studies, Creating an Integrated Rodent-to-Primate Preclinical Platform - Newswire.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamlYeG01Tk5LdUtILVlPUkRkSVAtVTlPbHZxSnZ2SVFhb2Q5UXV2aEhzay1uS2xDMWhLRnBxLVgzeVZnejRnV2pHVE1kOUFZLVltd3hEMWJnWVlURFU0d3pvX2JHa0pLN29xLVhRUmdpMDBjRGIwa1NZaE02bnVQVXlKS1RiYUIzZzRSOGt4M1JNdVVHdDR3QXhxQU0wNURkekh0N1ZZZw?oc=5",
+      "summary": "Alpha Genesis Adds Rodent Studies, Creating an Integrated Rodent-to-Primate Preclinical Platform &nbsp;&nbsp; Newswire.com",
+      "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmd0eWVURjdhaTBXR01rNlFRVGczQXpSTVFZRXZxTEg2Z2dJMzM5Q1FwcktQRW9WX1M4Z05fcGwtQU0tOE1oT05IUE1HS2ZBYmV3UG9DU1VkREhuM0dwZTdtQjB5LTJUVGVSSHpLMzE4bnBtVHF1dGtHcnNHLUhFb05mYnBBWGZEdWZkU3l1ZmdCQjVJZHNfN0ZEcXVHWGdDRmFyZTl2bGViaGJmSW9UZXVPYUxpZm1ta1JpQmNB?oc=5",
+      "summary": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques &nbsp;&nbsp; Fierce Biotech",
+      "date": "Wed, 12 Aug 2026 08:30:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    }
+  ],
+  "cdx": [
+    {
+      "title": "FDA: Companion Diagnostics",
+      "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/companion-diagnostics",
+      "summary": "FDA overview and guidance links for companion diagnostic co-development, oncology IVD pilot work and approved CDx devices.",
+      "date": "Current",
+      "source": "FDA",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA-Approved PTEN Companion Diagnostic Becomes Available for Prostate Cancer Patients - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUVKck92dGk4Vko4SnFCNm1majUzZG1yVVlGMmRJcDJRc3ozOWpjN2dCRWtFczN4RHdEczV4ZWxCdEZNNVg1THNpSW9TSEt5Vk1NN1o0YVM5aDk2VTk4NTVIYXNoUl9SUG1mamU5Y040cTN1TFVSTWl4TXhHOUlGUHlud1hKU3ZCb3RkY0xvV1dna21mOWo0dVJWTEVUZWxqTkhDQXdoNlZTdDV1Q3c?oc=5",
+      "summary": "FDA-Approved PTEN Companion Diagnostic Becomes Available for Prostate Cancer Patients &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "16th World Clinical Biomarkers & CDx Summit - pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NjlqZ0FXUUpWMzRxYlAwejBEZW95a19CMDViVkJ2SlZ5WDFPTUh3TmMyd1UtYVRzUzBMVWxWWkpaSEZYMmRyS3lLS3REUGVPMGtzUS1GaXpOa2k4MHA4T0ZuYlhKZGdzQkhsUjJibjZZUHFfajVjeWgwek8?oc=5",
+      "summary": "16th World Clinical Biomarkers & CDx Summit &nbsp;&nbsp; pharmaphorum.com",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "FDA OKs Updated Guardant360 Liquid CDx with Expanded Molecular Profiling - CancerNetwork",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllNZG83RWNMbWtDNFdYalcyNVZGRm4weGZHTHQ5ODk2ZUFQejM4ZVVVcU05UnF1RjRvTmhVYWNFblBOTjZrdXRmdEhuc2NVbnlRT05sNXB5VHlPb2JYYnNvU0FlbWhGQjgxMFNnbGxzWnFUT2thYTUySUs0TERsSXVzd08yRlh4amxXSUplOUtDbmQ2NGpnR0dR?oc=5",
+      "summary": "FDA OKs Updated Guardant360 Liquid CDx with Expanded Molecular Profiling &nbsp;&nbsp; CancerNetwork",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves Companion Diagnostic to Identify NSCLC Patients Eligible for Tepmetko - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm9MMnJOaDBvNkU5Z2NHUk05cGIwSEVGa3BOSGREMmVxS0tLdzVGdnFtVUJQMkZOVGJmOVdwcG1oelpSTlJpdm53M3ZJSGU5c05nQU9UMGRxUXVrd1hNYXlpRGlGbHpIanlfREhzNklyMGZ4UUxuVW9rQTd4TGkweW1PTk1BaGhocFVpbzVJcFY4N2ZROVhoYkNrT2pIUGpzdko2bmVIVlZpQmVSbjI2b0lWdGlPSHZXZDBTa3JXa0Zoc2JOVVpVOA?oc=5",
+      "summary": "FDA Approves Companion Diagnostic to Identify NSCLC Patients Eligible for Tepmetko &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves FoundationOne CDx as Companion Diagnostic for TEPMETKO in METex14 NSCLC - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14eVdfa1NMQngtRTg2eXB5QnI0bC1iZWpkd18waGhvNHJNSWlJeHNvd1R1N18ydHVuM2p1WWRISHRpTGtCT00wdUxiWERGYlE5STdWR0hhbGxURjJ5bGxST19LNGRvdDlkU3J1OEhTX2VXU1E?oc=5",
+      "summary": "FDA Approves FoundationOne CDx as Companion Diagnostic for TEPMETKO in METex14 NSCLC &nbsp;&nbsp; Oncodaily",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "Leica Biosystems and CellCarta Expand Collaborative Companion Diagnostic Development Model to Accelerate Commercialization Globally - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWXB0cTRfV2gzZmQxeDVJdE9VLTI3YUsyM2dQM3ZkY1gtRU90QkhhTkFveXZXSWUyRTdEMzcxXzhsLUdzN2tJR2pKUlpGR1M1dl95UjZEb0lETTFUVG1zay0xNnRjT1ZmYkpCNFJYbHlpVjFaRzBIUWFJZ0x1b20xNGh1NGlfN0FBV3h2T3JiVDNnUkpCbjV1NXh3aTItOUdCRHdra1Q2NDhrNFpPLU80RmdFOEhhaWVLVF9YWnFQajJRdUVkM1N0RTJEN2RSbXRGTXRZNWRKRkZjQ21lUTJQR0lRZ1NWWUV4eDhQVEhGcmpQRzZpVzJ5X0VCblVjZUR4WGNlOXNsVnVJVmhpUmlTb2ZxV0dFZw?oc=5",
+      "summary": "Leica Biosystems and CellCarta Expand Collaborative Companion Diagnostic Development Model to Accelerate Commercialization Globally &nbsp;&nbsp; PR Newswire",
+      "date": "Fri, 29 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "US FDA Approves FoundationOne®CDx and FoundationOne®Liquid CDx as Companion Diagnostics for TALZENNA® (talazoparib) in Combination with XTANDI® (enzalutamide) to Identify Patients with HRR Gene-Mutated Metastatic Castration-Resistant Pro - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYWltZktGWlhfUXNOelBkYnpFdGNoMWRRTUNRX0J5a1hLSlNvY0tHckNGOWxNY29nYmluYV9KNTVpZW5pNTUwaTVlTi1ka0VTbnhhMkVXTWNaMTRYYjJYOUZWcDR3a0VWbXR0eEwyWTVXRk1WdktrQVBGd2QxRU9GYTV6YUhfeU56YVM4WGt3V0pKVGZEc0xweDZ5VWpUN25NOVZkRzd1WjNZN2FjekwtenRXQWdlOXJLWl9pTEZMVmRNWnFOTXZHVEJNcDZWcENkM1JNU3dHbjFPZXlmYldoVjNZRHdyT2hhOWl2X3ZadWhxSktBNnNOam1LS01VNHc5YXpSNEpvTEdubmc4Z1BMajRuWGwzNHo0VktCaWV5c3dKY0RBdFNwZTh5emFVZUxobDl4WHpieDAySEhObTg3LUdLZWFoMnBRV2xFc2FtOWVQdW1Odl9sWDU5MGVKNExaUkF5X2NzbENXaXozTE5VSHJ2ZUROLW9uREFWczdJMnQxX0ZTakRrc0wxanFqeDliUnczUjJYTzhNZ3lLV2lDRXFNdHVtV3pKX2c?oc=5",
+      "summary": "US FDA Approves FoundationOne®CDx and FoundationOne®Liquid CDx as Companion Diagnostics for TALZENNA® (talazoparib) in Combination with XTANDI® (enzalutamide) to Identify Patients with HRR Gene-Mutated Metastatic Castration-Resistant Pro &nbsp;&nbsp; Business Wire",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves New Companion Diagnostics for Prostate Cancer Treatment - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERHUW40U00yeUxIY05uQkVVcEdrWnlwZVZoZnJrYy1qRkRNSTd5OW1YWmZDMklOUWRkb1dWVWVwYmxZYllZZmk3YWpKR2ktdW84ZmNud3kzSnNaZlJmMWhGX3p1ZFpUbllnTXZrYzM4cHhQUXkwX25jUVdyMl9BdXZZZTJRWUNPNGNORVVuMXdXd0ZuclcxTmM4cVpoRVA1b001ZlE0Yjc4ZDhMN3paVmdDWjJBZw?oc=5",
+      "summary": "FDA Approves New Companion Diagnostics for Prostate Cancer Treatment &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
+      "summary": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 10 Aug 2026 11:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    }
+  ],
+  "items": [
+    {
+      "title": "FDA: Monoclonal Antibodies — Streamlined Nonclinical Safety Studies",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/monoclonal-antibodies-streamlined-nonclinical-safety-studies",
+      "summary": "Draft guidance describes when long-term or additional animal toxicology studies may be reduced or unnecessary for certain monospecific monoclonal antibodies.",
+      "date": "2025-12-02",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "FDA: New Approach Methodologies (NAMs)",
+      "url": "https://www.fda.gov/science-research/science-and-research-special-topics/new-approach-methodologies-nams",
+      "summary": "FDA hub for non-animal and human-relevant methods used to reduce, refine or replace traditional animal testing in drug development.",
+      "date": "2026",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Regulatory / design opportunity",
+      "impact": "Could reduce required animal use, study duration or total tox spend for eligible programs.",
+      "action": "Ask Nonclinical whether current tox design can use NAMs, fewer animals/species or a streamlined package before locking CRO scope."
+    },
+    {
+      "title": "FDA: Oncology Pharmaceuticals — Streamlined Nonclinical Safety Studies for Biologics and Conjugated Products",
+      "url": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/oncology-pharmaceuticals-streamlined-nonclinical-safety-studies-biologics-and-conjugated-products",
+      "summary": "Draft guidance describing streamlined nonclinical safety approaches for certain oncology biologics and conjugated products, including ways to reduce unnecessary animal studies.",
+      "date": "2026-05-29",
+      "source": "FDA",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "China's pharma companies are facing a 'monkey problem' that they say is as tough as 'negotiating for an N - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOMnpJdGRoMTdfb3Q5UjItUTRiT1Rza0EwS0xXczJINmlocXhCT21YaVlQRGpJblEtaGNUdm9OUnd4ejFXNmUwSHAzcUpVZVFSQzhJS1RSbVk1clpGZF9pMHBUbGFNa1M4dWdBSmI5blVnU3dxSjdMYTB0TTJNTDJuOGRBVGtIU3FxUzB2LWtUQU4zOTJWeVM3TTVuaUxlV3FfWEJndGFKdmFlRUhTUVNOTXhGbzhaV092Z3lwNXdSM28zRzlwX0pza3NCQ3VQVDhhNWRGcTh0b2JGWElLbXRyNWxJblNfSDIwVzFNeTVMY3dSZWdOU3FjeU9QZGQ0bnJoSXduaUJ2dXF1dnplZGYtLW8wMjVmSmxscDlDQjlPb9IBpAJBVV95cUxNZzduUUl5MXh3a29fZnRiRzJfYXZNODR2RkhxVjFmZFNUVHVIbWk2VWtfa2JwbGs1azg4ZlhYVUN5TlkyNnh6X2FlR1dwTk9iNmVsR3o4cmFlZjVyRTFJS21FYjFNOHpKeGVwT1dCRmIteWtNbFNIWC1jRVJYeURfZUdtLUFXMkxCNDZ1ZnJuQXE2SFBrM0s0QWZkeGI4N1g0ekNNMFE4NFZCd1oybjNpd2xNelBkM1pZYnQ3SU5OYk5RMVRvNWl0a2ZYdmttcHpBVG9GbmppM1ZkakVpQlpKZGhRU0pPeXZEM21uSkVsajRSc1V1WlR2eGRoLS1uNGdwUEFNMy1nVVRBUEMzYWthcGFaYTFuZjQ2aXNBRTZTaFFZWF9H?oc=5",
+      "summary": "China's pharma companies are facing a 'monkey problem' that they say is as tough as 'negotiating for an N &nbsp;&nbsp; The Times of India",
+      "date": "Fri, 07 Aug 2026 05:03:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Forget Nvidia chips, China's next big race is being slowed down by an unlikely rival: monkeys - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQlRGa1dYNURmWjNFNVpDZ0VLSHh5SXFKMjFoZWZ2eEhTZjE5SWVPNWFGY3RPN1lRazJTQmFTdkJKZDFGbmJyZEk5cGZMd3FsNU5yY0s0S2J0NTk5cWJ6eUlUbzhmWDEwc2pscHk5V2tMNDZEdm1OZC1RWkV1UWNzSXRlMF9mZE90NkhCUmpFMGh2SW1ocFpPYm9BVEtaanFRaFVsdl9BX1VPSWY5YnNGM1NSNDlST2VFNW1RY2VlN18zZW5YeXl2Q050SXVsMUlIQm81ZS1HYml4bzJCZUFKRUlCRXRpNlR1NllScGw2aEdaaFZiVUZxd2NJZWUwMk9DYkHSAYcCQVVfeXFMTzNzdm1LRXdqNWJnUWpzcUtibXQ3QXRDZUdCQjBWSG1wNFo2WEdzX0xYYnVKMUNBVHJaQmlweEc0UjNDNDJLLXF5eVh3NlR3UG1CRUxHaVI2YjAzWFN0TU8tX2hsRkZjVktlQ0tvNkpmTG5zYWpNc3J5dDBlbDY5dk1US0pmb1VkQl9pZE5WRFVuNXpzTEhhbUJzUGRuQnVUbHVhdko1U2FFdEhBc3BiWWphR2IySjA3aFp1WnVJY3ppUTA0cVR5TnUxZ0hVREoxMXhuZDROeUx0OU1YRzNZS3NIQm95ZkV6amRJRi1rbVgxT0UtR0s0d0kxNFg2YVEzQjJ2QUdkY28?oc=5",
+      "summary": "Forget Nvidia chips, China's next big race is being slowed down by an unlikely rival: monkeys &nbsp;&nbsp; The Economic Times",
+      "date": "Fri, 07 Aug 2026 07:50:54 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Lab monkey prices soar as China’s biotech boom fuels windfall for breeders - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTlUaThPSmxTRzlaS1hmcjk5eVJjUlRrcUp3TmZmNkNOY2JtUjNXWjE4Z0U2RW5ldjJ4MGlYcTFVNWt0Ry1IaTVUYWx0SUpFcDQ1MXNEeFZwY2lGOHVKcHlJSGFOajEwUlZhRFFNYk80d3RMcUltZTR4UXZIYS1Sakl3NjB0WDVjRDFrc1J0SHpkNkEzSnRLcTBiV3dNRFFiU0dJVEVTdTJFd3BULTVfTlJ5WTFaYVFIaTBj0gG7AUFVX3lxTE5lZjNoZGQ2cjJRS0VWVDU3RmhEODBlajZtY1VNSzhlYzFYVGlZOUtWY0pBN3NmNzE4LVRhLUhWc0R4ODVRWUp1ODBDM2FKRFRrZmhpampQT2RUcG84ZjBfNC1uTm9vdm16b085UkdEQzB4MHFiaGZfbkdFQlRYN3RkQW01b2k3bUkyYkNnZGVKRXlHNUxScTVwVFdYUGdtQlQ2Nmlwc0FzSzBFTnlBZW5LenRNdm9IR3M4VlE?oc=5",
+      "summary": "Lab monkey prices soar as China’s biotech boom fuels windfall for breeders &nbsp;&nbsp; South China Morning Post",
+      "date": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDhkMTZ2V0VENnM3emFyNGNPX3FHYUpmVjI3NW1fVHJyR1Q5VlZYYkh3a2VKb1BLeFNHVmhMQmU1VGJDREVmQzVXV085LTU3aFBOLWc1eTV1cFhHZHBjaXR5V0w1aGJGUUF1b1NvRlRnTlQwSnNaX1k5YncxSEJCblcwRTctekNyZ2FGLV80QWp2aWU3eEZYZEpxMHFBNTVPUldXY3lEV2E4bTNUdkpxR1dn?oc=5",
+      "summary": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech &nbsp;&nbsp; Bloomberg.com",
+      "date": "Wed, 05 Aug 2026 06:05:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "Alpha Genesis Adds Rodent Studies, Creating an Integrated Rodent-to-Primate Preclinical Platform - Newswire.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamlYeG01Tk5LdUtILVlPUkRkSVAtVTlPbHZxSnZ2SVFhb2Q5UXV2aEhzay1uS2xDMWhLRnBxLVgzeVZnejRnV2pHVE1kOUFZLVltd3hEMWJnWVlURFU0d3pvX2JHa0pLN29xLVhRUmdpMDBjRGIwa1NZaE02bnVQVXlKS1RiYUIzZzRSOGt4M1JNdVVHdDR3QXhxQU0wNURkekh0N1ZZZw?oc=5",
+      "summary": "Alpha Genesis Adds Rodent Studies, Creating an Integrated Rodent-to-Primate Preclinical Platform &nbsp;&nbsp; Newswire.com",
+      "date": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques - Fierce Biotech",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmd0eWVURjdhaTBXR01rNlFRVGczQXpSTVFZRXZxTEg2Z2dJMzM5Q1FwcktQRW9WX1M4Z05fcGwtQU0tOE1oT05IUE1HS2ZBYmV3UG9DU1VkREhuM0dwZTdtQjB5LTJUVGVSSHpLMzE4bnBtVHF1dGtHcnNHLUhFb05mYnBBWGZEdWZkU3l1ZmdCQjVJZHNfN0ZEcXVHWGdDRmFyZTl2bGViaGJmSW9UZXVPYUxpZm1ta1JpQmNB?oc=5",
+      "summary": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques &nbsp;&nbsp; Fierce Biotech",
+      "date": "Wed, 12 Aug 2026 08:30:00 GMT",
+      "source": "Google News",
+      "lane": "Tox / NHP Cost & Capacity",
+      "signal": "Cost / capacity pressure",
+      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
+      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
+    },
+    {
+      "title": "FDA: Companion Diagnostics",
+      "url": "https://www.fda.gov/medical-devices/in-vitro-diagnostics/companion-diagnostics",
+      "summary": "FDA overview and guidance links for companion diagnostic co-development, oncology IVD pilot work and approved CDx devices.",
+      "date": "Current",
+      "source": "FDA",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA-Approved PTEN Companion Diagnostic Becomes Available for Prostate Cancer Patients - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUVKck92dGk4Vko4SnFCNm1majUzZG1yVVlGMmRJcDJRc3ozOWpjN2dCRWtFczN4RHdEczV4ZWxCdEZNNVg1THNpSW9TSEt5Vk1NN1o0YVM5aDk2VTk4NTVIYXNoUl9SUG1mamU5Y040cTN1TFVSTWl4TXhHOUlGUHlud1hKU3ZCb3RkY0xvV1dna21mOWo0dVJWTEVUZWxqTkhDQXdoNlZTdDV1Q3c?oc=5",
+      "summary": "FDA-Approved PTEN Companion Diagnostic Becomes Available for Prostate Cancer Patients &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "16th World Clinical Biomarkers & CDx Summit - pharmaphorum.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02NjlqZ0FXUUpWMzRxYlAwejBEZW95a19CMDViVkJ2SlZ5WDFPTUh3TmMyd1UtYVRzUzBMVWxWWkpaSEZYMmRyS3lLS3REUGVPMGtzUS1GaXpOa2k4MHA4T0ZuYlhKZGdzQkhsUjJibjZZUHFfajVjeWgwek8?oc=5",
+      "summary": "16th World Clinical Biomarkers & CDx Summit &nbsp;&nbsp; pharmaphorum.com",
+      "date": "Fri, 12 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "FDA OKs Updated Guardant360 Liquid CDx with Expanded Molecular Profiling - CancerNetwork",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWllNZG83RWNMbWtDNFdYalcyNVZGRm4weGZHTHQ5ODk2ZUFQejM4ZVVVcU05UnF1RjRvTmhVYWNFblBOTjZrdXRmdEhuc2NVbnlRT05sNXB5VHlPb2JYYnNvU0FlbWhGQjgxMFNnbGxzWnFUT2thYTUySUs0TERsSXVzd08yRlh4amxXSUplOUtDbmQ2NGpnR0dR?oc=5",
+      "summary": "FDA OKs Updated Guardant360 Liquid CDx with Expanded Molecular Profiling &nbsp;&nbsp; CancerNetwork",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves Companion Diagnostic to Identify NSCLC Patients Eligible for Tepmetko - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRm9MMnJOaDBvNkU5Z2NHUk05cGIwSEVGa3BOSGREMmVxS0tLdzVGdnFtVUJQMkZOVGJmOVdwcG1oelpSTlJpdm53M3ZJSGU5c05nQU9UMGRxUXVrd1hNYXlpRGlGbHpIanlfREhzNklyMGZ4UUxuVW9rQTd4TGkweW1PTk1BaGhocFVpbzVJcFY4N2ZROVhoYkNrT2pIUGpzdko2bmVIVlZpQmVSbjI2b0lWdGlPSHZXZDBTa3JXa0Zoc2JOVVpVOA?oc=5",
+      "summary": "FDA Approves Companion Diagnostic to Identify NSCLC Patients Eligible for Tepmetko &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves FoundationOne CDx as Companion Diagnostic for TEPMETKO in METex14 NSCLC - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14eVdfa1NMQngtRTg2eXB5QnI0bC1iZWpkd18waGhvNHJNSWlJeHNvd1R1N18ydHVuM2p1WWRISHRpTGtCT00wdUxiWERGYlE5STdWR0hhbGxURjJ5bGxST19LNGRvdDlkU3J1OEhTX2VXU1E?oc=5",
+      "summary": "FDA Approves FoundationOne CDx as Companion Diagnostic for TEPMETKO in METex14 NSCLC &nbsp;&nbsp; Oncodaily",
+      "date": "Fri, 22 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "Leica Biosystems and CellCarta Expand Collaborative Companion Diagnostic Development Model to Accelerate Commercialization Globally - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWXB0cTRfV2gzZmQxeDVJdE9VLTI3YUsyM2dQM3ZkY1gtRU90QkhhTkFveXZXSWUyRTdEMzcxXzhsLUdzN2tJR2pKUlpGR1M1dl95UjZEb0lETTFUVG1zay0xNnRjT1ZmYkpCNFJYbHlpVjFaRzBIUWFJZ0x1b20xNGh1NGlfN0FBV3h2T3JiVDNnUkpCbjV1NXh3aTItOUdCRHdra1Q2NDhrNFpPLU80RmdFOEhhaWVLVF9YWnFQajJRdUVkM1N0RTJEN2RSbXRGTXRZNWRKRkZjQ21lUTJQR0lRZ1NWWUV4eDhQVEhGcmpQRzZpVzJ5X0VCblVjZUR4WGNlOXNsVnVJVmhpUmlTb2ZxV0dFZw?oc=5",
+      "summary": "Leica Biosystems and CellCarta Expand Collaborative Companion Diagnostic Development Model to Accelerate Commercialization Globally &nbsp;&nbsp; PR Newswire",
+      "date": "Fri, 29 May 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "US FDA Approves FoundationOne®CDx and FoundationOne®Liquid CDx as Companion Diagnostics for TALZENNA® (talazoparib) in Combination with XTANDI® (enzalutamide) to Identify Patients with HRR Gene-Mutated Metastatic Castration-Resistant Pro - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOYWltZktGWlhfUXNOelBkYnpFdGNoMWRRTUNRX0J5a1hLSlNvY0tHckNGOWxNY29nYmluYV9KNTVpZW5pNTUwaTVlTi1ka0VTbnhhMkVXTWNaMTRYYjJYOUZWcDR3a0VWbXR0eEwyWTVXRk1WdktrQVBGd2QxRU9GYTV6YUhfeU56YVM4WGt3V0pKVGZEc0xweDZ5VWpUN25NOVZkRzd1WjNZN2FjekwtenRXQWdlOXJLWl9pTEZMVmRNWnFOTXZHVEJNcDZWcENkM1JNU3dHbjFPZXlmYldoVjNZRHdyT2hhOWl2X3ZadWhxSktBNnNOam1LS01VNHc5YXpSNEpvTEdubmc4Z1BMajRuWGwzNHo0VktCaWV5c3dKY0RBdFNwZTh5emFVZUxobDl4WHpieDAySEhObTg3LUdLZWFoMnBRV2xFc2FtOWVQdW1Odl9sWDU5MGVKNExaUkF5X2NzbENXaXozTE5VSHJ2ZUROLW9uREFWczdJMnQxX0ZTakRrc0wxanFqeDliUnczUjJYTzhNZ3lLV2lDRXFNdHVtV3pKX2c?oc=5",
+      "summary": "US FDA Approves FoundationOne®CDx and FoundationOne®Liquid CDx as Companion Diagnostics for TALZENNA® (talazoparib) in Combination with XTANDI® (enzalutamide) to Identify Patients with HRR Gene-Mutated Metastatic Castration-Resistant Pro &nbsp;&nbsp; Business Wire",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "FDA Approves New Companion Diagnostics for Prostate Cancer Treatment - Clinical Lab Products",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERHUW40U00yeUxIY05uQkVVcEdrWnlwZVZoZnJrYy1qRkRNSTd5OW1YWmZDMklOUWRkb1dWVWVwYmxZYllZZmk3YWpKR2ktdW84ZmNud3kzSnNaZlJmMWhGX3p1ZFpUbllnTXZrYzM4cHhQUXkwX25jUVdyMl9BdXZZZTJRWUNPNGNORVVuMXdXd0ZuclcxTmM4cVpoRVA1b001ZlE0Yjc4ZDhMN3paVmdDWjJBZw?oc=5",
+      "summary": "FDA Approves New Companion Diagnostics for Prostate Cancer Treatment &nbsp;&nbsp; Clinical Lab Products",
+      "date": "Mon, 01 Jun 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    },
+    {
+      "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
+      "summary": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 10 Aug 2026 11:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Regulatory change",
+      "impact": "May change CDx evidence, timing, vendor scope or co-development requirements.",
+      "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
+    }
+  ]
+}
