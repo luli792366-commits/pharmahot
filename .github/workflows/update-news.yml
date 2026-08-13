@@ -6,6 +6,7 @@ on:
     paths:
       - 'scripts/update_news.py'
       - 'scripts/update_preclinical.py'
+      - 'scripts/update_cost_regulatory.py'
       - '.github/workflows/update-news.yml'
   schedule:
     # Every Monday 00:17 UTC = Monday 08:17 China Standard Time
@@ -31,11 +32,13 @@ jobs:
         run: python scripts/update_news.py
       - name: Aggregate preclinical and discovery feeds
         run: python scripts/update_preclinical.py
+      - name: Aggregate discovery cost and regulatory watch
+        run: python scripts/update_cost_regulatory.py
       - name: Commit weekly update and history
         run: |
           git config user.name "pharmahot-bot"
           git config user.email "pharmahot-bot@users.noreply.github.com"
-          git add data/news.json data/preclinical.json data/archive/
+          git add data/news.json data/preclinical.json data/cost-regulatory.json data/archive/
           git diff --cached --quiet || git commit -m "chore: weekly PharmaHot update"
           git push
       - name: Configure GitHub Pages
