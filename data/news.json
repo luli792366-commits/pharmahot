@@ -1,1 +1,365 @@
-{"updated_at":"2026-08-10 · 具体事件版","items":[{"title":"FDA加速批准Replimune溶瘤病毒Tudriqev联合nivolumab用于PD-1治疗后进展黑色素瘤","summary":"2026年8月6日，FDA加速批准vusolimogene oderparepvec-wtpg（Tudriqev）联合nivolumab，用于既往接受PD-1阻断治疗后进展的不可切除晚期皮肤黑色素瘤。IGNYTE研究中，ORR为24.2%，中位DoR为14.1个月；后续仍需确证性试验验证临床获益。","category":"Regulatory","region":"Global","tags":["Oncology","PD1","Melanoma","Oncolytic virus"],"date":"2026-08-06","score":99,"why":"典型的加速批准案例：商业化可以提前，但确证性试验继续消耗临床预算；Finance需要同时看上市后收入准备与confirmatory trial的持续投入。","sources":[{"name":"FDA具体批准公告","url":"https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-accelerated-approval-vusolimogene-oderparepvec-wtpg-combination-nivolumab-melanoma"}]},{"title":"FDA批准Pluvicto前移至PSMA阳性转移性激素敏感前列腺癌","summary":"2026年7月31日，FDA批准Novartis的Pluvicto（177Lu-PSMA-617）联合雄激素受体通路抑制剂用于PSMA阳性转移性雄激素通路调节初治/敏感前列腺癌。PSMAddition研究显示rPFS显著改善，HR为0.72，OS数据尚未成熟。","category":"Regulatory","region":"Global","tags":["Oncology","Radiopharma","Prostate cancer","PSMA"],"date":"2026-07-31","score":98,"why":"放射性配体治疗向更早线次前移，会放大同位素供应、生产排程、医院交付和专用产能需求，Capex/供应链含义比普通小分子更强。","sources":[{"name":"FDA具体批准公告","url":"https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-lutetium-lu-177-vipivotide-tetraxetan-androgen-receptor-pathway-inhibitor-therapy"}]},{"title":"CORE Biomedicine完成2100万美元A轮融资，推进肿瘤精准治疗平台","summary":"2026年7月28日，CORE Biomedicine宣布完成2100万美元Series A融资，并获得AMED资助，用于推进基于肿瘤谱系的精准肿瘤治疗项目。投资方覆盖日本、中国与全球生命科学基金。","category":"Financing","region":"Global","tags":["Oncology","Financing"],"date":"2026-07-28","score":91,"why":"早期Biotech融资应结合cash runway与下一个临床/IND节点看，而不是只看融资金额。A轮资金通常直接映射IND-enabling、CMC和早期临床准备。","sources":[{"name":"CORE Biomedicine融资公告","url":"https://www.prnewswire.com/news-releases/core-biomedicine-secures-21-million-series-a-venture-financing-and-receives-amed-grant-award-to-advance-novel-cancer-therapeutics-302836054.html"}]},{"title":"FDA批准zidesamtinib用于既往ROS1 TKI治疗后的ROS1阳性NSCLC","summary":"2026年7月22日，FDA批准Nuvalent的zidesamtinib（Jideytro）用于既往接受至少一种ROS1 TKI的局晚或转移性ROS1阳性NSCLC。ARROS-1中总体ORR为44%，69%的应答者DoR达到至少12个月。","category":"Regulatory","region":"Global","tags":["Oncology","NSCLC","ROS1","Targeted therapy"],"date":"2026-07-22","score":97,"why":"精准靶向药在耐药后线别获得明确定位，会影响同靶点竞品的患者招募、商业峰值和继续开发的机会成本。","sources":[{"name":"FDA具体批准公告","url":"https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-zidesamtinib-ros1-positive-non-small-cell-lung-cancer"}]},{"title":"Tikva完成800万美元A轮融资，B7-H3异体CAR-T计划年底申报IND","summary":"2026年7月22日，Tikva Allocell完成800万美元Series A融资，资金用于TAVST01的IND-enabling工作及计划中的2026年末IND申报。TAVST01是一款面向B7-H3阳性实体瘤的现货型异体CAR-T。","category":"Financing","region":"Global","tags":["Oncology","CAR-T","B7-H3","Financing"],"date":"2026-07-22","score":90,"why":"融资与明确IND节点直接绑定，是判断资金效率的好案例：Finance可倒推出单项目IND-enabling、CMC和首临床批次的资本需求。","sources":[{"name":"Tikva融资公告","url":"https://www.prnewswire.com/apac/news-releases/tikva-allocell-closes-8-million-series-a-financing-to-advance-engineered-ebv-specific-t-cell-therapy-for-solid-tumors-302831515.html"}]},{"title":"Radiopharm公布PD-L1靶向放射性药RAD204早期临床缓解信号","summary":"2026年7月22日，Radiopharm Theranostics公布RAD204 Phase 1更新：当前最高剂量组首例患者出现RECIST确认的持久部分缓解，进展无事件超过7个月；第二例患者也观察到早期缩瘤。","category":"Clinical","region":"Global","tags":["Oncology","PDL1","Radiopharma","Phase 1"],"date":"2026-07-22","score":92,"why":"Phase 1单/少数患者信号不能等同于PoC，但足以触发剂量扩展、更多中心和制造投入；预算追加前要看样本量、持续性和后续队列设计。","sources":[{"name":"Radiopharm临床更新","url":"https://www.globenewswire.com/news-release/2026/07/22/3331243/0/en/radiopharm-theranostics-achieves-confirmed-durable-partial-response-in-ongoing-phase-1-trial-of-rad204-in-patients-with-advanced-solid-tumors-post-immunotherapy.html"}]},{"title":"Oncolytics的pelareorep获FDA Fast Track，用于二线及以后肛管癌","summary":"2026年7月20日，FDA授予pelareorep联合检查点抑制剂Fast Track资格，用于既往系统治疗后进展或不耐受的不可手术局部复发/转移性肛管鳞癌。","category":"Regulatory","region":"Global","tags":["Oncology","Immunotherapy","Fast Track"],"date":"2026-07-20","score":89,"why":"Fast Track本身不是批准，但会提高监管互动频率并可能缩短开发路径；对Finance意味着注册支持、临床和商业准备可能提前。","sources":[{"name":"Oncolytics具体公告","url":"https://www.globenewswire.com/news-release/2026/07/20/3329774/0/en/Oncolytics-Biotech-Receives-Fast-Track-Designation-for-Pelareorep-in-Second-Line-and-Later-Anal-Cancer.html"}]},{"title":"Erasca完成约6.33亿美元增发，为RAS/MAPK精准肿瘤管线补充现金","summary":"2026年7月15日，Erasca完成扩大发行，共出售约3614万股，发行价17.50美元，募资总额约6.325亿美元。公司专注RAS/MAPK驱动肿瘤。","category":"Financing","region":"Global","tags":["Oncology","RAS","Financing"],"date":"2026-07-15","score":93,"why":"大额融资通常意味着公司有能力把多个临床里程碑拉长到更远。Finance BP可关注融资后R&D burn是否同步抬升，以及cash runway是否覆盖关键readout。","sources":[{"name":"Erasca发行完成公告","url":"https://www.biospace.com/press-releases/erasca-announces-closing-of-upsized-public-offering-of-common-stock-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-july-15-2026"}]},{"title":"Antengene收到UCB 6000万美元首付款，ATG-201全球授权开始兑现现金流","summary":"2026年7月13日，Antengene宣布已收到UCB支付的6000万美元upfront，源于双方2026年3月签署的ATG-201全球独家授权协议。ATG-201为CD19/CD3双特异T-cell engager。","category":"BD/M&A","region":"China","tags":["BD","TCE","Bispecific","China Biotech"],"date":"2026-07-13","score":96,"why":"这是Finance BP非常典型的BD现金流案例：签约headline value与真正到账现金不同，upfront到账时间、会计确认和后续里程碑概率要分开看。","sources":[{"name":"Antengene具体公告","url":"https://www.prnewswire.com/apac/news-releases/antengene-announces-receipt-of-usd-60-million-upfront-payment-from-ucb-302823511.html"}]},{"title":"Leads Biolabs的PD-L1/4-1BB双抗LBL-024纳入CDE优先审评","summary":"2026年7月10日，Leads Biolabs宣布LBL-024（opamtistomig）针对经多线治疗后进展的晚期肺外神经内分泌癌BLA被CDE纳入优先审评。该药为PD-L1/4-1BB双特异抗体。","category":"Regulatory","region":"China","tags":["Oncology","PDL1","Bispecific","China"],"date":"2026-07-10","score":95,"why":"BLA进入优先审评后，商业化准备、医学事务、供应和注册支持通常会加速，相关支出可能从‘未来’前移到当年。","sources":[{"name":"Leads Biolabs具体公告","url":"https://www.prnewswire.com/news-releases/priority-review-granted-to-pd-l14-1bb-bispecific-antibody-opamtistomig-accelerating-commercialization-and-addressing-unmet-need-in-ep-nec-302822659.html"}]},{"title":"科济药业Claudin18.2 CAR-T获NMPA批准，成为全球首款实体瘤CAR-T获批产品","summary":"2026年6月22日，科济药业宣布Claudin18.2自体CAR-T舒瑞基奥仑赛获NMPA批准，用于CLDN18.2阳性、HER2阴性且至少二线治疗失败的晚期胃/胃食管结合部腺癌。","category":"Regulatory","region":"China","tags":["Oncology","CAR-T","CLDN18.2","China"],"date":"2026-06-22","score":99,"why":"实体瘤CAR-T商业化意味着生产、冷链、中心认证和按单生产能力成为核心成本项；这类产品的商业模型与传统药完全不同。","sources":[{"name":"科济药业具体批准公告","url":"https://www.prnewswire.com/apac/zh/news-releases/car-t-302806326.html"}]},{"title":"海思科将BRAF抑制剂HSK42360等两项资产海外授权给Nuvectis","summary":"2026年6月23日，海思科与美国Biotech Nuvectis达成独家授权：HSK42360全球（大中华区除外）权益及HSK39297部分海外权益被许可。HSK42360是一款BRAF paradox breaker，目前在中国开展Phase I。","category":"BD/M&A","region":"China","tags":["Oncology","BRAF","License-out","China Biotech"],"date":"2026-06-23","score":94,"why":"早期临床资产license-out可同时降低海外开发现金消耗并引入upfront/里程碑，但也意味着放弃部分未来权益；Build vs Partner要放在同一资本分配框架里。","sources":[{"name":"海思科/Nuvectis具体公告","url":"https://www.prnewswire.com/news-releases/haisco-enters-into-exclusive-license-agreement-with-nuvectis-for-two-drug-candidates-in-oncology-and-complement-indications-302807803.html"}]},{"title":"恒瑞与BMS达成13个项目的全球战略合作，覆盖肿瘤、血液和免疫","summary":"2026年5月12日，恒瑞与BMS宣布全球战略合作与许可协议，共涉及13个项目，其中包括4个恒瑞肿瘤/血液资产、4个BMS免疫资产及5个双方共同发现项目。","category":"BD/M&A","region":"China","tags":["Oncology","BD","China Biotech","Portfolio deal"],"date":"2026-05-12","score":98,"why":"这类多资产portfolio deal比单资产license更能体现平台价值，也会重塑未来研发费用分摊、联合开发治理和里程碑现金流。","sources":[{"name":"恒瑞/BMS具体公告","url":"https://www.prnewswire.com/news-releases/hengrui-pharma-and-bristol-myers-squibb-announce-strategic-agreements-to-advance-innovative-medicines-across-oncology-hematology-and-immunology-302769021.html"}]},{"title":"信达IBI363获第三项NMPA突破性治疗认定，指向MSS/pMMR转移性结直肠癌","summary":"2026年5月10日，信达宣布PD-1/IL-2α-bias双特异融合蛋白IBI363联合贝伐珠单抗获CDE突破性治疗认定，用于既往至少两线标准治疗失败的MSS/pMMR转移性结直肠癌。","category":"Clinical","region":"China","tags":["Oncology","PD1","IL2","CRC","China"],"date":"2026-05-10","score":94,"why":"MSS结直肠癌是免疫治疗难点，高未满足需求使积极信号更具价值；但突破性治疗资格不等于临床成功，需要继续看随机数据与开发路径。","sources":[{"name":"信达具体公告","url":"https://www.prnewswire.com/news-releases/innovent-announces-ibi363-pd-1il-2-bias-bispecific-fusion-protein-received-third-nmpa-breakthrough-therapy-designation-for-msspmmr-metastatic-colorectal-cancer-302767628.html"}]},{"title":"华辉安健与百济神州就三特异抗体HH160达成全球期权许可合作","summary":"2026年4月30日，华辉安健与BeOne Medicines签署HH160全球独家期权、许可及合作协议。BeOne支付2000万美元upfront，行权时另付1亿美元，并约定最高19亿美元里程碑及分级销售提成。","category":"BD/M&A","region":"China","tags":["Oncology","Trispecific","BD","China Biotech"],"date":"2026-04-30","score":97,"why":"这是拆解headline value的典型案例：2000万美元首付款、1亿美元行权金与19亿美元或有里程碑的确定性完全不同，Finance必须分层建模。","sources":[{"name":"华辉安健/BeOne具体公告","url":"https://www.prnewswire.com/news-releases/huahui-health-and-beone-medicines-enter-into-a-global-exclusive-option-license-and-collaboration-agreement-for-innovative-oncology-drug-hh160-302758566.html"}]},{"title":"DualityBio HER2 ADC DB-1303在中国BLA获受理，基于关键Phase III研究","summary":"2026年4月9日，DualityBio宣布trastuzumab pamirtecan（DB-1303/BNT323）用于二线HER2阳性不可切除或转移性乳腺癌的BLA获NMPA受理，申报基于中国关键Phase III DB-1303-O-3001的积极中期结果。","category":"Regulatory","region":"China","tags":["Oncology","ADC","HER2","Breast cancer","China"],"date":"2026-04-09","score":96,"why":"BLA受理意味着项目从开发阶段进入上市前准备高峰，CMC商业批、注册支持、医学和商业团队支出都会明显前移。","sources":[{"name":"DualityBio具体公告","url":"https://www.prnewswire.com/news-releases/dualitybio-announces-china-nmpa-acceptance-of-biologics-license-application-seeking-approval-for-trastuzumab-pamirtecan-for-the-treatment-of-unresectable-or-metastatic-her2-positive-adult-breast-cancer-302738250.html"}]}]}
+{
+  "updated_at": "2026-08-13 02:50 UTC",
+  "items": [
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026",
+      "summary": "Twelve new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended twelve medicines for approval at its July 2026 meeting.The committee…, CHMP statistics Key figures from the July 2026&nbsp;CHMP&nbsp;meeting are represented in the graphic below. © European Medicines Agency&nbsp;, CHMP statistics:…, Positive recommendations on new",
+      "source": "EMA",
+      "category": "Regulatory",
+      "date": "Fri, 24 Jul 2026",
+      "score": 90
+    },
+    {
+      "title": "New leadership team appointments",
+      "url": "https://www.ema.europa.eu/en/news/new-leadership-team-appointments",
+      "summary": "EMA’s Head of the Stakeholders…, A new Head of the Veterinary…, Ivo Claassen joined EMA in 2018. Among many career highlights, Ivo and his team worked with the veterinary medicines network on the successful implementation of the 2019…",
+      "source": "EMA",
+      "category": "Regulatory",
+      "date": "Thu, 30 Jul 2026",
+      "score": 85
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 July 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-14-16-july-2026",
+      "summary": "CVMP opinions on veterinary medicinal products&nbsp;The Committee adopted a positive opinion for a marketing authorisation for Bexatil&nbsp;for the reduction of hyperglycaemia in cats…",
+      "source": "EMA",
+      "category": "Regulatory",
+      "date": "Fri, 17 Jul 2026",
+      "score": 85
+    },
+    {
+      "title": "EMA and EISMEA boost cooperation to accelerate health innovations",
+      "url": "https://www.ema.europa.eu/en/news/ema-eismea-boost-cooperation-accelerate-health-innovations",
+      "summary": "EMA and the European Innovation Council and SMEs Executive Agency (EISMEA) have strengthened their cooperation in support of health innovation in the European Union (EU). Today…, Enabling innovation is central to our public health mission to bring new treatments to patients. Our collaboration with EISMEA helps us better support innovators to…, The earlier he",
+      "source": "EMA",
+      "category": "Regulatory",
+      "date": "Wed, 15 Jul 2026",
+      "score": 85
+    },
+    {
+      "title": "Executive Director Emer Cooke's speech at the European Parliament's Committee on Public Health",
+      "url": "https://www.ema.europa.eu/en/news/executive-director-emer-cookes-speech-european-parliaments-committee-public-health",
+      "summary": "Brussels, 14 July 2026Check against delivery (The published text is based on the prepared speech. Minor differences may have occurred during delivery)Dear Ms Jerkovic, dear…",
+      "source": "EMA",
+      "category": "Regulatory",
+      "date": "Wed, 15 Jul 2026",
+      "score": 85
+    },
+    {
+      "title": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques",
+      "url": "https://www.fiercebiotech.com/biotech/cytodyns-leronlimab-aims-comeback-it-eradicates-hiv-infant-macaques-combination-hiv",
+      "summary": "CytoDyn's leronlimab may have struggled to secure approval as an HIV treatment, but research in infant primates has offered fresh hope for the CCR5-targeting antibody's ability to treat the virus.",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 11, 2026 7:5",
+      "score": 78
+    },
+    {
+      "title": "Unapproved in US for decades, levosimendan stumbles in phase 3 as Tenax eyes narrow FDA path",
+      "url": "https://www.fiercepharma.com/pharma/unapproved-us-decades-levosimendan-stumbles-phase-3-tenax-eyes-narrow-fda-path",
+      "summary": "Nearly three decades after its failed bid for FDA approval, the cardiovascular drug levosimendan is still struggling to secure a decisive clinical win to enter the U.S. market.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 10, 2026 4:1",
+      "score": 78
+    },
+    {
+      "title": "AI clinical monitoring agent can deliver up to 82 times the ROI in oncology: report",
+      "url": "https://www.fiercebiotech.com/cro/ai-clinical-monitoring-agents-can-deliver-82-times-roi-report",
+      "summary": "A new analysis from the Tufts Center for the Study of Drug Development (CSDD) found that an AI clinical monitoring agent can deliver an estimated 82-fold return on investment in phase 3 oncology trials.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 12, 2026 1:5",
+      "score": 73
+    },
+    {
+      "title": "After slimming down workforce, Aardvark scraps phase 3 trials as wait for next steps drags on",
+      "url": "https://www.fiercebiotech.com/biotech/slimmed-down-aardvark-scraps-phase-3-trials-wait-next-steps-drags",
+      "summary": "Aardvark Therapeutics has confirmed it is walking away from recently terminated phase 3 trials, telling investors it has no plans to resume the studies “as previously designed” as it works to find a path forward for its stalled pipeline.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 12, 2026 9:0",
+      "score": 73
+    },
+    {
+      "title": "Samsung hearing aid features for its ear buds garner FDA clearance",
+      "url": "https://www.fiercebiotech.com/medtech/samsung-hearing-aid-features-its-ear-buds-garner-fda-clearance",
+      "summary": "The FDA gave Samsung Electronics the go-ahead for the latest software features that allow its Galaxy Buds earphones to act as an OTC hearing aid that also allows users to diagnose their hearing.",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 12, 2026 8:0",
+      "score": 73
+    },
+    {
+      "title": "Definium hits another phase 3 homerun with psychedelic ‘sea change’ for anxiety",
+      "url": "https://www.fiercebiotech.com/biotech/definium-hits-another-ph-3-homerun-psychedelic-sea-change-anxiety",
+      "summary": "Definium Therapeutics’ LSD formula has gone two for two in its phase 3 program, notching a win in generalized anxiety disorder months after knocking a depression study out of the park.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 5:2",
+      "score": 73
+    },
+    {
+      "title": "Zydus’ Sentynl pens $475M deal for Mereo’s phase 3-ready rare genetic lung disease drug",
+      "url": "https://www.fiercebiotech.com/biotech/mereo-springs-475m-biobucks-sentynl-phase-3-ready-rare-genetic-lung-disease-drug",
+      "summary": "Sentynl Therapeutics has penned a deal potentially worth $475 million for the option to market Mereo BioPharma's phase 3-ready rare genetic respiratory disease drug in the U.S.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 9:3",
+      "score": 73
+    },
+    {
+      "title": "‘We are proud to be in the lead’: Vaderis lands $152M for phase 3 study in rare blood vessel disorder",
+      "url": "https://www.fiercebiotech.com/biotech/vaderis-lands-152m-squeeze-akt-inhibitor-through-phase-3-and-regulatory-approval",
+      "summary": "Vaderis Therapeutics has secured an oversubscribed $152 million series B financing to propel the Swiss biotech's AKT inhibitor through phase 3 with the aim of bringing the first treatment for a rare blood vessel disorder to market.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 1:4",
+      "score": 73
+    },
+    {
+      "title": "ITM neuroendocrine tumor drug spurned by FDA over manufacturing qualms",
+      "url": "https://www.fiercebiotech.com/manufacturing/itm-neuroendocrine-tumor-drug-spurned-fda-over-manufacturing-qualms",
+      "summary": "The FDA has denied ITM Isotopes Technologies’ lead pipeline candidate for a rare group of tumors due to qualms over the drug’s manufacturing.",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 10, 2026 11:",
+      "score": 73
+    },
+    {
+      "title": "MoonLake’s nanobody boosts all clinical endpoints in phase 3 psoriatic arthritis trial",
+      "url": "https://www.fiercebiotech.com/biotech/moonlakes-nanobody-candidate-boosts-all-clinical-endpoints-phase-3-psoriatic-arthritis",
+      "summary": "MoonLake Immunotherapeutics announced positive phase 3 data for patients with psoriatic arthritis treated with its lead nanobody candidate, sonelokimab.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 10:",
+      "score": 73
+    },
+    {
+      "title": "Scholar Rock ditches Novo’s legacy Catalent plant in FDA refiling of SMA drug",
+      "url": "https://www.fiercebiotech.com/pharma/scholar-rock-ditches-novo-legacy-catalent-plant-fda-refiling-sma-drug",
+      "summary": "Scholar Rock has dropped Novo Nordisk’s troubled Catalent facility as a contract manufacturer in its FDA refiling for apitegromab, a spinal muscular atrophy candidate, after a recent inspection of the plant was classified as “Official Action Indicated.”",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 10, 2026 10:",
+      "score": 73
+    },
+    {
+      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
+      "url": "https://www.fiercebiotech.com/medtech/labcorp-nabs-fda-green-light-braf-melanoma-diagnostic",
+      "summary": "The FDA has signed off on Labcorp’s companion diagnostic for patients with advanced melanoma carrying certain BRAF variants.",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 10, 2026 8:1",
+      "score": 73
+    },
+    {
+      "title": "FDA issues alert in wake of BD recall of faulty needle sets",
+      "url": "https://www.fiercebiotech.com/medtech/fda-issues-alert-wake-bd-recall-faulty-io-needle-sets-caused-four-deaths",
+      "summary": "The FDA’s Center for Devices and Radiological Health issued an early alert for Becton Dickinson’s Intraosseous Vascular Access system needle sets&nbsp;in the wake of four deaths and 45 serious injuries related to the product.",
+      "source": "Fierce Biotech",
+      "category": "Regulatory",
+      "date": "Aug 10, 2026 8:1",
+      "score": 73
+    },
+    {
+      "title": "Silence brings the noise to Takeda with phase 2 blood cancer win",
+      "url": "https://www.fiercebiotech.com/biotech/silence-brings-noise-takeda-phase-2-blood-cancer-win",
+      "summary": "A phase 2 trial of Silence Therapeutics’ divesiran has hit its primary endpoint, emboldening the biotech to gear up for late-phase development of a potential challenger to Takeda and Protagonist Therapeutics’ rusfertide.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 4:3",
+      "score": 73
+    },
+    {
+      "title": "Fresenius pulls one batch of Actemra biosim over glass particle concerns",
+      "url": "https://www.fiercepharma.com/pharma/fresenius-pulls-one-batch-actemra-biosim-over-glass-particle-concerns",
+      "summary": "Shortly after initiating a separate recall tied to mislabeled pain medicine, Fresenius Kabi is yanking a batch of another product in the U.S.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 12, 2026 8:4",
+      "score": 73
+    },
+    {
+      "title": "Regulatory tracker: Akeso's ivonescimab wins landmark first-line NSCLC nod in China",
+      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
+      "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Jul 1, 2026 1:33",
+      "score": 73
+    },
+    {
+      "title": "Lilly's Zepbound remains physicians' favorite, even as oral obesity launches alter landscape",
+      "url": "https://www.fiercepharma.com/pharma/even-launch-obesity-pills-lillys-zepbound-remains-overwhelming-favorite-among-physicians",
+      "summary": "Injected weight loss drugs remain favored over newer oral treatments by a significant margin, with Eli Lilly’s Zepbound leading the pack, according to a survey of healthcare specialists by Spherix Global Insights.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 7, 2026 10:5",
+      "score": 73
+    },
+    {
+      "title": "Fresenius Kabi recalls mislabeled morphine lot that could cause overdose death",
+      "url": "https://www.fiercepharma.com/manufacturing/fresenius-kabi-recalls-mislabeled-morphine-lot-could-cause-overdose-death",
+      "summary": "Fresenius Kabi voluntarily recalled one lot of morphine sulfate injection due to a labeling mix-up with prefilled syringes of dilaudid that could trigger an overdose resulting in severe respiratory distress or death.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 7, 2026 9:18",
+      "score": 73
+    },
+    {
+      "title": "‘It’s been a roller coaster’: Novo Nordisk’s CFO reflects on ‘pressure’ to drive growth",
+      "url": "https://www.fiercepharma.com/biotech/its-been-rollercoaster-novo-nordisks-cfo-reflects-pressure-drive-growth",
+      "summary": "Novo Nordisk CFO Karsten Munk Knudsen spoke to Fierce the morning the company unveiled its second-quarter earnings, reflecting on Novo’s “roller coaster” financial journey, the pressure of navigating its shifting fortunes and why he remains optimistic about CagriSema.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 5, 2026 9:44",
+      "score": 73
+    },
+    {
+      "title": "Fierce Pharma Asia—Takeda’s historic narcolepsy nod; Daiichi’s accounting error; Astellas’ revenue beat",
+      "url": "https://www.fiercepharma.com/pharma/takeda-historic-narcolepsy-nod-daiichi-accounting-error-astellas-revenue-beat",
+      "summary": "Takeda's first-in-class orexin treatment won an FDA nod for narcolepsy. Daiichi Sankyo faced investor pushback after admitting to an accounting error. Astellas booked a new quarterly revenue record. And more.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 6, 2026 3:04",
+      "score": 73
+    },
+    {
+      "title": "Fierce Biotech Fundraising Tracker '26: InduPro assembles $77M; Vaderis nets $152M series B",
+      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+      "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Dec 22, 2025 3:3",
+      "score": 65
+    },
+    {
+      "title": "Deerfield-backed Boulevard Bio embarks on ‘beautiful path to a cure’ with trio of immunology drugs",
+      "url": "https://www.fiercebiotech.com/biotech/deerfield-backed-boulevard-bio-strolls-65m-launch-and-trio-immunology-candidates",
+      "summary": "Boulevard Bio has strolled out of stealth with $65 million in funding from Deerfield Management and three autoimmune disease candidates.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 1:1",
+      "score": 65
+    },
+    {
+      "title": "Amgen lays groundwork for new R&D center in Hyderabad",
+      "url": "https://www.fiercebiotech.com/biotech/amgen-lays-groundwork-new-rd-center-hyderabad",
+      "summary": "Amgen is expanding its footprint in India with an R&amp;D center in Hyderabad, the latest by from the California company to boost its research facilities.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 1:4",
+      "score": 65
+    },
+    {
+      "title": "Epicrispr raises $90M to rewrite treatment of rare muscle disease",
+      "url": "https://www.fiercebiotech.com/biotech/epicrispr-bags-90m-rewrite-treatment-rare-muscle-disease",
+      "summary": "Epicrispr Biotechnologies has raised $90 million in a series C round backed by investors including Sanofi Ventures, positioning the biotech to advance a pipeline of epigenetic medicines led by an early-phase facioscapulohumeral muscular dystrophy prospect.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 9:5",
+      "score": 65
+    },
+    {
+      "title": "Fierce Biotech Layoff Tracker 2026: Aura loses 20% of staffers; aTyr shrinks by 60%",
+      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
+      "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Dec 23, 2025 10:",
+      "score": 65
+    },
+    {
+      "title": "Abbott teams with Google Health on AI-powered health insights app",
+      "url": "https://www.fiercebiotech.com/medtech/abbott-teams-google-health-ai-powered-health-trends-app",
+      "summary": "Two giants of their respective fields, Abbott and Google, are joining forces for a first-of-its-kind team-up that aims to build out a digital picture of people’s health.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 3:1",
+      "score": 65
+    },
+    {
+      "title": "Aura lays off 20% of workforce, rejigs C-suite amid R&D refocus on eye cancer",
+      "url": "https://www.fiercebiotech.com/biotech/aura-lays-20-staff-rejigs-c-suite-amid-rd-refocusing",
+      "summary": "Aura Biosciences is refocusing under its recently installed CEO, laying off 20% of its employees and overhauling its C-suite as it narrows its focus on ocular oncology.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 11, 2026 8:1",
+      "score": 65
+    },
+    {
+      "title": "Regeneron backs $75M series A for antibody upstart Infinimmune",
+      "url": "https://www.fiercebiotech.com/biotech/regeneron-backs-75m-series-antibody-upstart-infinimmune",
+      "summary": "Infinimmune has amassed further fuel to power its antibody discovery engine, netting a $75 million series A headlined by Regeneron’s venture arm.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 4:3",
+      "score": 65
+    },
+    {
+      "title": "Jazz pays $820M to buy Actio, adding clinical-stage asset to orchestra of epilepsy therapies",
+      "url": "https://www.fiercebiotech.com/biotech/jazz-plays-epilepsy-intentions-132b-acquisition-actio-biosciences",
+      "summary": "Jazz Pharmaceuticals is adding to its orchestra of epilepsy treatments with the acquisition of Actio Biosciences for $820 million upfront.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 9:4",
+      "score": 65
+    },
+    {
+      "title": "Sionna’s cystic fibrosis flop sends stock down 90%, but a ‘significant positive’ for Vertex",
+      "url": "https://www.fiercebiotech.com/biotech/sionnas-cystic-fibrosis-flop-significant-positive-vertex",
+      "summary": "Sionna Therapeutics has axed a cystic fibrosis add-on program after flunking a phase 2 trial, eliminating a would-be challenger to Vertex Pharmaceuticals’ empire. The biotech plans to “take actions to preserve capital while evaluating next steps.”",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 9:3",
+      "score": 65
+    },
+    {
+      "title": "AbCellera women’s health data top ‘most aggressive upside scenario,’ putting Astellas and Bayer on notice",
+      "url": "https://www.fiercebiotech.com/biotech/abcellera-data-top-most-aggressive-upside-scenario-putting-astellas-and-bayer-notice",
+      "summary": "AbCellera has reported phase 2 results “beyond even the most aggressive upside scenario” that its CEO dared to consider, boosting the biotech’s chances of challenging Astellas and Bayer for a women’s health market.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 10, 2026 8:2",
+      "score": 65
+    },
+    {
+      "title": "Novo Nordisk and Amazon sign AI drug discovery pact, launch London innovation hub",
+      "url": "https://www.fiercebiotech.com/biotech/novo-nordisk-and-aws-sign-ai-drug-discovery-pact-launch-london-innovation-hub",
+      "summary": "Novo Nordisk and Amazon Web Services will partner to leverage AI and accelerate drug discovery.",
+      "source": "Fierce Biotech",
+      "category": "AI Drug Discovery",
+      "date": "Aug 9, 2026 10:3",
+      "score": 65
+    },
+    {
+      "title": "Legend interim CEO talks rising competition as Carvykti maker posts first profit",
+      "url": "https://www.fiercepharma.com/pharma/legend-interim-ceo-stays-course-carvykti-maker-posts-first-profit-amid-rising-competition",
+      "summary": "Legend Biotech's interim CEO, Alan Bash, discusses competition from T-cell engagers and Gilead's new autologous CAR-T as the Carvykti maker posted its first profitable quarter.",
+      "source": "Fierce Pharma",
+      "category": "BD/M&A",
+      "date": "Aug 12, 2026 2:1",
+      "score": 65
+    },
+    {
+      "title": "Biopharma saw a Q2 sales boom led by Lilly, Sanofi, Regeneron and Astellas",
+      "url": "https://www.fiercepharma.com/pharma/biopharma-saw-q2-sales-boom-led-lilly-sanofi-regeneron-and-astellas",
+      "summary": "In the second quarter, nine of the world's top 25 drugmakers accomplished double-digit revenue increases, led again by Eli Lilly, which charted a 48% sales gain. The revenue boom was even more pronounced when comparing figures between the first and second quarters. Of the top 25 drugmakers, more than half realized double-digit sequential gains and only one s",
+      "source": "Fierce Pharma",
+      "category": "BD/M&A",
+      "date": "Aug 11, 2026 2:1",
+      "score": 65
+    },
+    {
+      "title": "Alfasigma gains arthritis drug, access to new markets with M&A play",
+      "url": "https://www.fiercepharma.com/pharma/alfasigma-gains-arthritis-drug-access-new-markets-ma-play",
+      "summary": "Alfasigma will add key drugs like Nordimet through the deal, as well as Nordic Pharma’s women’s health, critical care and ophthalmology portfolios.",
+      "source": "Fierce Pharma",
+      "category": "BD/M&A",
+      "date": "Aug 12, 2026 11:",
+      "score": 65
+    }
+  ]
+}
