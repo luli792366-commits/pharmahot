@@ -1,13 +1,12 @@
 {
-  "updated_at": "2026-08-13 03:53 UTC",
+  "updated_at": "2026-08-13 05:18 UTC",
   "window_days": 60,
   "sources": [
     "Europe PMC",
     "bioRxiv",
     "Fierce Biotech"
   ],
-  "major_signals": [],
-  "research_watch": [
+  "major_signals": [
     {
       "title": "A Newly Designed Antibody-drug Conjugate Targeting B7-H3 Demonstrates Enhanced Therapeutic Efficacy Across a Spectrum of Cancers.",
       "summary": "Introduction The development of antibody-drug conjugates (ADCs) has accelerated due to their tumor-targeting precision. However, challenges in optimizing the target-linker-payload combination often lead to attrition from safety or efficacy issues, highlighting the need for ADCs with an improved therapeutic index. This study presents a newly designed B7-H3-targeted ADC, BR112, and demonstrates its superior preclinical efficacy across multiple models. Methods BR112 comprises a humanized anti-B7-H3 antibody (112-59) conjugated to the microtubule inhibitor MMAE via a Pyridazinedione-valine-citrulline-p-aminobenzyl (PD-VC-PAB) linker with a drug-to-antibody ratio (DAR) of 4.15. The binding affini",
@@ -16,12 +15,120 @@
       "source": "Europe PMC",
       "authors": "Qian J, Zhu X, Zhao X, Zhu J, Wu Z, Zheng Q, Wang J, Yu F, Nie L, Weng Q.",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "score": 66,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "stage": "Preclinical safety",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 81,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
     },
+    {
+      "title": "Beyond Conventional Monoclonals: Novel Antibody Formats and Derivatives as the Next Frontier in Cancer Therapy.",
+      "summary": "Background Monoclonal antibodies (mAbs) and their derivatives represent a central pillar of contemporary oncology, with expanding complexity in molecular design and clinical application. Beyond unconjugated mAbs, bispecific, trispecific (bsAbs/tsAbs) and antibody-drug conjugates (ADCs) introduce additional pharmacological dimensions that directly impact efficacy, toxicity, and resistance. BsAbs were developed as pharmacological matchmakers to simultaneously engage tumor antigens and immune receptors, physically bridging effectors and malignant cells to promote immunological synapse formation. TsAbs extend this concept by enabling coordinated engagement of three targets. ADCs exploit mAb spec",
+      "url": "https://europepmc.org/article/MED/42371826",
+      "date": "2026-06-29",
+      "source": "Europe PMC",
+      "authors": "Roncato R, Pasin D, Dell Apos Aquila E, Danesi R, Del Re M.",
+      "modality": "Biologics",
+      "stage": "Discovery / Preclinical",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 81,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Development of Glypican 3-Targeting Antibody-Drug Conjugates for Hepatocellular Carcinoma Therapy.",
+      "summary": "Hepatocellular carcinoma (HCC), a leading cause of global cancer mortality, is characterized by intratumoral heterogeneity, chemoresistance, and limited treatments. Glypican 3 (GPC3), an oncofetal glycoprotein overexpressed in ∼70% of HCC cases but absent in normal adult tissues, represents an attractive target for antibody-drug conjugates (ADC). To address this unmet need, three GPC3-specific antibodies were developed: a fully human Mab-A with moderate affinity (Kd = 45.7 nmol/L), recognizing a unique epitope distal to GPC3's membrane region; a humanized Mab-B with high affinity (Kd = 8.84 nmol/L), targeting an epitope similar to those of several known therapeutic antibodies; and a biparato",
+      "url": "https://europepmc.org/article/MED/42302184",
+      "date": "2026-07-01",
+      "source": "Europe PMC",
+      "authors": "Li N, Zeng Y, Xiong X, Zhang P, Peng X, Chen W, Wei W, Xia X, Liu R, Lu Y, Geng M, Lan X, Li X, Yuan T, Huang Y, Xiao Y, Mou Z, Yie J.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 76,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Preclinical in vitro and in vivo activity of trastuzumab deruxtecan against &lt;i&gt;ERBB2&lt;/i&gt;-mutated cervical carcinomas with low HER2 expression.",
+      "summary": "Objective Somatic HER2 mutations occur in up to 6% of cervical cancer patients and are associated with poor prognosis. We explored the activity of trastuzumab deruxtecan (T-DXd) as a novel targeted therapy against HER2-mutated primary cervical cancer cell lines and xenografts with low HER2 expression. Methods HER2 expression was assessed by flow cytometry, while ERBB2 mutations were identified by whole-exome sequencing. Cytotoxicity was measured by flow cytometry-based viability assays, and double-stranded DNA breaks were evaluated using anti-phosphorylated-histone H2AX antibody. Bystander effect was assessed by co-culturing HER2-S310F-mutated (CVX4) and non-mutated (CVX8) tumor cells. In vi",
+      "url": "https://europepmc.org/article/MED/42500114",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Sethi N, Ottum S, Bellone S, Demirkiran C, Buza N, Hui P, De Tommasi O, Palmieri L, Ettorre VM, Greenman M, Hartwich TM, Ratner E, Santin AD.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 76,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
+    },
+    {
+      "title": "Development of APH003─a Highly Potent, Selective, and Orally Bioavailable IRAK4 PROTAC Degrader for the Treatment of Inflammatory Diseases.",
+      "summary": "Interleukin-1 receptor-associated kinase 4 (IRAK4) represents an attractive therapeutic target in inflammatory and oncological indications due to its pivotal role as a signaling mediator downstream of TLR and IL-1R. We previously reported a series of spirocyclic IRAK4 degraders and identified APH02174 as a selective, orally bioavailable degrader. However, its hERG inhibition, hepatocyte stability, and variable cross-species PK inspired further structural optimization. The optimization gave eight PROTACs ( 5 - 10 , 14, and APH003 ) which exhibited high IRAK4 degradation ability (DC 50 ≤ 2 nM, DC 90 ≤ 10 nM, and D max ≥ 85%) in vitro . APH003 exhibited favorable PK parameters, low hERG inhibit",
+      "url": "https://europepmc.org/article/MED/42363007",
+      "date": "2026-06-26",
+      "source": "Europe PMC",
+      "authors": "Wu XW, Chen ZM, Gao C, Tian M, Liu XL, Wang H, Chen HJ, Li HX, Yang WQ, An LK.",
+      "modality": "Small Molecule",
+      "stage": "Lead optimization",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Lead optimization inflection",
+      "score": 68,
+      "finance": "Reassess remaining chemistry/engineering cycles, DMPK and tox work needed before candidate selection; this can change discovery burn and timing."
+    },
+    {
+      "title": "Preclinical Comparison of Two CD3xB7H4 Bispecific Antibodies for Solid Tumor Therapy Reveals CD3 Affinity-Dependent Potency and Tolerability Tradeoffs.",
+      "summary": "The immune checkpoint protein B7H4 is overexpressed in tumors compared to normal tissues, making it an attractive target for cancer immunotherapy. Here, we compare two B7H4-targeting CD3 bispecific antibodies (bsAbs) with different CD3 affinities across in vitro and in vivo characterization studies. In vitro, the CD3xB7H4 bsAb variant with higher CD3 affinity showed greater potency for tumor cell killing and cytokine secretion than the lower affinity variant. In nonclinical toxicology assessments in cynomolgus monkeys, the CD3xB7H4 bsAb variant with lower CD3 affinity induced less cytokine secretion and was tolerated at a higher maximum plasma concentration. Both CD3xB7H4 bsAbs demonstrated ",
+      "url": "https://europepmc.org/article/MED/42374845",
+      "date": "2026-06-30",
+      "source": "Europe PMC",
+      "authors": "Koopman LA, Alemdehy F, de Poot SAH, Paauwe M, Wang W, Epstein KR, van den Brink EN, Gorlani A, Verzijl D, Brandhorst M, Franken P, Smits-de Vries L, Gielen E, Plantinga TS, Houtkamp M, Engelberts PJ, Lihme Egerod F, Tha",
+      "modality": "Biologics",
+      "stage": "Preclinical safety",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
+    },
+    {
+      "title": "From DNA-encoded library (DEL) screening to in vivo validation: LILRB4 (ILT3)-targeted small molecules reprograms myeloid immune suppression.",
+      "summary": "Alzheimer's disease (AD) remains a major unmet clinical challenge, with limited therapeutic strategies capable of effectively modulating neuroimmune dysfunction. Leukocyte immunoglobulin-like receptor B4 (LILRB4/ILT3) has recently emerged as an inhibitory microglial immune checkpoint implicated in ApoE-mediated suppression of amyloid-β (Aβ) clearance and inflammatory signaling, supporting its potential as a therapeutic target in AD. Here, we applied DNA-encoded library (DEL) screening of approximately 3.6 billion compounds to identify small molecule binders of LILRB4. Biophysical validation identified APX1 as a direct LILRB4 ligand with submicromolar affinity, which was further confirmed by ",
+      "url": "https://europepmc.org/article/MED/42407324",
+      "date": "2026-07-06",
+      "source": "Europe PMC",
+      "authors": "Abdel-Rahman SA, Gabr MT.",
+      "modality": "Small Molecule",
+      "stage": "Developability / CMC",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Developability / CMC signal",
+      "score": 68,
+      "finance": "Check process, formulation, stability, yield and scale-up assumptions; manufacturability can move cost and timeline before IND-enabling."
+    },
+    {
+      "title": "Bispecific antibody AP402 targets p95HER2 and induces costimulation through CD137 to improve efficacy for HER2-positive tumors.",
+      "summary": "Background Outcomes for HER2-positive cancers have been greatly improved by trastuzumab and other HER2-targeted therapies. However, many tumors express a truncated p95HER2 variant that lacks the extracellular trastuzumab binding site. Since these tumors exhibit resistance and more aggressive disease phenotypes, the AP402 bispecific antibody was developed to target p95HER2 and engage activated T cells toward tumor cells via CD137 engagement. Methods AP402 was characterized in terms of binding, anti-tumor activity and safety using in vitro and in vivo models. Using p95HER2- and full-length HER2-expressing tumor cells, antibody-dependent cellular cytotoxicity (ADCC) assays were performed. AP402",
+      "url": "https://europepmc.org/article/MED/42443735",
+      "date": "2026-07-13",
+      "source": "Europe PMC",
+      "authors": "Huang PL, Hsieh HT, Kan HT, Hsu CH, Huang KM, Chen HY, Chen TN, You JJ.",
+      "modality": "Biologics",
+      "stage": "Preclinical efficacy",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
+    }
+  ],
+  "research_watch": [
     {
       "title": "Activity of datopotamab deruxtecan in TROP2-expressing low-grade serous ovarian cancer: a preclinical study.",
       "summary": "Introduction Low-grade serous ovarian carcinoma (LGSOC) is a rare ovarian cancer subtype with limited sensitivity to chemotherapy and modest benefit from endocrine and MEK-directed therapy. New therapeutic targets are needed. We evaluated trophoblast cell-surface antigen 2 (TROP2) expression in LGSOC and the activity of datopotamab deruxtecan (Dato-DXd), a TROP2-directed antibody-drug conjugate, in an LGSOC patient-derived xenograft (PDX) model. Methods TROP2 expression was assessed by immunohistochemistry in a retrospective single-center cohort of 29 LGSOC cases treated at Yale University. Antitumor activity of Dato-DXd was evaluated in a TROP2-expressing PDX model derived from a heavily pr",
@@ -33,6 +140,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -47,6 +155,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -61,6 +170,7 @@
       "stage": "Discovery / Preclinical",
       "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
@@ -75,8 +185,24 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Past present and future of radiosensitization in cervical cancer.",
+      "summary": "Cervical cancer remains a major health concern with over 662,000 cases and 348,000 deaths worldwide yearly. Treatment of early stage disease is generally surgical resection with excellent 5-year survival rates. Locally advanced cervical cancer (LACC) is potentially curable but still has only an approximately 50% 5-year survival rate. LACC is currently treated with chemoradiotherapy (cisplatin). Cisplatin as a radiosensitizer was established by 4 seminal, randomized clinical trials in the 1990s. While radiation techniques have advanced significantly over the past 25 years, the use of cisplatin as a radiosensitizer has not changed. With the development of new, more precise chemotherapy regimen",
+      "url": "https://europepmc.org/article/MED/42404226",
+      "date": "2026-06-19",
+      "source": "Europe PMC",
+      "authors": "Julian ON, Velarde I, Advani SJ, Mayadev J, Eskander RN.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical safety",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
     },
     {
       "title": "Dual HER2/HER3 Targeting with Antibody-Drug Conjugates Reveals a Novel Therapeutic Strategy for HER2-Mutant Lobular Breast Cancer",
@@ -89,6 +215,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -103,6 +230,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -117,6 +245,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -131,6 +260,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -145,6 +275,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
@@ -159,6 +290,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -170,9 +302,10 @@
       "source": "Europe PMC",
       "authors": "Molinaro F, Colangelo GS, Cocco P, Di Ianni A, Knapp-Buehle D, Paoletti A, Bertotti E, Cowan K, Riccardi Sirtori F, Barbero L.",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
+      "stage": "Developability / CMC",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -187,6 +320,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -201,6 +335,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -212,9 +347,10 @@
       "source": "Europe PMC",
       "authors": "Shen JX, Dodge R, Oberstein S, Cunliffe J, Ramani V, Mohana Sundaram S, Santos IC, Yu C, Dholakiya SL, Kumar S, Xu XS, Fraser S, Mokhtari Z, Yin F, Rizzo DG, Barnaby OS, Shen H, Warrino DE, Awasthi S, Burke K, Schaffer S",
       "modality": "ADC / ATTC",
-      "stage": "Discovery / Preclinical",
+      "stage": "Developability / CMC",
       "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -229,20 +365,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Development of Glypican 3-Targeting Antibody-Drug Conjugates for Hepatocellular Carcinoma Therapy.",
-      "summary": "Hepatocellular carcinoma (HCC), a leading cause of global cancer mortality, is characterized by intratumoral heterogeneity, chemoresistance, and limited treatments. Glypican 3 (GPC3), an oncofetal glycoprotein overexpressed in ∼70% of HCC cases but absent in normal adult tissues, represents an attractive target for antibody-drug conjugates (ADC). To address this unmet need, three GPC3-specific antibodies were developed: a fully human Mab-A with moderate affinity (Kd = 45.7 nmol/L), recognizing a unique epitope distal to GPC3's membrane region; a humanized Mab-B with high affinity (Kd = 8.84 nmol/L), targeting an epitope similar to those of several known therapeutic antibodies; and a biparato",
-      "url": "https://europepmc.org/article/MED/42302184",
-      "date": "2026-07-01",
-      "source": "Europe PMC",
-      "authors": "Li N, Zeng Y, Xiong X, Zhang P, Peng X, Chen W, Wei W, Xia X, Liu R, Lu Y, Geng M, Lan X, Li X, Yuan T, Huang Y, Xiao Y, Mou Z, Yie J.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -254,9 +377,25 @@
       "source": "Europe PMC",
       "authors": "Tanaka T, Sugiyama A, Sakata J, Tatsumi T, Katoh H, Maeda K, Inagaki Y, Yamashita T, Kawamura T, Kuratani M, Nakano T, Ishii M, Miura M, Kamiya W, Shiratori Y, Kitanoya H, Chansler M, Harada N, Tsuchiya M, Osawa T, Ishik",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
+      "stage": "Developability / CMC",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Topological data analysis for antibody-drug conjugate payload discovery: a computational framework for mechanistic classification and target validation.",
+      "summary": "Antibody-drug conjugate (ADC) payload discovery remains constrained by reliance on traditional molecular descriptors that inadequately capture three-dimensional geometric features governing target recognition and mechanism of action. Topological data analysis (TDA) offers a mathematical framework for characterizing molecular shape through persistent homology, potentially revealing mechanistic relationships invisible to conventional approaches. We developed a comprehensive TDA framework analyzing 22 FDA-approved ADC payloads across 1,471 clinical trial records, computing 31 topological descriptors encompassing Betti numbers, persistence statistics, and complexity metrics. Hierarchical cluster",
+      "url": "https://europepmc.org/article/MED/42397476",
+      "date": "2026-07-03",
+      "source": "Europe PMC",
+      "authors": "Akgüller Ö, Balcı MA.",
+      "modality": "ADC / ATTC",
+      "stage": "Target validation",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -271,6 +410,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
@@ -285,6 +425,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -299,6 +440,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
@@ -313,6 +455,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -327,22 +470,24 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "Low dose radiotherapy-induced tumor-preferential antigens enhance antibody-drug conjugate efficacy in solid tumors.",
-      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors is often limited by low or heterogeneous antigen expression. Here, we investigated low-dose radiotherapy (LDRT) as a noninvasive sensitization strategy to enhance tumor surface antigen expression and improve ADC activity. Transcriptomic profiling and flow cytometry identified ICAM1 as the most strongly radiation-inducible antigen after 2 Gy irradiation, showing an approximately 4-fold increase and exceeding several established ADC targets. Mechanistic studies revealed that radiation-induced reactive oxygen species (ROS) and oxidative stress signaling upregulated ICAM1, enhanced antibody internalization, and improved ICAM1-targeted ADC de",
-      "url": "https://europepmc.org/article/MED/42476099",
+      "title": "Antibody-drug conjugates in colorectal cancer: advances, challenges, and prospectives.",
+      "summary": "Antibody-drug conjugates (ADCs) represent an emerging class of targeted therapeutics with considerable potential in the management of colorectal cancer (CRC). By delivering highly potent cytotoxic agents to cancer cells via specific antibodies, ADCs enable precise tumor targeting while minimizing off-target toxicity. Recent advancements have identified several promising targets for ADC development in CRC, including human epidermal growth factor receptor 2 (HER2), carcinoembryonic antigen-related cell adhesion molecule 5 (CEACAM5), mesenchymal-epithelial transition factor (c-MET), epidermal growth factor receptor (EGFR), cadherin-17 (CDH17), and trophoblast cell surface antigen 2 (Trop-2). Cl",
+      "url": "https://europepmc.org/article/MED/42476270",
       "date": "2026-07-20",
       "source": "Europe PMC",
-      "authors": "Xing Y, Yang Y, Liu Y, Yang T, Ma L, Chen J, Yang Y, Xu Y, Lu Y, Guo P, Li P.",
+      "authors": "Zeng L, Zhu Y, Zhang K, Liu B, Ding J.",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
+      "stage": "Preclinical safety",
+      "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
     }
   ],
   "items": [
@@ -354,11 +499,117 @@
       "source": "Europe PMC",
       "authors": "Qian J, Zhu X, Zhao X, Zhu J, Wu Z, Zheng Q, Wang J, Yu F, Nie L, Weng Q.",
       "modality": "ADC / ATTC",
+      "stage": "Preclinical safety",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 81,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Beyond Conventional Monoclonals: Novel Antibody Formats and Derivatives as the Next Frontier in Cancer Therapy.",
+      "summary": "Background Monoclonal antibodies (mAbs) and their derivatives represent a central pillar of contemporary oncology, with expanding complexity in molecular design and clinical application. Beyond unconjugated mAbs, bispecific, trispecific (bsAbs/tsAbs) and antibody-drug conjugates (ADCs) introduce additional pharmacological dimensions that directly impact efficacy, toxicity, and resistance. BsAbs were developed as pharmacological matchmakers to simultaneously engage tumor antigens and immune receptors, physically bridging effectors and malignant cells to promote immunological synapse formation. TsAbs extend this concept by enabling coordinated engagement of three targets. ADCs exploit mAb spec",
+      "url": "https://europepmc.org/article/MED/42371826",
+      "date": "2026-06-29",
+      "source": "Europe PMC",
+      "authors": "Roncato R, Pasin D, Dell Apos Aquila E, Danesi R, Del Re M.",
+      "modality": "Biologics",
+      "stage": "Discovery / Preclinical",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 81,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Development of Glypican 3-Targeting Antibody-Drug Conjugates for Hepatocellular Carcinoma Therapy.",
+      "summary": "Hepatocellular carcinoma (HCC), a leading cause of global cancer mortality, is characterized by intratumoral heterogeneity, chemoresistance, and limited treatments. Glypican 3 (GPC3), an oncofetal glycoprotein overexpressed in ∼70% of HCC cases but absent in normal adult tissues, represents an attractive target for antibody-drug conjugates (ADC). To address this unmet need, three GPC3-specific antibodies were developed: a fully human Mab-A with moderate affinity (Kd = 45.7 nmol/L), recognizing a unique epitope distal to GPC3's membrane region; a humanized Mab-B with high affinity (Kd = 8.84 nmol/L), targeting an epitope similar to those of several known therapeutic antibodies; and a biparato",
+      "url": "https://europepmc.org/article/MED/42302184",
+      "date": "2026-07-01",
+      "source": "Europe PMC",
+      "authors": "Li N, Zeng Y, Xiong X, Zhang P, Peng X, Chen W, Wei W, Xia X, Liu R, Lu Y, Geng M, Lan X, Li X, Yuan T, Huang Y, Xiao Y, Mou Z, Yie J.",
+      "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "score": 66,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "DMPK / PK-PD package",
+      "score": 76,
+      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Preclinical in vitro and in vivo activity of trastuzumab deruxtecan against &lt;i&gt;ERBB2&lt;/i&gt;-mutated cervical carcinomas with low HER2 expression.",
+      "summary": "Objective Somatic HER2 mutations occur in up to 6% of cervical cancer patients and are associated with poor prognosis. We explored the activity of trastuzumab deruxtecan (T-DXd) as a novel targeted therapy against HER2-mutated primary cervical cancer cell lines and xenografts with low HER2 expression. Methods HER2 expression was assessed by flow cytometry, while ERBB2 mutations were identified by whole-exome sequencing. Cytotoxicity was measured by flow cytometry-based viability assays, and double-stranded DNA breaks were evaluated using anti-phosphorylated-histone H2AX antibody. Bystander effect was assessed by co-culturing HER2-S310F-mutated (CVX4) and non-mutated (CVX8) tumor cells. In vi",
+      "url": "https://europepmc.org/article/MED/42500114",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Sethi N, Ottum S, Bellone S, Demirkiran C, Buza N, Hui P, De Tommasi O, Palmieri L, Ettorre VM, Greenman M, Hartwich TM, Ratner E, Santin AD.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 76,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
+    },
+    {
+      "title": "Development of APH003─a Highly Potent, Selective, and Orally Bioavailable IRAK4 PROTAC Degrader for the Treatment of Inflammatory Diseases.",
+      "summary": "Interleukin-1 receptor-associated kinase 4 (IRAK4) represents an attractive therapeutic target in inflammatory and oncological indications due to its pivotal role as a signaling mediator downstream of TLR and IL-1R. We previously reported a series of spirocyclic IRAK4 degraders and identified APH02174 as a selective, orally bioavailable degrader. However, its hERG inhibition, hepatocyte stability, and variable cross-species PK inspired further structural optimization. The optimization gave eight PROTACs ( 5 - 10 , 14, and APH003 ) which exhibited high IRAK4 degradation ability (DC 50 ≤ 2 nM, DC 90 ≤ 10 nM, and D max ≥ 85%) in vitro . APH003 exhibited favorable PK parameters, low hERG inhibit",
+      "url": "https://europepmc.org/article/MED/42363007",
+      "date": "2026-06-26",
+      "source": "Europe PMC",
+      "authors": "Wu XW, Chen ZM, Gao C, Tian M, Liu XL, Wang H, Chen HJ, Li HX, Yang WQ, An LK.",
+      "modality": "Small Molecule",
+      "stage": "Lead optimization",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Lead optimization inflection",
+      "score": 68,
+      "finance": "Reassess remaining chemistry/engineering cycles, DMPK and tox work needed before candidate selection; this can change discovery burn and timing."
+    },
+    {
+      "title": "Preclinical Comparison of Two CD3xB7H4 Bispecific Antibodies for Solid Tumor Therapy Reveals CD3 Affinity-Dependent Potency and Tolerability Tradeoffs.",
+      "summary": "The immune checkpoint protein B7H4 is overexpressed in tumors compared to normal tissues, making it an attractive target for cancer immunotherapy. Here, we compare two B7H4-targeting CD3 bispecific antibodies (bsAbs) with different CD3 affinities across in vitro and in vivo characterization studies. In vitro, the CD3xB7H4 bsAb variant with higher CD3 affinity showed greater potency for tumor cell killing and cytokine secretion than the lower affinity variant. In nonclinical toxicology assessments in cynomolgus monkeys, the CD3xB7H4 bsAb variant with lower CD3 affinity induced less cytokine secretion and was tolerated at a higher maximum plasma concentration. Both CD3xB7H4 bsAbs demonstrated ",
+      "url": "https://europepmc.org/article/MED/42374845",
+      "date": "2026-06-30",
+      "source": "Europe PMC",
+      "authors": "Koopman LA, Alemdehy F, de Poot SAH, Paauwe M, Wang W, Epstein KR, van den Brink EN, Gorlani A, Verzijl D, Brandhorst M, Franken P, Smits-de Vries L, Gielen E, Plantinga TS, Houtkamp M, Engelberts PJ, Lihme Egerod F, Tha",
+      "modality": "Biologics",
+      "stage": "Preclinical safety",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
+    },
+    {
+      "title": "From DNA-encoded library (DEL) screening to in vivo validation: LILRB4 (ILT3)-targeted small molecules reprograms myeloid immune suppression.",
+      "summary": "Alzheimer's disease (AD) remains a major unmet clinical challenge, with limited therapeutic strategies capable of effectively modulating neuroimmune dysfunction. Leukocyte immunoglobulin-like receptor B4 (LILRB4/ILT3) has recently emerged as an inhibitory microglial immune checkpoint implicated in ApoE-mediated suppression of amyloid-β (Aβ) clearance and inflammatory signaling, supporting its potential as a therapeutic target in AD. Here, we applied DNA-encoded library (DEL) screening of approximately 3.6 billion compounds to identify small molecule binders of LILRB4. Biophysical validation identified APX1 as a direct LILRB4 ligand with submicromolar affinity, which was further confirmed by ",
+      "url": "https://europepmc.org/article/MED/42407324",
+      "date": "2026-07-06",
+      "source": "Europe PMC",
+      "authors": "Abdel-Rahman SA, Gabr MT.",
+      "modality": "Small Molecule",
+      "stage": "Developability / CMC",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Developability / CMC signal",
+      "score": 68,
+      "finance": "Check process, formulation, stability, yield and scale-up assumptions; manufacturability can move cost and timeline before IND-enabling."
+    },
+    {
+      "title": "Bispecific antibody AP402 targets p95HER2 and induces costimulation through CD137 to improve efficacy for HER2-positive tumors.",
+      "summary": "Background Outcomes for HER2-positive cancers have been greatly improved by trastuzumab and other HER2-targeted therapies. However, many tumors express a truncated p95HER2 variant that lacks the extracellular trastuzumab binding site. Since these tumors exhibit resistance and more aggressive disease phenotypes, the AP402 bispecific antibody was developed to target p95HER2 and engage activated T cells toward tumor cells via CD137 engagement. Methods AP402 was characterized in terms of binding, anti-tumor activity and safety using in vitro and in vivo models. Using p95HER2- and full-length HER2-expressing tumor cells, antibody-dependent cellular cytotoxicity (ADCC) assays were performed. AP402",
+      "url": "https://europepmc.org/article/MED/42443735",
+      "date": "2026-07-13",
+      "source": "Europe PMC",
+      "authors": "Huang PL, Hsieh HT, Kan HT, Hsu CH, Huang KM, Chen HY, Chen TN, You JJ.",
+      "modality": "Biologics",
+      "stage": "Preclinical efficacy",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
     },
     {
       "title": "Activity of datopotamab deruxtecan in TROP2-expressing low-grade serous ovarian cancer: a preclinical study.",
@@ -371,6 +622,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -385,6 +637,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -399,6 +652,7 @@
       "stage": "Discovery / Preclinical",
       "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
@@ -413,8 +667,24 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Past present and future of radiosensitization in cervical cancer.",
+      "summary": "Cervical cancer remains a major health concern with over 662,000 cases and 348,000 deaths worldwide yearly. Treatment of early stage disease is generally surgical resection with excellent 5-year survival rates. Locally advanced cervical cancer (LACC) is potentially curable but still has only an approximately 50% 5-year survival rate. LACC is currently treated with chemoradiotherapy (cisplatin). Cisplatin as a radiosensitizer was established by 4 seminal, randomized clinical trials in the 1990s. While radiation techniques have advanced significantly over the past 25 years, the use of cisplatin as a radiosensitizer has not changed. With the development of new, more precise chemotherapy regimen",
+      "url": "https://europepmc.org/article/MED/42404226",
+      "date": "2026-06-19",
+      "source": "Europe PMC",
+      "authors": "Julian ON, Velarde I, Advani SJ, Mayadev J, Eskander RN.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical safety",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
     },
     {
       "title": "Dual HER2/HER3 Targeting with Antibody-Drug Conjugates Reveals a Novel Therapeutic Strategy for HER2-Mutant Lobular Breast Cancer",
@@ -427,6 +697,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -441,6 +712,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -455,6 +727,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -469,6 +742,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -483,6 +757,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
@@ -497,6 +772,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -508,9 +784,10 @@
       "source": "Europe PMC",
       "authors": "Molinaro F, Colangelo GS, Cocco P, Di Ianni A, Knapp-Buehle D, Paoletti A, Bertotti E, Cowan K, Riccardi Sirtori F, Barbero L.",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
+      "stage": "Developability / CMC",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -525,6 +802,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -539,6 +817,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -550,9 +829,10 @@
       "source": "Europe PMC",
       "authors": "Shen JX, Dodge R, Oberstein S, Cunliffe J, Ramani V, Mohana Sundaram S, Santos IC, Yu C, Dholakiya SL, Kumar S, Xu XS, Fraser S, Mokhtari Z, Yin F, Rizzo DG, Barnaby OS, Shen H, Warrino DE, Awasthi S, Burke K, Schaffer S",
       "modality": "ADC / ATTC",
-      "stage": "Discovery / Preclinical",
+      "stage": "Developability / CMC",
       "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -567,20 +847,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Development of Glypican 3-Targeting Antibody-Drug Conjugates for Hepatocellular Carcinoma Therapy.",
-      "summary": "Hepatocellular carcinoma (HCC), a leading cause of global cancer mortality, is characterized by intratumoral heterogeneity, chemoresistance, and limited treatments. Glypican 3 (GPC3), an oncofetal glycoprotein overexpressed in ∼70% of HCC cases but absent in normal adult tissues, represents an attractive target for antibody-drug conjugates (ADC). To address this unmet need, three GPC3-specific antibodies were developed: a fully human Mab-A with moderate affinity (Kd = 45.7 nmol/L), recognizing a unique epitope distal to GPC3's membrane region; a humanized Mab-B with high affinity (Kd = 8.84 nmol/L), targeting an epitope similar to those of several known therapeutic antibodies; and a biparato",
-      "url": "https://europepmc.org/article/MED/42302184",
-      "date": "2026-07-01",
-      "source": "Europe PMC",
-      "authors": "Li N, Zeng Y, Xiong X, Zhang P, Peng X, Chen W, Wei W, Xia X, Liu R, Lu Y, Geng M, Lan X, Li X, Yuan T, Huang Y, Xiao Y, Mou Z, Yie J.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -592,9 +859,25 @@
       "source": "Europe PMC",
       "authors": "Tanaka T, Sugiyama A, Sakata J, Tatsumi T, Katoh H, Maeda K, Inagaki Y, Yamashita T, Kawamura T, Kuratani M, Nakano T, Ishii M, Miura M, Kamiya W, Shiratori Y, Kitanoya H, Chansler M, Harada N, Tsuchiya M, Osawa T, Ishik",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
+      "stage": "Developability / CMC",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Topological data analysis for antibody-drug conjugate payload discovery: a computational framework for mechanistic classification and target validation.",
+      "summary": "Antibody-drug conjugate (ADC) payload discovery remains constrained by reliance on traditional molecular descriptors that inadequately capture three-dimensional geometric features governing target recognition and mechanism of action. Topological data analysis (TDA) offers a mathematical framework for characterizing molecular shape through persistent homology, potentially revealing mechanistic relationships invisible to conventional approaches. We developed a comprehensive TDA framework analyzing 22 FDA-approved ADC payloads across 1,471 clinical trial records, computing 31 topological descriptors encompassing Betti numbers, persistence statistics, and complexity metrics. Hierarchical cluster",
+      "url": "https://europepmc.org/article/MED/42397476",
+      "date": "2026-07-03",
+      "source": "Europe PMC",
+      "authors": "Akgüller Ö, Balcı MA.",
+      "modality": "ADC / ATTC",
+      "stage": "Target validation",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -609,6 +892,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
@@ -623,6 +907,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -637,6 +922,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
@@ -651,6 +937,7 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
@@ -665,22 +952,24 @@
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "Low dose radiotherapy-induced tumor-preferential antigens enhance antibody-drug conjugate efficacy in solid tumors.",
-      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors is often limited by low or heterogeneous antigen expression. Here, we investigated low-dose radiotherapy (LDRT) as a noninvasive sensitization strategy to enhance tumor surface antigen expression and improve ADC activity. Transcriptomic profiling and flow cytometry identified ICAM1 as the most strongly radiation-inducible antigen after 2 Gy irradiation, showing an approximately 4-fold increase and exceeding several established ADC targets. Mechanistic studies revealed that radiation-induced reactive oxygen species (ROS) and oxidative stress signaling upregulated ICAM1, enhanced antibody internalization, and improved ICAM1-targeted ADC de",
-      "url": "https://europepmc.org/article/MED/42476099",
+      "title": "Antibody-drug conjugates in colorectal cancer: advances, challenges, and prospectives.",
+      "summary": "Antibody-drug conjugates (ADCs) represent an emerging class of targeted therapeutics with considerable potential in the management of colorectal cancer (CRC). By delivering highly potent cytotoxic agents to cancer cells via specific antibodies, ADCs enable precise tumor targeting while minimizing off-target toxicity. Recent advancements have identified several promising targets for ADC development in CRC, including human epidermal growth factor receptor 2 (HER2), carcinoembryonic antigen-related cell adhesion molecule 5 (CEACAM5), mesenchymal-epithelial transition factor (c-MET), epidermal growth factor receptor (EGFR), cadherin-17 (CDH17), and trophoblast cell surface antigen 2 (Trop-2). Cl",
+      "url": "https://europepmc.org/article/MED/42476270",
       "date": "2026-07-20",
       "source": "Europe PMC",
-      "authors": "Xing Y, Yang Y, Liu Y, Yang T, Ma L, Chen J, Yang Y, Xu Y, Lu Y, Guo P, Li P.",
+      "authors": "Zeng L, Zhu Y, Zhang K, Liu B, Ding J.",
       "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
+      "stage": "Preclinical safety",
+      "evidence": "Early signal",
       "signal_class": "Research Watch",
+      "major_reason": null,
       "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
     }
   ]
 }
