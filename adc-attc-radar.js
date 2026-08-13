@@ -11,10 +11,7 @@ function scoreEvent(e){
  const modality=isADC(s);
  for(const p of PIPELINE){
   const target=p.targets.some(x=>s.includes(x));
-  if(target&&modality){
-   const m=35;
-   if(m>match){match=m;asset=p.name;}
-  }
+  if(target&&modality){const m=35;if(m>match){match=m;asset=p.name;}}
  }
  if(!match&&modality) match=14;
  if(/phase 3|phase iii|pivotal|approval|approv|获批|批准|bla|nda|nmpa|fda|ema/.test(s)) competitive+=14;
@@ -58,10 +55,7 @@ function bindNavigation(){
  document.querySelectorAll('[data-scrollto]').forEach(btn=>{
   if(btn.dataset.radarNavBound)return;
   btn.dataset.radarNavBound='1';
-  btn.addEventListener('click',()=>{
-   const id=btn.dataset.scrollto;
-   setTimeout(()=>document.getElementById(id)?.scrollIntoView({behavior:'smooth',block:'start'}),0);
-  });
+  btn.addEventListener('click',()=>{const id=btn.dataset.scrollto;setTimeout(()=>document.getElementById(id)?.scrollIntoView({behavior:'smooth',block:'start'}),0);});
  });
  document.querySelectorAll('.topic[data-filter]').forEach(btn=>{
   if(btn.dataset.topicScrollBound)return;
@@ -69,27 +63,22 @@ function bindNavigation(){
   btn.addEventListener('click',()=>setTimeout(()=>document.getElementById('news')?.scrollIntoView({behavior:'smooth',block:'start'}),40));
  });
 }
-function normalizeCompanyUpdate(x){
- return {title:x.title,summary:x.summary,category:x.type||'Clinical',date:x.date,tags:[x.company,x.type].filter(Boolean),why:x.bp,bp:x.bp,sources:x.url?[{name:x.company||'Source',url:x.url}]:[]};
-}
-function dedupe(items){
- const seen=new Set();return items.filter(e=>{const k=(e.title||'').toLowerCase().replace(/\s+/g,' ').trim();if(!k||seen.has(k))return false;seen.add(k);return true;});
-}
+function normalizeCompanyUpdate(x){return {title:x.title,summary:x.summary,category:x.type||'Clinical',date:x.date,tags:[x.company,x.type].filter(Boolean),why:x.bp,bp:x.bp,sources:x.url?[{name:x.company||'Source',url:x.url}]:[]};}
+function dedupe(items){const seen=new Set();return items.filter(e=>{const k=(e.title||'').toLowerCase().replace(/\s+/g,' ').trim();if(!k||seen.has(k))return false;seen.add(k);return true;});}
 async function render(){
  injectStyle();relabel();
  const anchor=document.querySelector('.tabs')||document.querySelector('.hotbox'); if(!anchor)return;
  const section=document.createElement('section');section.className='ourRadar';section.id='ourRadar';
  section.innerHTML=`<div class="ourRadarHead"><div><span class="ourEyebrow">US-FIRST COMPETITIVE INTELLIGENCE</span><h2>ADC / ATTC Competitive Radar</h2></div><span class="ourScope">Phase 1 · ADC/ATTC first</span></div><div class="ourAssets"><span class="ourAsset">Our HER2 ATTC</span><span class="ourAsset">Our EGFR ATTC</span></div><div id="ourRadarGrid" class="radarGrid"><div class="radarEmpty">正在匹配 ADC / ATTC 竞争信号…</div></div>`;
- anchor.insertAdjacentElement('afterend',section);
- bindNavigation();
+ anchor.insertAdjacentElement('afterend',section);bindNavigation();
  try{
-  const res=await fetch('data/news.json?radar=20260813b'); const data=await res.json();
+  const res=await fetch('data/news.json?radar=20260813c'); const data=await res.json();
   let extras=[];try{if(typeof COMPANY_UPDATES!=='undefined')extras=COMPANY_UPDATES.map(normalizeCompanyUpdate)}catch(e){}
   const all=dedupe([...(data.items||[]),...extras]);
   const ranked=all.map(e=>({e,r:scoreEvent(e)})).filter(x=>x.r.match>=14).sort((a,b)=>b.r.total-a.r.total).slice(0,8);
   const grid=document.querySelector('#ourRadarGrid');
   if(!ranked.length){grid.innerHTML='<div class="radarEmpty">当前数据源没有足够强的 ADC / ATTC 匹配。保留空结果，不为了凑榜单抬高无关新闻。</div>';return;}
-  grid.innerHTML=ranked.map(({e,r})=>`<article class="radarCard"><div class="radarMeta"><span class="impactBadge">${r.level} · ${r.total}</span><span>${esc(e.category||'Signal')}</span><span>${esc(e.date||'')}</span></div><h3>${esc(e.title)}</h3><div class="radarAsset">Related to Us: ${esc(r.asset)}</div><div class="scoreBreak"><span>管线匹配<b>${r.match}/35</b></span><span>竞争影响<b>${r.competitive}/25</b></span><span>事件确定性<b>${r.evidence}/20</b></span><span>财务影响<b>${r.finance}/20</b></span></div><div class="bpAction"><b>BP action:</b> ${esc(actionFor(e,r))}</div>${e.sources?.[0]?.url?`<p><a href="${esc(e.sources[0].url)}" target="_blank" rel="noopener">Source ↗</a></p>`:''}</article>`).join('');
+  grid.innerHTML=ranked.map(({e,r})=>`<article class="radarCard"><div class="radarMeta"><span class="impactBadge">${r.level} · ${r.total}</span><span>${esc(e.category||'Signal')}</span><span>${esc(e.date||'')}</span></div><h3>${esc(e.title)}</h3><div class="radarAsset">Related to Us: ${esc(r.asset)}</div><div class="scoreBreak"><span>Pipeline Match<b>${r.match}/35</b></span><span>Competitive<b>${r.competitive}/25</b></span><span title="How mature and well-confirmed the external signal is">Evidence<b>${r.evidence}/20</b></span><span>Finance<b>${r.finance}/20</b></span></div><div class="bpAction"><b>BP action:</b> ${esc(actionFor(e,r))}</div>${e.sources?.[0]?.url?`<p><a href="${esc(e.sources[0].url)}" target="_blank" rel="noopener">Source ↗</a></p>`:''}</article>`).join('');
  }catch(err){document.querySelector('#ourRadarGrid').innerHTML='<div class="radarEmpty">竞争雷达暂时无法读取新闻数据；原有新闻页面不受影响。</div>';}
 }
 window.addEventListener('DOMContentLoaded',render);
