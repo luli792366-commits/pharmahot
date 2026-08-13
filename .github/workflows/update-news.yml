@@ -12,9 +12,14 @@ on:
     - cron: '17 0 * * 1'
 permissions:
   contents: write
+  pages: write
+  id-token: write
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -33,3 +38,12 @@ jobs:
           git add data/news.json data/preclinical.json data/archive/
           git diff --cached --quiet || git commit -m "chore: weekly PharmaHot update"
           git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload refreshed site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy refreshed site
+        id: deployment
+        uses: actions/deploy-pages@v4
