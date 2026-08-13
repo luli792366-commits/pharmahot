@@ -10,7 +10,8 @@ START=TODAY-timedelta(days=60)
 DISCOVERY_TERMS=[
  'preclinical','pre-clinical','drug discovery','lead optimization','lead optimisation','hit-to-lead','candidate nomination',
  'development candidate','ind-enabling','ind enabling','glp tox','toxicology','safety pharmacology','dmpk','adme','pk/pd',
- 'xenograft','patient-derived xenograft','organoid','in vivo','in vitro','developability','manufacturability','formulation'
+ 'xenograft','patient-derived xenograft','organoid','in vivo','in vitro','developability','manufacturability','formulation',
+ 'therapeutic index','safety window','oral bioavailability','target validation','scale-up','stability'
 ]
 MODALITY_TERMS={
  'ADC / ATTC':['antibody-drug conjugate','antibody drug conjugate',' adc ','attc','payload','linker','drug-to-antibody ratio',' dar '],
@@ -19,7 +20,7 @@ MODALITY_TERMS={
 }
 REVIEW_TERMS=['review','perspective','overview','landscape','current status','emerging frontiers','comprehensive narrative','state of the art']
 
-MAJOR_PATTERNS=[
+LATE_MAJOR_PATTERNS=[
  ('IND submitted / cleared',[
   r'\bind (?:application )?(?:was |has been )?(?:submitted|filed|cleared|accepted)\b',
   r'\b(?:submitted|filed) (?:an |the )?ind\b',
@@ -41,10 +42,12 @@ MAJOR_PATTERNS=[
  ])
 ]
 STAGE_RULES=[
- ('Lead optimization',['lead optimization','lead optimisation','hit-to-lead','hit to lead']),
- ('Preclinical safety',['nonclinical toxicology','preclinical toxicology','toxicology assessment','safety pharmacology','noael','toxicokinetic']),
+ ('Lead optimization',['lead optimization','lead optimisation','hit-to-lead','hit to lead','structural optimization','structure optimization']),
+ ('Preclinical safety',['nonclinical toxicology','preclinical toxicology','toxicology assessment','safety pharmacology','noael','toxicokinetic','therapeutic index','safety window']),
+ ('Developability / CMC',['developability','manufacturability','scale-up','process development','stability','formulation','conjugation consistency','expression yield']),
  ('Preclinical efficacy',['xenograft','patient-derived xenograft','organoid','in vivo','tumor regression','tumour regression','preclinical efficacy']),
- ('Discovery',['drug discovery','target validation','screening','in vitro'])
+ ('Target validation',['target validation','validated target','genetic validation','dependency']),
+ ('Discovery',['drug discovery','screening','in vitro'])
 ]
 
 def get(url):
@@ -63,37 +66,64 @@ def modality(s):
   if n>best[1]:best=(name,n)
  return best[0]
 def is_review(s):return any(x in s for x in REVIEW_TERMS)
-def major_stage(s):
+def late_major_stage(s):
  if is_review(s):return None
- for name,patterns in MAJOR_PATTERNS:
+ for name,patterns in LATE_MAJOR_PATTERNS:
   if any(re.search(p,s,re.I) for p in patterns):return name
  return None
 def stage(s):
- major=major_stage(s)
+ major=late_major_stage(s)
  if major:return major
  for name,terms in STAGE_RULES:
   if any(t in s for t in terms):return name
  return 'Discovery / Preclinical'
-def evidence(s,stg):
+def count_hits(s,terms):return sum(1 for x in terms if x in s)
+def early_major_reason(s,stg):
+ if is_review(s):return None
+ # Strong translational package: multiple evidence dimensions, not a single assay/model.
+ efficacy=count_hits(s,['multiple models','multiple tumor models','multiple tumour models','dose response','dose-response','benchmark comparator','compared with','versus','xenograft','patient-derived xenograft','pdx','organoid','tumor regression','tumour regression'])
+ exposure=count_hits(s,['pk/pd','pharmacokinetic','pharmacodynamic','oral bioavailability','bioavailability','exposure','half-life','dmpk','adme'])
+ safety=count_hits(s,['therapeutic index','safety window','tolerability','tolerated','noael','toxicity','off-target','herg','cytokine release'])
+ dev=count_hits(s,['developability','manufacturability','formulation','stability','scale-up','process development','expression yield','conjugation consistency','dar heterogeneity'])
+ optimization=count_hits(s,['lead optimization','lead optimisation','structural optimization','structure optimization','optimized','optimised','improved selectivity','selective','potent'])
+ target=count_hits(s,['target validation','validated target','genetic validation','dependency','resistance mechanism','biomarker'])
+ if stg=='Lead optimization' and optimization>=2 and (exposure>=1 or safety>=1):return 'Lead optimization inflection'
+ if exposure>=2 and (efficacy>=2 or optimization>=1):return 'DMPK / PK-PD package'
+ if safety>=2 and (efficacy>=1 or exposure>=1):return 'Safety-window signal'
+ if dev>=2 and (efficacy>=1 or exposure>=1 or safety>=1):return 'Developability / CMC signal'
+ if efficacy>=4 and (exposure>=1 or safety>=1):return 'Strong in-vivo package'
+ if stg=='Target validation' and target>=2 and efficacy>=2:return 'Target-validation inflection'
+ return None
+def evidence(s,stg,reason):
  if stg in ('IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate'):return 'Development-ready signal'
+ if reason:return 'Decision-relevant package'
  if any(x in s for x in ['dose response','dose-response','pk/pd','multiple models','xenograft','organoid','in vivo']):return 'Reproducible package'
  return 'Early signal'
 def signal_class(s,stg):
- return 'Major Development Signal' if stg in ('IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate') else 'Research Watch'
-def finance_action(stg,mod):
+ if stg in ('IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate'):return 'Major Development Signal',stg
+ reason=early_major_reason(s,stg)
+ return ('Major Development Signal',reason) if reason else ('Research Watch',None)
+def finance_action(stg,mod,reason):
  if stg=='IND submitted / cleared':return 'Move the model from preclinical close-out toward FIH start-up, clinical supply and ongoing CMC.'
  if stg in ('GLP tox / safety package','IND-enabling'):return 'Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path.'
  if stg=='Development candidate':return 'Expect spend to concentrate around the nominated asset: DMPK, tox, formulation/process development and IND-enabling work.'
- if stg=='Preclinical safety':return 'Treat this as a safety-learning signal, not a formal development milestone unless GLP or IND-enabling status is explicitly stated.'
+ if reason=='Lead optimization inflection':return 'Reassess remaining chemistry/engineering cycles, DMPK and tox work needed before candidate selection; this can change discovery burn and timing.'
+ if reason=='DMPK / PK-PD package':return 'Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration.'
+ if reason=='Safety-window signal':return 'Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions.'
+ if reason=='Developability / CMC signal':return 'Check process, formulation, stability, yield and scale-up assumptions; manufacturability can move cost and timeline before IND-enabling.'
+ if reason=='Strong in-vivo package':return 'Treat efficacy as more credible than a single-model result; verify exposure, safety margin and reproducibility before changing forecast assumptions.'
+ if reason=='Target-validation inflection':return 'A stronger biology case can justify additional molecule-building spend, but keep valuation and timeline conservative until translational evidence emerges.'
+ if stg=='Preclinical safety':return 'Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work.'
  if mod=='ADC / ATTC':return 'Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready.'
  if mod=='Small Molecule':return 'Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions.'
  return 'Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions.'
-def score_item(s,source,stg):
+def score_item(s,source,stg,reason):
  v=45
  if source=='Europe PMC':v+=8
  if source=='bioRxiv':v+=5
  if stg=='Development candidate':v+=22
  if stg in ('IND-enabling','GLP tox / safety package','IND submitted / cleared'):v+=25
+ if reason:v+=15
  if any(x in s for x in ['antibody-drug conjugate','antibody drug conjugate',' adc ','attc']):v+=8
  if any(x in s for x in ['pk/pd','dose-response','dose response','multiple models']):v+=5
  if is_review(s):v-=15
@@ -101,14 +131,14 @@ def score_item(s,source,stg):
 def make(title,summary,url,date,source,authors=''):
  s=blob(title,summary)
  if not relevant(s):return None
- mod=modality(s);stg=stage(s);cls=signal_class(s,stg)
+ mod=modality(s);stg=stage(s);cls,reason=signal_class(s,stg)
  return {'title':clean(title),'summary':clean(summary)[:700],'url':url,'date':date,'source':source,'authors':clean(authors)[:220],
-         'modality':mod,'stage':stg,'evidence':evidence(s,stg),'signal_class':cls,'score':score_item(s,source,stg),'finance':finance_action(stg,mod)}
+         'modality':mod,'stage':stg,'evidence':evidence(s,stg,reason),'signal_class':cls,'major_reason':reason,'score':score_item(s,source,stg,reason),'finance':finance_action(stg,mod,reason)}
 
 def europe_pmc():
- terms='("antibody drug conjugate" OR ADC OR "small molecule" OR antibody OR bispecific OR PROTAC OR "molecular glue") AND (preclinical OR "drug discovery" OR "lead optimization" OR "development candidate" OR "IND-enabling" OR toxicology OR DMPK OR xenograft OR organoid)'
+ terms='("antibody drug conjugate" OR ADC OR "small molecule" OR antibody OR bispecific OR PROTAC OR "molecular glue") AND (preclinical OR "drug discovery" OR "lead optimization" OR "development candidate" OR "IND-enabling" OR toxicology OR DMPK OR "PK/PD" OR xenograft OR organoid OR developability OR "therapeutic index")'
  q=f'{terms} AND FIRST_PDATE:[{START.isoformat()} TO {TODAY.isoformat()}]'
- url='https://www.ebi.ac.uk/europepmc/webservices/rest/search?'+urllib.parse.urlencode({'query':q,'format':'json','pageSize':80,'resultType':'core'})
+ url='https://www.ebi.ac.uk/europepmc/webservices/rest/search?'+urllib.parse.urlencode({'query':q,'format':'json','pageSize':100,'resultType':'core'})
  out=[]
  try:
   data=get_json(url)
@@ -144,7 +174,7 @@ def industry_preclinical():
   for it in root.findall('.//item')[:60]:
    title=clean(text(it,'title'));summary=clean(text(it,'description'));link=text(it,'link');date=text(it,'pubDate')[:16]
    s=blob(title,summary)
-   if not any(x in s for x in ['preclinical','pre-clinical','drug discovery','development candidate','ind-enabling','ind enabling','toxicology']):continue
+   if not any(x in s for x in ['preclinical','pre-clinical','drug discovery','lead optimization','development candidate','ind-enabling','ind enabling','toxicology','dmpk','pk/pd']):continue
    item=make(title,summary,link,date,'Fierce Biotech')
    if item:out.append(item)
  except Exception as e:print('industry preclinical failed',e)
