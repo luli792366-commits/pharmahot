@@ -17,17 +17,35 @@ MODALITY_TERMS={
  'Biologics':['antibody','bispecific','trispecific','protein therapeutic','biologic','monoclonal','nanobody'],
  'Small Molecule':['small molecule','small-molecule','inhibitor','degrader','protac','molecular glue','kinase inhibitor']
 }
+REVIEW_TERMS=['review','perspective','overview','landscape','current status','emerging frontiers','comprehensive narrative','state of the art']
+
+MAJOR_PATTERNS=[
+ ('IND submitted / cleared',[
+  r'\bind (?:application )?(?:was |has been )?(?:submitted|filed|cleared|accepted)\b',
+  r'\b(?:submitted|filed) (?:an |the )?ind\b',
+  r'\bind clearance\b',r'\bind cleared\b',r'\binvestigational new drug application (?:was |has been )?(?:submitted|accepted|cleared)\b'
+ ]),
+ ('GLP tox / safety package',[
+  r'\bglp[- ](?:compliant )?(?:tox|toxicology|toxicology studies|safety studies)\b',
+  r'\b(?:completed|initiated|started|began) (?:the )?glp (?:tox|toxicology)\b',
+  r'\bglp (?:tox|toxicology) (?:completed|initiated|started|underway)\b'
+ ]),
+ ('IND-enabling',[
+  r'\b(?:initiated|started|began|commenced|entered) (?:its |the )?ind[- ]enabling\b',
+  r'\bind[- ]enabling (?:studies|activities|work|program|programme) (?:were |was |are |is )?(?:initiated|started|underway|completed)\b'
+ ]),
+ ('Development candidate',[
+  r'\bdevelopment candidate (?:was |has been )?(?:nominated|selected|chosen)\b',
+  r'\b(?:nominated|selected|chosen) (?:as |a |the )*(?:lead )?development candidate\b',
+  r'\bcandidate nomination\b',r'\bcandidate nominated\b'
+ ])
+]
 STAGE_RULES=[
- ('IND submitted / cleared',['ind submission','ind submitted','ind clearance','ind cleared','investigational new drug application']),
- ('GLP tox / safety package',['glp tox','toxicology','safety pharmacology','noael','toxicokinetic']),
- ('IND-enabling',['ind-enabling','ind enabling']),
- ('Development candidate',['candidate nomination','candidate nominated','development candidate','preclinical candidate']),
  ('Lead optimization',['lead optimization','lead optimisation','hit-to-lead','hit to lead']),
+ ('Preclinical safety',['nonclinical toxicology','preclinical toxicology','toxicology assessment','safety pharmacology','noael','toxicokinetic']),
  ('Preclinical efficacy',['xenograft','patient-derived xenograft','organoid','in vivo','tumor regression','tumour regression','preclinical efficacy']),
  ('Discovery',['drug discovery','target validation','screening','in vitro'])
 ]
-MAJOR_STAGES={'IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate'}
-REVIEW_TERMS=['review','perspective','overview','landscape','current status','emerging frontiers','comprehensive narrative']
 
 def get(url):
  req=urllib.request.Request(url,headers={'User-Agent':UA,'Accept':'application/json, application/xml, text/xml, */*'})
@@ -44,22 +62,29 @@ def modality(s):
   n=sum(1 for t in terms if t in s)
   if n>best[1]:best=(name,n)
  return best[0]
+def is_review(s):return any(x in s for x in REVIEW_TERMS)
+def major_stage(s):
+ if is_review(s):return None
+ for name,patterns in MAJOR_PATTERNS:
+  if any(re.search(p,s,re.I) for p in patterns):return name
+ return None
 def stage(s):
+ major=major_stage(s)
+ if major:return major
  for name,terms in STAGE_RULES:
   if any(t in s for t in terms):return name
  return 'Discovery / Preclinical'
-def evidence(s):
- if any(x in s for x in ['ind-enabling','ind enabling','glp tox','development candidate','candidate nominated','candidate nomination']):return 'Development-ready signal'
+def evidence(s,stg):
+ if stg in ('IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate'):return 'Development-ready signal'
  if any(x in s for x in ['dose response','dose-response','pk/pd','multiple models','xenograft','organoid','in vivo']):return 'Reproducible package'
  return 'Early signal'
-def signal_class(s,stg,source):
- if stg in MAJOR_STAGES:return 'Major Development Signal'
- if source=='Fierce Biotech' and any(x in s for x in ['candidate','ind-enabling','ind enabling','toxicology']):return 'Major Development Signal'
- return 'Research Watch'
+def signal_class(s,stg):
+ return 'Major Development Signal' if stg in ('IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate') else 'Research Watch'
 def finance_action(stg,mod):
  if stg=='IND submitted / cleared':return 'Move the model from preclinical close-out toward FIH start-up, clinical supply and ongoing CMC.'
  if stg in ('GLP tox / safety package','IND-enabling'):return 'Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path.'
  if stg=='Development candidate':return 'Expect spend to concentrate around the nominated asset: DMPK, tox, formulation/process development and IND-enabling work.'
+ if stg=='Preclinical safety':return 'Treat this as a safety-learning signal, not a formal development milestone unless GLP or IND-enabling status is explicitly stated.'
  if mod=='ADC / ATTC':return 'Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready.'
  if mod=='Small Molecule':return 'Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions.'
  return 'Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions.'
@@ -71,14 +96,14 @@ def score_item(s,source,stg):
  if stg in ('IND-enabling','GLP tox / safety package','IND submitted / cleared'):v+=25
  if any(x in s for x in ['antibody-drug conjugate','antibody drug conjugate',' adc ','attc']):v+=8
  if any(x in s for x in ['pk/pd','dose-response','dose response','multiple models']):v+=5
- if any(x in s for x in REVIEW_TERMS):v-=12
+ if is_review(s):v-=15
  return max(1,min(99,v))
 def make(title,summary,url,date,source,authors=''):
  s=blob(title,summary)
  if not relevant(s):return None
- mod=modality(s);stg=stage(s);cls=signal_class(s,stg,source)
+ mod=modality(s);stg=stage(s);cls=signal_class(s,stg)
  return {'title':clean(title),'summary':clean(summary)[:700],'url':url,'date':date,'source':source,'authors':clean(authors)[:220],
-         'modality':mod,'stage':stg,'evidence':evidence(s),'signal_class':cls,'score':score_item(s,source,stg),'finance':finance_action(stg,mod)}
+         'modality':mod,'stage':stg,'evidence':evidence(s,stg),'signal_class':cls,'score':score_item(s,source,stg),'finance':finance_action(stg,mod)}
 
 def europe_pmc():
  terms='("antibody drug conjugate" OR ADC OR "small molecule" OR antibody OR bispecific OR PROTAC OR "molecular glue") AND (preclinical OR "drug discovery" OR "lead optimization" OR "development candidate" OR "IND-enabling" OR toxicology OR DMPK OR xenograft OR organoid)'
