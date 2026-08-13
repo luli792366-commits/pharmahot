@@ -26,6 +26,8 @@ STAGE_RULES=[
  ('Preclinical efficacy',['xenograft','patient-derived xenograft','organoid','in vivo','tumor regression','tumour regression','preclinical efficacy']),
  ('Discovery',['drug discovery','target validation','screening','in vitro'])
 ]
+MAJOR_STAGES={'IND submitted / cleared','GLP tox / safety package','IND-enabling','Development candidate'}
+REVIEW_TERMS=['review','perspective','overview','landscape','current status','emerging frontiers','comprehensive narrative']
 
 def get(url):
  req=urllib.request.Request(url,headers={'User-Agent':UA,'Accept':'application/json, application/xml, text/xml, */*'})
@@ -50,6 +52,10 @@ def evidence(s):
  if any(x in s for x in ['ind-enabling','ind enabling','glp tox','development candidate','candidate nominated','candidate nomination']):return 'Development-ready signal'
  if any(x in s for x in ['dose response','dose-response','pk/pd','multiple models','xenograft','organoid','in vivo']):return 'Reproducible package'
  return 'Early signal'
+def signal_class(s,stg,source):
+ if stg in MAJOR_STAGES:return 'Major Development Signal'
+ if source=='Fierce Biotech' and any(x in s for x in ['candidate','ind-enabling','ind enabling','toxicology']):return 'Major Development Signal'
+ return 'Research Watch'
 def finance_action(stg,mod):
  if stg=='IND submitted / cleared':return 'Move the model from preclinical close-out toward FIH start-up, clinical supply and ongoing CMC.'
  if stg in ('GLP tox / safety package','IND-enabling'):return 'Check GLP tox, bioanalysis, safety pharmacology, GMP material and CMC timing on the critical path.'
@@ -57,32 +63,33 @@ def finance_action(stg,mod):
  if mod=='ADC / ATTC':return 'Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready.'
  if mod=='Small Molecule':return 'Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions.'
  return 'Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions.'
-def score_item(s,source):
+def score_item(s,source,stg):
  v=45
  if source=='Europe PMC':v+=8
  if source=='bioRxiv':v+=5
- if any(x in s for x in ['development candidate','candidate nominated','candidate nomination']):v+=16
- if any(x in s for x in ['ind-enabling','ind enabling','glp tox','ind submitted','ind clearance']):v+=20
+ if stg=='Development candidate':v+=22
+ if stg in ('IND-enabling','GLP tox / safety package','IND submitted / cleared'):v+=25
  if any(x in s for x in ['antibody-drug conjugate','antibody drug conjugate',' adc ','attc']):v+=8
  if any(x in s for x in ['pk/pd','dose-response','dose response','multiple models']):v+=5
- return min(99,v)
+ if any(x in s for x in REVIEW_TERMS):v-=12
+ return max(1,min(99,v))
 def make(title,summary,url,date,source,authors=''):
  s=blob(title,summary)
  if not relevant(s):return None
- mod=modality(s);stg=stage(s)
+ mod=modality(s);stg=stage(s);cls=signal_class(s,stg,source)
  return {'title':clean(title),'summary':clean(summary)[:700],'url':url,'date':date,'source':source,'authors':clean(authors)[:220],
-         'modality':mod,'stage':stg,'evidence':evidence(s),'score':score_item(s,source),'finance':finance_action(stg,mod)}
+         'modality':mod,'stage':stg,'evidence':evidence(s),'signal_class':cls,'score':score_item(s,source,stg),'finance':finance_action(stg,mod)}
 
 def europe_pmc():
  terms='("antibody drug conjugate" OR ADC OR "small molecule" OR antibody OR bispecific OR PROTAC OR "molecular glue") AND (preclinical OR "drug discovery" OR "lead optimization" OR "development candidate" OR "IND-enabling" OR toxicology OR DMPK OR xenograft OR organoid)'
  q=f'{terms} AND FIRST_PDATE:[{START.isoformat()} TO {TODAY.isoformat()}]'
- url='https://www.ebi.ac.uk/europepmc/webservices/rest/search?'+urllib.parse.urlencode({'query':q,'format':'json','pageSize':60,'resultType':'core'})
+ url='https://www.ebi.ac.uk/europepmc/webservices/rest/search?'+urllib.parse.urlencode({'query':q,'format':'json','pageSize':80,'resultType':'core'})
  out=[]
  try:
   data=get_json(url)
   for r in data.get('resultList',{}).get('result',[]):
    title=r.get('title','');summary=r.get('abstractText','') or r.get('title','')
-   pmid=r.get('pmid');doi=r.get('doi');src=r.get('source','')
+   pmid=r.get('pmid');doi=r.get('doi')
    link=('https://europepmc.org/article/MED/'+pmid) if pmid else (('https://doi.org/'+doi) if doi else 'https://europepmc.org/')
    date=r.get('firstPublicationDate') or r.get('firstIndexDate','')[:10]
    item=make(title,summary,link,date,'Europe PMC',r.get('authorString',''))
@@ -94,7 +101,7 @@ def biorxiv():
  out=[]
  base=f'https://api.biorxiv.org/details/biorxiv/{START.isoformat()}/{TODAY.isoformat()}'
  try:
-  for cursor in (0,100):
+  for cursor in (0,100,200):
    data=get_json(f'{base}/{cursor}')
    collection=data.get('collection',[])
    for r in collection:
@@ -109,7 +116,7 @@ def industry_preclinical():
  out=[]
  try:
   root=ET.fromstring(get('https://www.fiercebiotech.com/rss/xml'))
-  for it in root.findall('.//item')[:50]:
+  for it in root.findall('.//item')[:60]:
    title=clean(text(it,'title'));summary=clean(text(it,'description'));link=text(it,'link');date=text(it,'pubDate')[:16]
    s=blob(title,summary)
    if not any(x in s for x in ['preclinical','pre-clinical','drug discovery','development candidate','ind-enabling','ind enabling','toxicology']):continue
@@ -120,11 +127,15 @@ def industry_preclinical():
 
 items=europe_pmc()+biorxiv()+industry_preclinical()
 seen=set();unique=[]
-for x in sorted(items,key=lambda z:(z.get('date',''),z.get('score',0)),reverse=True):
+for x in items:
  k=re.sub(r'[^a-z0-9]+',' ',x['title'].lower()).strip()[:120]
  if not k or k in seen:continue
  seen.add(k);unique.append(x)
+priority={'Major Development Signal':0,'Research Watch':1}
+unique.sort(key=lambda z:(priority.get(z.get('signal_class'),9),-z.get('score',0),z.get('date','')),reverse=False)
+major=[x for x in unique if x.get('signal_class')=='Major Development Signal'][:12]
+research=[x for x in unique if x.get('signal_class')=='Research Watch'][:24]
 Path('data').mkdir(exist_ok=True)
-payload={'updated_at':datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),'window_days':60,'sources':['Europe PMC','bioRxiv','Fierce Biotech'],'items':unique[:36]}
+payload={'updated_at':datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC'),'window_days':60,'sources':['Europe PMC','bioRxiv','Fierce Biotech'],'major_signals':major,'research_watch':research,'items':major+research}
 Path('data/preclinical.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding='utf-8')
-print('wrote',len(payload['items']),'preclinical stories')
+print('wrote',len(major),'major and',len(research),'research preclinical stories')
