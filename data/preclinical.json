@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 06:26 UTC",
+  "updated_at": "2026-08-17 01:55 UTC",
   "window_days": 60,
   "sources": [
     "Europe PMC",
@@ -7,21 +7,6 @@
     "Fierce Biotech"
   ],
   "major_signals": [
-    {
-      "title": "A Newly Designed Antibody-drug Conjugate Targeting B7-H3 Demonstrates Enhanced Therapeutic Efficacy Across a Spectrum of Cancers.",
-      "summary": "Introduction The development of antibody-drug conjugates (ADCs) has accelerated due to their tumor-targeting precision. However, challenges in optimizing the target-linker-payload combination often lead to attrition from safety or efficacy issues, highlighting the need for ADCs with an improved therapeutic index. This study presents a newly designed B7-H3-targeted ADC, BR112, and demonstrates its superior preclinical efficacy across multiple models. Methods BR112 comprises a humanized anti-B7-H3 antibody (112-59) conjugated to the microtubule inhibitor MMAE via a Pyridazinedione-valine-citrulline-p-aminobenzyl (PD-VC-PAB) linker with a drug-to-antibody ratio (DAR) of 4.15. The binding affini",
-      "url": "https://europepmc.org/article/MED/42303884",
-      "date": "2026-06-16",
-      "source": "Europe PMC",
-      "authors": "Qian J, Zhu X, Zhao X, Zhu J, Wu Z, Zheng Q, Wang J, Yu F, Nie L, Weng Q.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical safety",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "DMPK / PK-PD package",
-      "score": 81,
-      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
-    },
     {
       "title": "Beyond Conventional Monoclonals: Novel Antibody Formats and Derivatives as the Next Frontier in Cancer Therapy.",
       "summary": "Background Monoclonal antibodies (mAbs) and their derivatives represent a central pillar of contemporary oncology, with expanding complexity in molecular design and clinical application. Beyond unconjugated mAbs, bispecific, trispecific (bsAbs/tsAbs) and antibody-drug conjugates (ADCs) introduce additional pharmacological dimensions that directly impact efficacy, toxicity, and resistance. BsAbs were developed as pharmacological matchmakers to simultaneously engage tumor antigens and immune receptors, physically bridging effectors and malignant cells to promote immunological synapse formation. TsAbs extend this concept by enabling coordinated engagement of three targets. ADCs exploit mAb spec",
@@ -130,36 +115,6 @@
   ],
   "research_watch": [
     {
-      "title": "Activity of datopotamab deruxtecan in TROP2-expressing low-grade serous ovarian cancer: a preclinical study.",
-      "summary": "Introduction Low-grade serous ovarian carcinoma (LGSOC) is a rare ovarian cancer subtype with limited sensitivity to chemotherapy and modest benefit from endocrine and MEK-directed therapy. New therapeutic targets are needed. We evaluated trophoblast cell-surface antigen 2 (TROP2) expression in LGSOC and the activity of datopotamab deruxtecan (Dato-DXd), a TROP2-directed antibody-drug conjugate, in an LGSOC patient-derived xenograft (PDX) model. Methods TROP2 expression was assessed by immunohistochemistry in a retrospective single-center cohort of 29 LGSOC cases treated at Yale University. Antitumor activity of Dato-DXd was evaluated in a TROP2-expressing PDX model derived from a heavily pr",
-      "url": "https://europepmc.org/article/MED/42368461",
-      "date": "2026-06-15",
-      "source": "Europe PMC",
-      "authors": "Ottum S, De Tommasi O, Demirkiran C, Bellone S, Buza N, Niu N, Sethi N, Hartwich TM, Santin AD.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Normalized internalization predicts potency of carcinoembryonic antigen-related cell adhesion molecule 6-targeting antibody-drug conjugates.",
-      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors frequently fails to track with target abundance or binding affinity, reflecting delivery bottlenecks that remain difficult to quantify during lead selection. Here, we develop a discovery-to-function workflow for carcinoembryonic antigen-related cell adhesion molecule 6 (CEACAM6), a glycosylphosphatidylinositol (GPI)-anchored antigen with context-dependent trafficking and show that intracellular delivery-related parameters can better organize ADC potency than antigen abundance or binding affinity alone in the CEACAM6 model system. Using multiplexed single-cell screening, we generated a mechanistically diverse anti-CEACAM6 antibody panel s",
-      "url": "https://europepmc.org/article/MED/42309467",
-      "date": "2026-06-17",
-      "source": "Europe PMC",
-      "authors": "Lim JY, Hong J, Lee SH, Lee SG, Chae BH, Son GH, Park M, Yoo TH, Kim YS, Lee CH.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
       "title": "Targeting TROP2 in drug-tolerant persister cells delays EGFR tyrosine kinase inhibitor resistance in non-small-cell lung cancer.",
       "summary": "Drug-tolerant persister (DTP) cells play a key role in the development of resistance to EGFR tyrosine kinase inhibitors (TKIs) in EGFR-mutant non-small-cell lung cancer (NSCLC). Through comprehensive analyses, we identify that TROP2 is dynamically upregulated during TKI-induced DTP formation and functionally contributes to DTP maintenance. Mechanistically, c-Myc acts as a transcriptional repressor of TROP2, and TKI-mediated MAPK pathway inhibition reduces c-Myc levels, leading to TROP2 upregulation. Importantly, combining the TROP2-targeting antibody-drug conjugate (ADC) sacituzumab tirumotecan (sac-TMT) with osimertinib effectively suppresses DTP emergence and delays tumor relapse in precli",
       "url": "https://europepmc.org/article/MED/42314664",
@@ -488,24 +443,39 @@
       "major_reason": null,
       "score": 61,
       "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
+    },
+    {
+      "title": "Low dose radiotherapy-induced tumor-preferential antigens enhance antibody-drug conjugate efficacy in solid tumors.",
+      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors is often limited by low or heterogeneous antigen expression. Here, we investigated low-dose radiotherapy (LDRT) as a noninvasive sensitization strategy to enhance tumor surface antigen expression and improve ADC activity. Transcriptomic profiling and flow cytometry identified ICAM1 as the most strongly radiation-inducible antigen after 2 Gy irradiation, showing an approximately 4-fold increase and exceeding several established ADC targets. Mechanistic studies revealed that radiation-induced reactive oxygen species (ROS) and oxidative stress signaling upregulated ICAM1, enhanced antibody internalization, and improved ICAM1-targeted ADC de",
+      "url": "https://europepmc.org/article/MED/42476099",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Xing Y, Yang Y, Liu Y, Yang T, Ma L, Chen J, Yang Y, Xu Y, Lu Y, Guo P, Li P.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Antibody-drug conjugate combination therapy targeting LGR5 and MET with different payloads enhances efficacy in preclinical colorectal cancer models",
+      "summary": "Leucine-rich repeat-containing G protein-coupled receptor 5 (LGR5) is a marker of cancer stem-like cells frequently upregulated in colorectal cancer (CRC) with lower expression in normal tissues, making it a favorable target for antibody-drug conjugates (ADCs). ADCs combine antibody specificity with potent cytotoxic payloads to enhance efficacy while minimizing systemic toxicity. LGR5-targeting ADCs incorporating different payloads demonstrate strong initial tumor inhibition, yet tumors eventually recur due in part to LGR5 downregulation, necessitating more effective strategies to prevent relapse. We show treatment with chemotherapies or an LGR5-targeting ADC coupled to a topoisomerase 1 inh",
+      "url": "https://doi.org/10.64898/2026.07.18.739355",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Subramanian S, High PC, Guernsey-Biddle C, Capellino MG, Liang Z, Aldana AM, Li L, Pan S, Carmon KS.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     }
   ],
   "items": [
-    {
-      "title": "A Newly Designed Antibody-drug Conjugate Targeting B7-H3 Demonstrates Enhanced Therapeutic Efficacy Across a Spectrum of Cancers.",
-      "summary": "Introduction The development of antibody-drug conjugates (ADCs) has accelerated due to their tumor-targeting precision. However, challenges in optimizing the target-linker-payload combination often lead to attrition from safety or efficacy issues, highlighting the need for ADCs with an improved therapeutic index. This study presents a newly designed B7-H3-targeted ADC, BR112, and demonstrates its superior preclinical efficacy across multiple models. Methods BR112 comprises a humanized anti-B7-H3 antibody (112-59) conjugated to the microtubule inhibitor MMAE via a Pyridazinedione-valine-citrulline-p-aminobenzyl (PD-VC-PAB) linker with a drug-to-antibody ratio (DAR) of 4.15. The binding affini",
-      "url": "https://europepmc.org/article/MED/42303884",
-      "date": "2026-06-16",
-      "source": "Europe PMC",
-      "authors": "Qian J, Zhu X, Zhao X, Zhu J, Wu Z, Zheng Q, Wang J, Yu F, Nie L, Weng Q.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical safety",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "DMPK / PK-PD package",
-      "score": 81,
-      "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
-    },
     {
       "title": "Beyond Conventional Monoclonals: Novel Antibody Formats and Derivatives as the Next Frontier in Cancer Therapy.",
       "summary": "Background Monoclonal antibodies (mAbs) and their derivatives represent a central pillar of contemporary oncology, with expanding complexity in molecular design and clinical application. Beyond unconjugated mAbs, bispecific, trispecific (bsAbs/tsAbs) and antibody-drug conjugates (ADCs) introduce additional pharmacological dimensions that directly impact efficacy, toxicity, and resistance. BsAbs were developed as pharmacological matchmakers to simultaneously engage tumor antigens and immune receptors, physically bridging effectors and malignant cells to promote immunological synapse formation. TsAbs extend this concept by enabling coordinated engagement of three targets. ADCs exploit mAb spec",
@@ -612,36 +582,6 @@
       "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
     },
     {
-      "title": "Activity of datopotamab deruxtecan in TROP2-expressing low-grade serous ovarian cancer: a preclinical study.",
-      "summary": "Introduction Low-grade serous ovarian carcinoma (LGSOC) is a rare ovarian cancer subtype with limited sensitivity to chemotherapy and modest benefit from endocrine and MEK-directed therapy. New therapeutic targets are needed. We evaluated trophoblast cell-surface antigen 2 (TROP2) expression in LGSOC and the activity of datopotamab deruxtecan (Dato-DXd), a TROP2-directed antibody-drug conjugate, in an LGSOC patient-derived xenograft (PDX) model. Methods TROP2 expression was assessed by immunohistochemistry in a retrospective single-center cohort of 29 LGSOC cases treated at Yale University. Antitumor activity of Dato-DXd was evaluated in a TROP2-expressing PDX model derived from a heavily pr",
-      "url": "https://europepmc.org/article/MED/42368461",
-      "date": "2026-06-15",
-      "source": "Europe PMC",
-      "authors": "Ottum S, De Tommasi O, Demirkiran C, Bellone S, Buza N, Niu N, Sethi N, Hartwich TM, Santin AD.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Normalized internalization predicts potency of carcinoembryonic antigen-related cell adhesion molecule 6-targeting antibody-drug conjugates.",
-      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors frequently fails to track with target abundance or binding affinity, reflecting delivery bottlenecks that remain difficult to quantify during lead selection. Here, we develop a discovery-to-function workflow for carcinoembryonic antigen-related cell adhesion molecule 6 (CEACAM6), a glycosylphosphatidylinositol (GPI)-anchored antigen with context-dependent trafficking and show that intracellular delivery-related parameters can better organize ADC potency than antigen abundance or binding affinity alone in the CEACAM6 model system. Using multiplexed single-cell screening, we generated a mechanistically diverse anti-CEACAM6 antibody panel s",
-      "url": "https://europepmc.org/article/MED/42309467",
-      "date": "2026-06-17",
-      "source": "Europe PMC",
-      "authors": "Lim JY, Hong J, Lee SH, Lee SG, Chae BH, Son GH, Park M, Yoo TH, Kim YS, Lee CH.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
       "title": "Targeting TROP2 in drug-tolerant persister cells delays EGFR tyrosine kinase inhibitor resistance in non-small-cell lung cancer.",
       "summary": "Drug-tolerant persister (DTP) cells play a key role in the development of resistance to EGFR tyrosine kinase inhibitors (TKIs) in EGFR-mutant non-small-cell lung cancer (NSCLC). Through comprehensive analyses, we identify that TROP2 is dynamically upregulated during TKI-induced DTP formation and functionally contributes to DTP maintenance. Mechanistically, c-Myc acts as a transcriptional repressor of TROP2, and TKI-mediated MAPK pathway inhibition reduces c-Myc levels, leading to TROP2 upregulation. Importantly, combining the TROP2-targeting antibody-drug conjugate (ADC) sacituzumab tirumotecan (sac-TMT) with osimertinib effectively suppresses DTP emergence and delays tumor relapse in precli",
       "url": "https://europepmc.org/article/MED/42314664",
@@ -970,6 +910,36 @@
       "major_reason": null,
       "score": 61,
       "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
+    },
+    {
+      "title": "Low dose radiotherapy-induced tumor-preferential antigens enhance antibody-drug conjugate efficacy in solid tumors.",
+      "summary": "Antibody-drug conjugate (ADC) efficacy in solid tumors is often limited by low or heterogeneous antigen expression. Here, we investigated low-dose radiotherapy (LDRT) as a noninvasive sensitization strategy to enhance tumor surface antigen expression and improve ADC activity. Transcriptomic profiling and flow cytometry identified ICAM1 as the most strongly radiation-inducible antigen after 2 Gy irradiation, showing an approximately 4-fold increase and exceeding several established ADC targets. Mechanistic studies revealed that radiation-induced reactive oxygen species (ROS) and oxidative stress signaling upregulated ICAM1, enhanced antibody internalization, and improved ICAM1-targeted ADC de",
+      "url": "https://europepmc.org/article/MED/42476099",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Xing Y, Yang Y, Liu Y, Yang T, Ma L, Chen J, Yang Y, Xu Y, Lu Y, Guo P, Li P.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Antibody-drug conjugate combination therapy targeting LGR5 and MET with different payloads enhances efficacy in preclinical colorectal cancer models",
+      "summary": "Leucine-rich repeat-containing G protein-coupled receptor 5 (LGR5) is a marker of cancer stem-like cells frequently upregulated in colorectal cancer (CRC) with lower expression in normal tissues, making it a favorable target for antibody-drug conjugates (ADCs). ADCs combine antibody specificity with potent cytotoxic payloads to enhance efficacy while minimizing systemic toxicity. LGR5-targeting ADCs incorporating different payloads demonstrate strong initial tumor inhibition, yet tumors eventually recur due in part to LGR5 downregulation, necessitating more effective strategies to prevent relapse. We show treatment with chemotherapies or an LGR5-targeting ADC coupled to a topoisomerase 1 inh",
+      "url": "https://doi.org/10.64898/2026.07.18.739355",
+      "date": "2026-07-20",
+      "source": "Europe PMC",
+      "authors": "Subramanian S, High PC, Guernsey-Biddle C, Capellino MG, Liang Z, Aldana AM, Li L, Pan S, Carmon KS.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     }
   ]
 }
