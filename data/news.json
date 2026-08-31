@@ -1,341 +1,179 @@
 {
-  "updated_at": "2026-08-24 01:58 UTC",
+  "updated_at": "2026-08-31 05:37 UTC",
   "items": [
     {
-      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 July 2026",
-      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-july-2026",
-      "summary": "Twelve new medicines recommended for approvalEMA’s human medicines committee (CHMP) recommended twelve medicines for approval at its July 2026 meeting.The committee…, CHMP statistics Key figures from the July 2026&nbsp;CHMP&nbsp;meeting are represented in the graphic below. © European Medicines Agency&nbsp;, CHMP statistics:…, Positive recommendations on new",
-      "source": "EMA",
+      "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug",
+      "url": "https://www.fiercebiotech.com/medtech/roches-nabs-expanded-fda-approval-diagnostic-aimed-jazzs-cancer-drug",
+      "summary": "Roche has been given an extended clearance by the FDA for its tests that can find patients eligible to use Jazz Pharmaceuticals’ oncology med Ziihera.",
+      "source": "Fierce Biotech",
       "category": "Regulatory",
-      "date": "Fri, 24 Jul 2026",
-      "score": 90
+      "date": "Aug 27, 2026 3:2",
+      "score": 78
     },
     {
-      "title": "New leadership team appointments",
-      "url": "https://www.ema.europa.eu/en/news/new-leadership-team-appointments",
-      "summary": "EMA’s Head of the Stakeholders…, A new Head of the Veterinary…, Ivo Claassen joined EMA in 2018. Among many career highlights, Ivo and his team worked with the veterinary medicines network on the successful implementation of the 2019…",
-      "source": "EMA",
+      "title": "Lilly scores Novo-pressuring Mounjaro expansion to curb heart risks in diabetes patients",
+      "url": "https://www.fiercepharma.com/pharma/lilly-scores-fda-expansion-mounjaro-reduce-risk-heart-attack-stroke",
+      "summary": "In their high-profile competition in the diabetes and obesity markets, Eli Lilly has proven adept at playing catch-up with Novo Nordisk. On Friday, Lilly checked another item off that list as it secured FDA approval for Mounjaro to reduce the risk of heart attack or stroke in at-risk adults with type 2 diabetes.",
+      "source": "Fierce Pharma",
       "category": "Regulatory",
-      "date": "Thu, 30 Jul 2026",
-      "score": 85
+      "date": "Aug 28, 2026 10:",
+      "score": 78
     },
     {
-      "title": "Merck, Moderna’s personalized cancer vaccine slows recurrence in phase 3, setting up approval push",
-      "url": "https://www.fiercebiotech.com/biotech/merck-and-modernas-personalized-cancer-vaccine-slows-recurrence-ph-3-trial",
-      "summary": "Merck &amp; Co. and Moderna's personalized mRNA cancer vaccine has successfully lengthened recurrence-free survival when paired with Keytruda for patients with high-risk skin cancer. The phase 3 win sets the partners up to potentially seek accelerated approval.",
+      "title": "Priovant pushes ex-Pfizer asset across FDA finish line in rare skin and muscle disease",
+      "url": "https://www.fiercepharma.com/pharma/priovant-pushes-ex-pfizer-asset-across-fda-finish-line-rare-skin-and-muscle-disease",
+      "summary": "Though not without a bump along the way, Roivant-backed Priovant Therapeutics has pushed its dual TYK2/JAK1 inhibitor across the FDA finish line, securing its first approval in a rare skin disease.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 27, 2026 5:3",
+      "score": 78
+    },
+    {
+      "title": "BioNTech-Genentech cancer vax records more deaths than control in scrapped ph. 2 test",
+      "url": "https://www.fiercebiotech.com/biotech/biontech-genentech-personalized-cancer-vaccine-posts-worse-patient-survival-terminated-ph-2",
+      "summary": "Following Merck and Moderna’s phase 3 triumph with a Keytruda-paired personalized mRNA cancer vaccine, a similar shot from BioNTech and Genentech has faltered in a reminder of the approach’s struggles as a standalone therapy.",
       "source": "Fierce Biotech",
       "category": "Clinical",
-      "date": "Aug 18, 2026 11:",
-      "score": 78
+      "date": "Aug 28, 2026 1:2",
+      "score": 73
     },
     {
-      "title": "Amylyx readies approval push after GLP-1 inhibitor halves blood sugar crashes in ph. 3 win",
-      "url": "https://www.fiercebiotech.com/biotech/amylyx-speeds-toward-approval-glp-1-inhibitor-halves-blood-sugar-crashes-ph-3-win",
-      "summary": "Amylyx Pharmaceuticals’ $35 million bet on the GLP-1 receptor antagonist avexitide appears to have paid off, with the molecule cutting the number of dangerous blood sugar crashes by more than half in patients with a rare endocrine disease.",
+      "title": "AusperBio adds $120M series C to advance hep B oligo therapy through phase 3 and beyond",
+      "url": "https://www.fiercebiotech.com/biotech/ausperbio-adds-120m-advance-hepatitis-b-therapy-through-ph3-and-commercialization",
+      "summary": "AusperBio Therapeutics has raised $120 million in series C funds to advance its oligonucleotide therapy for chronic hepatitis B through phase 3 testing and hopefully on to commercialization.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 28, 2026 10:",
+      "score": 73
+    },
+    {
+      "title": "Chutes & Ladders—Vivace revs up C-suite ahead of pivotal push",
+      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-vivace-adds-new-ceo-cbo-ahead-ph-3-trial",
+      "summary": "Vivace Therapeutics has named&nbsp;Craig Gibbs, Ph.D., as its new president and CEO.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 27, 2026 1:3",
+      "score": 73
+    },
+    {
+      "title": "Akeso CEO looks beyond lung cancer with biliary tract win, counters ivonescimab debate",
+      "url": "https://www.fiercebiotech.com/pharma/akeso-ceo-looks-beyond-lung-cancer-phase-3-biliary-tract-win-counters-ivonescimab-debate",
+      "summary": "Fresh off a phase 3 win in biliary tract cancer, Akeso CEO Michelle Xia, Ph.D., is touting the PD-1xVEGF bispecific antibody ivonescimab’s ability beyond non-small cell lung cancer, even as she continues to defend the drug’s data against skepticism.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 10:",
+      "score": 73
+    },
+    {
+      "title": "FDA greenlights Abbott’s wearable sensor for capturing diabetic ketoacidosis",
+      "url": "https://www.fiercebiotech.com/medtech/fda-green-lights-abbotts-wearable-sensor-capturing-diabetic-ketoacidosis",
+      "summary": "The FDA has approved Abbott’s first-of-its-kind bio-wearable sensor that can warn diabetics of increased ketones that can lead to diabetic ketoacidosis.",
       "source": "Fierce Biotech",
       "category": "Regulatory",
-      "date": "Aug 17, 2026 6:3",
-      "score": 78
+      "date": "Aug 26, 2026 8:2",
+      "score": 73
     },
     {
-      "title": "Regulatory tracker: J&J scores EU approval for Tecvayli-Darzalex combo",
+      "title": "ESC: AZ, Ionis' Wainua post-mortem throws water on silencer-plus-stabilizer approach in ATTR-CM",
+      "url": "https://www.fiercepharma.com/pharma/esc-az-ionis-wainua-post-mortem-throws-water-silencer-plus-stabilizer-approach-attr-cm",
+      "summary": "After a surprise washout in a recent phase 3 trial of AstraZeneca and Ionis’ antisense oligonucleotide Wainua, the likely reason for the miss is being laid bare, in a potential ill omen for others pursuing silencer drugs in transthyretin-mediated amyloid cardiomyopathy.",
+      "source": "Fierce Pharma",
+      "category": "Clinical",
+      "date": "Aug 29, 2026 12:",
+      "score": 73
+    },
+    {
+      "title": "Takeda bolsters blood cancer portfolio with FDA nod for Mimrylo in polycythemia vera",
+      "url": "https://www.fiercepharma.com/pharma/takeda-bolsters-blood-cancer-portfolio-fda-approval-mimrylo-polycythemia-vera",
+      "summary": "The FDA has approved Takeda’s Mimrylo (rusfertide) for polycythemia vera, introducing a new mechanism to the nonmalignant rare blood cancer and handing CEO Julie Kim another major regulatory win since taking the helm.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 28, 2026 9:3",
+      "score": 73
+    },
+    {
+      "title": "Biogen enlists lupus patient advocate to share social media story of resilience",
+      "url": "https://www.fiercepharma.com/marketing/biogen-enlists-lupus-patient-advocate-share-social-media-story-resilience",
+      "summary": "Biogen highlighted patient advocate and content creator Naomi Rose’s story living with cutaneous lupus erythematosus (CLE) on its social media platforms.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 28, 2026 8:3",
+      "score": 73
+    },
+    {
+      "title": "Gilead christens Bixlenvo with FDA nod for new HIV treatment combo tablet",
+      "url": "https://www.fiercepharma.com/pharma/gilead-christens-bixlenvo-fda-nod-new-hiv-treatment-combo-pill",
+      "summary": "Some 20 years after helping introduce the first once-daily single-tablet HIV regimen, Gilead Sciences has crossed the regulatory finish line with a new oral treatment option in the U.S.",
+      "source": "Fierce Pharma",
+      "category": "Regulatory",
+      "date": "Aug 26, 2026 3:2",
+      "score": 73
+    },
+    {
+      "title": "Amgen, AZ’s Tezspire lands phase 3 eosinophilic esophagitis win, turning up heat on Dupixent",
+      "url": "https://www.fiercepharma.com/pharma/amgen-az-tezspire-phase-3-eosinophilic-esophagitis-turning-heat-dupixent",
+      "summary": "Amgen and AstraZeneca’s inflammatory disease drug Tezspire has clinched a phase 3 win in eosinophilic esophagitis as the partners eye another challenge to Sanofi and Regeneron’s incumbent Dupixent.",
+      "source": "Fierce Pharma",
+      "category": "Clinical",
+      "date": "Aug 27, 2026 9:5",
+      "score": 73
+    },
+    {
+      "title": "Regulatory tracker: FDA expands nod for HIV med Tivicay to include newborns",
       "url": "https://www.fiercepharma.com/pharma/fierce-pharma-regulatory-tracker-2026-h2",
       "summary": "In this tracker, Fierce Pharma is recording the regulatory progress of in-market products, including expansions into key geographies and new indications. Some of these updates may not meet the bar for standalone stories, but we think they are still worth mentioning.",
       "source": "Fierce Pharma",
       "category": "Regulatory",
       "date": "Jul 1, 2026 1:33",
-      "score": 78
+      "score": 73
     },
     {
-      "title": "Xspray's Dasynoc approval bid foiled again by FDA's manufacturer concerns",
-      "url": "https://www.fiercepharma.com/pharma/xsprays-dasynoc-approval-bid-foiled-again-fdas-contract-manufacturer-concerns",
-      "summary": "Less than a year after the FDA turned down the resubmitted application for the company’s leukemia prospect Dasynoc, Xspray Pharma has again hit a wall at the U.S. regulator.",
+      "title": "With Trump's nominee pick in, FDA weighs new deputy commissioner posts: report",
+      "url": "https://www.fiercepharma.com/pharma/trumps-nominee-pick-fda-weighs-new-deputy-commissioner-posts-report",
+      "summary": "As the leadership vacuum at the top of the FDA looks poised to close with President Donald Trump’s nominee pick for a replacement commissioner, the agency is reportedly weighing whether to add two new deputy posts under that role.",
       "source": "Fierce Pharma",
       "category": "Regulatory",
-      "date": "Aug 20, 2026 2:2",
-      "score": 78
+      "date": "Aug 26, 2026 9:3",
+      "score": 73
     },
     {
-      "title": "Lilly’s long-acting insulin wins NICE blessing ahead of potential UK approval",
-      "url": "https://www.fiercepharma.com/pharma/lillys-onswik-set-broad-uk-coverage-after-pricing-authority-gives-ok",
-      "summary": "Hundreds of thousands of patients with type 2 diabetes could eventually make the switch to a weekly insulin injection and reduce their annual injections by 85% after NICE, the U.K.’s drug cost watchdog, gave Lilly's Onswik its seal of approval for NHS coverage.",
-      "source": "Fierce Pharma",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 3:1",
-      "score": 78
-    },
-    {
-      "title": "Regeneron's Pasatru scores FDA approval in ultra-rare bone lesions disorder",
-      "url": "https://www.fiercepharma.com/pharma/regeneron-approval-fop",
-      "summary": "Regeneron's Pasatru has crossed the finish line with FDA approval after more than ten years of development. The drug is only the second approved treatment for FOP, an ultra-rare genetic condition that causes patients' soft tissues to turn to bone.",
-      "source": "Fierce Pharma",
-      "category": "Regulatory",
-      "date": "Aug 18, 2026 10:",
-      "score": 78
-    },
-    {
-      "title": "SK strikes settlement with MSN over future Xcopri generic: reports",
-      "url": "https://www.fiercepharma.com/pharma/sk-strikes-patent-infringement-settlement-msn-over-future-blockbuster-xcopri",
-      "summary": "For the first time, SK Biopharmaceuticals has reached a settlement with a generics manufacturer that has applied for FDA approval of a copycat version of its epilepsy treatment Xcopri, local news outlets report. SK’s deal with India’s MSN Laboratories will allow the Korean company to extend its market exclusivity beyond October 2032, when the protection for ",
-      "source": "Fierce Pharma",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 11:",
-      "score": 78
-    },
-    {
-      "title": "Aurobindo unit, China API maker dinged in latest round of FDA warning letters",
-      "url": "https://www.fiercepharma.com/pharma/aurobindo-unit-china-api-maker-dinged-latest-round-fda-warning-letters",
-      "summary": "After receiving a checkered regulatory scorecard in 2024, Aurobindo’s sterile injectables and oncology unit is back in the FDA’s crosshairs.",
-      "source": "Fierce Pharma",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 10:",
-      "score": 78
-    },
-    {
-      "title": "Werewolf transforms into Ambros via reverse merger to support phase 3 push for rare disease drug",
-      "url": "https://www.fiercebiotech.com/biotech/werewolf-transforming-reverse-merger-support-ambros-phase-3-push",
-      "summary": "Werewolf Therapeutics’ hunt for strategic alternatives has ended. Ambros Therapeutics has agreed to merge with Werewolf in an all-stock deal and has raised $150 million, positioning the biotech to take its lead rare disease drug candidate through to a filing for approval.",
+      "title": "Teva saddles up as stalking horse bidder for bankrupt BioXcel’s neuroscience portfolio",
+      "url": "https://www.fiercebiotech.com/biotech/teva-saddles-stalking-horse-bidder-bankrupt-bioxcels-neuroscience-portfolio",
+      "summary": "BioXcel Therapeutics has filed for bankruptcy and lined up a deal for Teva Pharmaceutical to acquire its assets for $57.5 million upfront.",
       "source": "Fierce Biotech",
       "category": "BD/M&A",
-      "date": "Aug 21, 2026 9:1",
-      "score": 77
-    },
-    {
-      "title": "Meet Aletta: The first FDA approved robotic blood draw device",
-      "url": "https://www.fiercebiotech.com/medtech/meet-aletta-first-fda-approved-robotic-blood-draw-device",
-      "summary": "The FDA has approved Vitestro’s Aletta as the first standalone robotic device in the U.S. designed to draw blood without the need for hands-on human help.",
-      "source": "Fierce Biotech",
-      "category": "Regulatory",
-      "date": "Aug 20, 2026 7:5",
-      "score": 73
-    },
-    {
-      "title": "Merck-Moderna cancer vaccine win spurs stock jump, speculation of Keytruda-like impact",
-      "url": "https://www.fiercebiotech.com/biotech/merck-moderna-cancer-vaccine-data-spur-speculation-keytruda-impact",
-      "summary": "As the dust settles on phase 3 data that added $45 billion to Moderna’s market cap, analysts have begun to ask a question that could define cancer care in the coming years: Can use of the vaccine be as broad as Keytruda?",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 20, 2026 9:2",
-      "score": 73
-    },
-    {
-      "title": "‘Money has spoken’: Why Chinese biotech CEOs tell Fierce they’re unfazed about rising US tensions",
-      "url": "https://www.fiercebiotech.com/biotech/money-has-spoken-why-chinese-biotech-ceos-are-unphased-about-rising-us-tensions",
-      "summary": "You might assume Chinese biotechs are enduring sleepless nights worrying about whether the ramping up of rhetoric in the U.S. is putting their new financial gains in peril. But the companies Fierce spoke to remained unconcerned.",
-      "source": "Fierce Biotech",
-      "category": "Regulatory",
-      "date": "Aug 17, 2026 5:2",
-      "score": 73
-    },
-    {
-      "title": "Amgen abandoning $500M+ Crohn’s collab won’t derail TScan’s pipeline strategy",
-      "url": "https://www.fiercebiotech.com/biotech/amgen-abandons-500m-inflammation-team-tscan-therapeutics",
-      "summary": "TScan has told Fierce that its pipeline strategy remains unchanged despite Amgen walking away from a Crohn’s disease collaboration that had the potential for a windfall of half a billion dollars.",
-      "source": "Fierce Biotech",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 5:3",
-      "score": 73
-    },
-    {
-      "title": "Trump taps White House aide Heidi Overton as nominee for next FDA commissioner",
-      "url": "https://www.fiercebiotech.com/biotech/trump-taps-white-house-aide-overton-next-fda-commissioner",
-      "summary": "After three months without a permanent leader in place, President Donald Trump has named his pick for the new commissioner of the FDA. Heidi Overton, M.D., Ph.D., currently a White House aide, will go before the Senate in an effort to secure the job of the country’s top drug regulator.",
-      "source": "Fierce Biotech",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 10:",
-      "score": 73
-    },
-    {
-      "title": "Kolon TissueGene shrinks workforce after pivotal osteoarthritis trial miss",
-      "url": "https://www.fiercebiotech.com/biotech/kolon-tissuegene-shrinks-workforce-after-pivotal-osteoarthritis-trial-miss",
-      "summary": "Following a phase 3 knee osteoarthritis failure that its CEO acknowledged caused “great disappointment and concern,” Kolon TissueGene is laying off 37 employees at its Maryland headquarters.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 18, 2026 3:4",
-      "score": 73
-    },
-    {
-      "title": "Fierce Pharma Asia—China's IIT scrutiny; Daiichi Sankyo, AZ ph. 3 win; Leo, Tanabe's dermatology deal",
-      "url": "https://www.fiercepharma.com/pharma/fierce-pharma-asia-chinas-iit-unravels-daiichi-sankyo-az-ph3-win-leo-tanabe-derm-deal",
-      "summary": "China's investigator-initiated trials, once praised for their speediness, have been drawn into scrutiny for a lack of transparency. AstraZeneca and Daiichi Sankyo's Enhertu earned a win in a phase 3 non-small cell lung cancer trial. Tanabe Pharma secured a $435 million payout for global rights to its dermatology rare disease treatment dersimelagon.",
-      "source": "Fierce Pharma",
-      "category": "Clinical",
-      "date": "Aug 20, 2026 2:1",
-      "score": 73
-    },
-    {
-      "title": "Pursuing patient options, Novo kicks off trial testing smaller doses of Wegovy pill",
-      "url": "https://www.fiercepharma.com/pharma/novo-nordisk-kicks-trial-testing-smaller-doses-wegovy-pill",
-      "summary": "Just eight months after it introduced its Wegovy pill, Novo Nordisk is testing the GLP-1 in smaller doses in the phase 3 OASIS 5 study.",
-      "source": "Fierce Pharma",
-      "category": "Clinical",
-      "date": "Aug 19, 2026 3:0",
-      "score": 73
-    },
-    {
-      "title": "Ultragenyx, after FDA speed bump, lands 1st gene therapy nod with green light in glycogen storage disease",
-      "url": "https://www.fiercepharma.com/pharma/ultragenyx-after-fda-speed-bump-lands-1st-gene-therapy-nod-green-light-glycogen-storage",
-      "summary": "If at first you don’t succeed in gene therapy, then try, try again, is the lesson Ultragenyx likely took home this week, pocketing its first FDA nod in the class a little over a year after a separate program stalled on manufacturing grounds.",
-      "source": "Fierce Pharma",
-      "category": "Regulatory",
-      "date": "Aug 19, 2026 10:",
-      "score": 73
-    },
-    {
-      "title": "Biokin bispecific ADC iza-bren hits goal in lung cancer trial, boosting case for BMS’ global test",
-      "url": "https://www.fiercepharma.com/pharma/biokin-bispecific-adc-iza-bren-hits-goal-lung-cancer-trial-boosting-case-bms-global-test",
-      "summary": "Biokin Pharma’s iza-bren, a first-in-class antibody-drug conjugate partnered with Bristol Myers Squibb, has posted another positive phase 3 readout.",
-      "source": "Fierce Pharma",
-      "category": "Clinical",
-      "date": "Aug 18, 2026 11:",
-      "score": 73
-    },
-    {
-      "title": "How Pharma Teams Evaluate Biotech Companies for Partnerships and Acquisitions",
-      "url": "https://www.fiercebiotech.com/partner-content/how-pharma-teams-evaluate-biotech-companies-partnerships-and-acquisitions",
-      "summary": "Addressing how interactions around partnerships or acquisitions differ from those of investment from biotech companies and how CMOs can support those conversations.",
-      "source": "Fierce Biotech",
-      "category": "BD/M&A",
-      "date": "Aug 19, 2026 9:2",
+      "date": "Aug 28, 2026 9:1",
       "score": 72
     },
     {
-      "title": "Boehringer places phase 1 study of investigational drug on hold to examine ‘safety event’",
-      "url": "https://www.fiercebiotech.com/biotech/boehringer-benches-phase-1-study-safety-event",
-      "summary": "Boehringer Ingelheim has suspended a phase 1 trial of an investigational small molecule drug while it seeks to understand a “safety event,” although the German pharma isn't shedding light on the nature of the incident for now.",
+      "title": "JATT mastermind launches latest biotech-focused SPAC via $60M IPO",
+      "url": "https://www.fiercebiotech.com/biotech/jatt-mastermind-launches-latest-biotech-focused-spac-60m-ipo",
+      "summary": "Just two months after Someit Sidhu, M.D., succeeded in pairing off his second special purpose acquisition company (SPAC) with Talawar Therapeutics, the biotech entrepreneur is back at it again.",
       "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 20, 2026 3:1",
-      "score": 70
+      "category": "BD/M&A",
+      "date": "Aug 26, 2026 9:3",
+      "score": 72
     },
     {
-      "title": "Boehringer Ingelheim again rises up rare disease reputation rankings",
-      "url": "https://www.fiercepharma.com/marketing/boehringer-ingelheim-again-rises-rare-disease-reputation-rankings",
-      "summary": "Boehringer Ingelheim has continued its rise up patient groups’ ranking of rare disease companies, adding to last year’s gains to cement its status toward the top of the leaderboards. But the German drugmaker failed to crack the top three of the full table, which the same three companies occupied again.",
+      "title": "ESC: Cytokinetics delves deeper on ‘huge’ Myqorzo readout, fueling cardiomyopathy expansion bid",
+      "url": "https://www.fiercepharma.com/pharma/esc-2026-cytokinetics-delves-deeper-huge-myqorzo-readout-fueling-cardiomyopathy-expansion",
+      "summary": "Cytokinetics' cardiac myosin inhibitor, Myqorzo, is the first to demonstrate significant, clinically meaningful benefits in patients with a rare heart condition called non-obstructive hypertrophic cardiomyopathy. An approval for this indication could potentially double the pool of patients Myqorzo serves today.",
       "source": "Fierce Pharma",
       "category": "Clinical",
-      "date": "Aug 20, 2026 4:2",
+      "date": "Aug 27, 2026 2:4",
       "score": 70
     },
     {
-      "title": "Chutes & Ladders—Neumora shuffles leadership ahead of IND",
-      "url": "https://www.fiercebiotech.com/biotech/chutes-ladders-neumora-shuffles-leadership-ahead-ind",
-      "summary": "Joshua Pinto, Ph.D., has been appointed chief executive officer of Neumora Therapeutics, a clinical-stage biotech with obesity and neuro assets.",
+      "title": "China in Global Clinical Development: Why Early Inclusion Matters",
+      "url": "https://www.fiercebiotech.com/sponsored/china-global-clinical-development-why-early-inclusion-matters",
+      "summary": "Leading biotechs are rethinking China’s role in global clinical development. Early inclusion can unlock significant value.",
       "source": "Fierce Biotech",
       "category": "Clinical",
-      "date": "Aug 20, 2026 3:0",
+      "date": "Aug 26, 2026 4:3",
       "score": 65
     },
     {
-      "title": "Why Pheast’s CEO has no regrets about transparent approach to R&D despite competitors circling",
-      "url": "https://www.fiercebiotech.com/biotech/why-pheasts-ceo-has-no-regrets-about-transparent-approach-despite-competitors-circling",
-      "summary": "Pheast Therapeutics may have learned the hard way about the risks of competitors getting a glimpse of your heard-earned discoveries, but the immuno-oncology startup is so far sticking to its transparent approach.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 20, 2026 9:1",
-      "score": 65
-    },
-    {
-      "title": "Chai tees up Bristol Myers Squibb AI antibody discovery collab",
-      "url": "https://www.fiercebiotech.com/medtech/chai-tees-bristol-myers-squibb-ai-antibody-discovery-collab-deal",
-      "summary": "A month after Chai Discovery tied up a major $400 million series C funding round, the AI drug discovery firm has teamed up with Bristol Myers Squibb.",
-      "source": "Fierce Biotech",
-      "category": "AI Drug Discovery",
-      "date": "Aug 20, 2026 9:5",
-      "score": 65
-    },
-    {
-      "title": "Lilly pens deal with Gateway Labs resident Amplitude for RNA vaccine platform for infectious disease",
-      "url": "https://www.fiercebiotech.com/biotech/lilly-licenses-amplitudes-rna-vaccine-platform-infectious-disease",
-      "summary": "Eli Lilly has turned to one of its Gateway Labs residents to help the Big Pharma develop trans-amplifying RNA (taRNA) vaccines for infectious diseases.",
-      "source": "Fierce Biotech",
-      "category": "BD/M&A",
-      "date": "Aug 20, 2026 9:2",
-      "score": 65
-    },
-    {
-      "title": "A ‘renaissance for biomedicine’: human brain organoids model development for 5 years",
-      "url": "https://www.fiercebiotech.com/research/renaissance-biomedicine-human-brain-organoids-model-development-5-years",
-      "summary": "Scientists’ ability to recapitulate the human brain in a dish has always been hindered by the inability to model the full capacity of the brain and its development through time.",
-      "source": "Fierce Biotech",
-      "category": "CRO/CDMO",
-      "date": "Aug 18, 2026 1:3",
-      "score": 65
-    },
-    {
-      "title": "Tolerance Bio jumps into phase 2 with $260M deal for thymus-targeting fusion protein",
-      "url": "https://www.fiercebiotech.com/biotech/tolerance-bio-jumps-phase-2-260m-deal-thymus-targeting-fusion-protein",
-      "summary": "Tolerance Bio has vaulted into the clinic by agreeing to pay NeoImmuneTech up to $260 million for rights to a fusion protein in certain thymus-related indications in the Americas and Europe.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 19, 2026 9:2",
-      "score": 65
-    },
-    {
-      "title": "New Biotech-Academia Partnership Approaches to Empower the Drug Development Ecosystem",
-      "url": "https://www.fiercebiotech.com/partner-content/new-biotech-academia-partnership-approaches-empower-drug-development-ecosystem",
-      "summary": "Addressing shifts in the global clinical development ecosystem and how academia and biotech can better partner to develop new therapies for patients.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 19, 2026 9:5",
-      "score": 65
-    },
-    {
-      "title": "Developing a Global Clinical Trial Strategy for Emerging Biotechs",
-      "url": "https://www.fiercebiotech.com/partner-content/developing-global-clinical-trial-strategy-emerging-biotechs",
-      "summary": "Discussing how small biotechs can accelerate clinical development with fit-for-purpose global clinical trial strategies.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 19, 2026 9:4",
-      "score": 65
-    },
-    {
-      "title": "Merck and Sarah Cannon team up to boost oncology trial efficiency",
-      "url": "https://www.fiercebiotech.com/cro/merck-and-sarah-cannon-team-boost-oncology-trial-efficiency",
-      "summary": "Oncology R&amp;D organization Sarah Cannon Research Institute (SCRI) announced a collaboration with Merck &amp; Co. to increase patient access to oncology trials at community-based sites in the U.S.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 19, 2026 11:",
-      "score": 65
-    },
-    {
-      "title": "Craif raises $33M to boost work on its urine test for cancer",
-      "url": "https://www.fiercebiotech.com/medtech/craif-raises-33m-boost-work-its-urine-test-cancer",
-      "summary": "The AI biopharma Craif has raised $33 million in its series D funding round as it also adds a new exec, bringing its total capital raised to date to $88 million.",
-      "source": "Fierce Biotech",
-      "category": "AI Drug Discovery",
-      "date": "Aug 18, 2026 8:1",
-      "score": 65
-    },
-    {
-      "title": "Johnson & Johnson MedTech nabs Monarch Quest 3 update for lung cancer detection",
-      "url": "https://www.fiercebiotech.com/medtech/johnson-johnson-medtech-nabs-monarch-quest-3-update-lung-cancer-detection",
-      "summary": "Johnson &amp; Johnson MedTech has been handed its fourth major software launch in the past 18 months for its Monarch bronchoscopy robot.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Aug 18, 2026 7:5",
-      "score": 65
-    },
-    {
-      "title": "Fierce Biotech Layoff Tracker 2026: Kolon cuts workforce after ph. 3 fail; Sanofi sheds 229 staffers",
-      "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-layoff-tracker-2026",
-      "summary": "As always, if you know of layoffs occurring at a biotech, please reach out to the Fierce Biotech editorial team.",
-      "source": "Fierce Biotech",
-      "category": "Clinical",
-      "date": "Dec 23, 2025 10:",
-      "score": 65
-    },
-    {
-      "title": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
-      "url": "https://www.fiercebiotech.com/biotech/biomarin-bulks-bone-unit-275m-alesta-buyout-challenge-astrazeneca",
-      "summary": "BioMarin Pharmaceutical has agreed to buy Alesta Therapeutics for $275 million upfront, positioning the biopharma to challenge AstraZeneca in the rare bone disease market.",
-      "source": "Fierce Biotech",
-      "category": "BD/M&A",
-      "date": "Aug 18, 2026 9:1",
-      "score": 65
-    },
-    {
-      "title": "Fierce Biotech Fundraising Tracker '26: Abcuro secures $66M; InduPro assembles $77M",
+      "title": "Fierce Biotech Fundraising Tracker '26: AusperBio adds $120M; Abcuro secures $66M",
       "url": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
       "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
       "source": "Fierce Biotech",
@@ -344,21 +182,183 @@
       "score": 65
     },
     {
-      "title": "Lundbeck continues neuroscience evolution as CEO keeps company ‘punching above its weight’",
-      "url": "https://www.fiercepharma.com/pharma/lundbeck-continues-neuroscience-evolution-ceo-aims-keep-company-punching-above-its-weight",
-      "summary": "Almost three years into his tenure as Lundbeck’s CEO, Charl van Zyl is confident the company can prove its mettle as a “neuroscience challenger” capable of “punching above its weight.”",
-      "source": "Fierce Pharma",
-      "category": "BD/M&A",
-      "date": "Aug 21, 2026 11:",
+      "title": "Genentech doubles down on ADC-resistant cancers with $1B DualityBio pact",
+      "url": "https://www.fiercebiotech.com/biotech/genentech-doubles-down-adc-resistant-cancers-1b-dualitybio-pact",
+      "summary": "Roche’s Genentech is paying DualityBio $45 million upfront for rights to antibody-drug conjugates (ADCs) designed for the growing pool of patients who progress after treatment with the modality. The deal is worth more than $1 billion in potential milestones.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 28, 2026 3:3",
       "score": 65
     },
     {
-      "title": "The Oral GLP-1 Tracker: Novo's Wegovy pill back on track as Lilly's momentum slows",
+      "title": "With mRNA back in the spotlight, tRNA shows potential to treat genetic disease",
+      "url": "https://www.fiercebiotech.com/research/trna-has-entered-ring-possible-therapeutic-avenue-while-mrna-rise",
+      "summary": "New research coming out of the University of Toronto has shown that transfer RNA may offer a promising therapeutic avenue for treating genetic diseases.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 25, 2026 1:5",
+      "score": 65
+    },
+    {
+      "title": "Research into protein interactions sheds new light on causes of autism",
+      "url": "https://www.fiercebiotech.com/research/looking-drug-discovery-through-protein-protein-interaction-lens",
+      "summary": "Studying protein-protein interactions might hold the key to identifying druggable targets for autism, a group of scientists at the University of California, San Francisco has suggested.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 2:4",
+      "score": 65
+    },
+    {
+      "title": "CEPI backs push to bring Egyptian biotech's Ebola vaccine into clinic to curb fast-growing outbreak",
+      "url": "https://www.fiercebiotech.com/biotech/cepi-backs-push-bring-ebola-vaccine-clinic-curb-fast-growing-outbreak",
+      "summary": "The Coalition for Epidemic Preparedness Innovations has committed up to $16.5 million to push Minapharm’s Bundibugyo vaccine candidate into the clinic, furthering its response to the Ebola outbreak.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 27, 2026 10:",
+      "score": 65
+    },
+    {
+      "title": "Osivax bags flu vaccine rights to pursue combination shot vision",
+      "url": "https://www.fiercebiotech.com/biotech/osivax-bags-flu-vaccine-rights-pursue-combination-shot-vision",
+      "summary": "Osivax has licensed an influenza vaccine from GC Biopharma, positioning the biotech to build on early evidence that its midphase candidate complements traditional flu shots.",
+      "source": "Fierce Biotech",
+      "category": "BD/M&A",
+      "date": "Aug 27, 2026 9:0",
+      "score": 65
+    },
+    {
+      "title": "After some ‘tough years,’ Frontier’s CEO is ramping up ambitions for precision med platform",
+      "url": "https://www.fiercebiotech.com/biotech/how-frontier-medicines-plans-drug-undruggable-ai-and-chemical-library",
+      "summary": "After announcing the “tough but necessary” decision to lay off some employees last year, Frontier Medicines is looking to the future by advancing more cancer drugs into the clinic while continuing to find partners to leverage its AI proteomic platform.",
+      "source": "Fierce Biotech",
+      "category": "BD/M&A",
+      "date": "Aug 25, 2026 4:0",
+      "score": 65
+    },
+    {
+      "title": "Flagship’s ProFound partners with Gates Foundation in $35M preeclampsia target discovery pact",
+      "url": "https://www.fiercebiotech.com/biotech/flagships-profound-partners-gates-foundation-35m-preeclampsia-target-discovery-pact",
+      "summary": "Flagship Pioneering’s ProFound Therapeutics is keeping its string of high-profile partnerships going, forging a new pact with the Gates Foundation worth up to $35 million to find new drug targets for a dangerous pregnancy complication.",
+      "source": "Fierce Biotech",
+      "category": "BD/M&A",
+      "date": "Aug 26, 2026 4:4",
+      "score": 65
+    },
+    {
+      "title": "Medigen links up with Charles River in push to take enterovirus vaccine global",
+      "url": "https://www.fiercebiotech.com/cro/medigen-links-charles-river-push-take-enterovirus-vaccine-global",
+      "summary": "Charles River Laboratories and Taiwan-based Medigen Vaccine Biologics are teaming up to advance Medigen’s multivalent enterovirus vaccine.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 20, 2026 10:",
+      "score": 65
+    },
+    {
+      "title": "FDA greenlights Revolution Medicines' pancreatic cancer gamechanger",
+      "url": "https://www.fiercebiotech.com/pharma/fda-greenlights-revolution-medicines-pancreatic-cancer-gamechanger",
+      "summary": "Following dynamite data that earned a standing ovation at the American Society of Clinical Oncology meeting in May, Revolution Medicines’ Ras inhibitor daraxonrasib has been approved by the FDA for the treatment of metastatic pancreatic cancer.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 11:",
+      "score": 65
+    },
+    {
+      "title": "Hansoh heralds China’s move from ‘follower’ to ‘frontrunner’ in biopharma race",
+      "url": "https://www.fiercebiotech.com/biotech/china-moving-follower-frontrunner-pharma-hansoh",
+      "summary": "Hansoh Pharmaceutical has given a bullish assessment of China’s innovative pharma sector, arguing that the industry is “fully transitioning from the ‘follower’ to the ‘frontrunner’ phase.”",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 9:3",
+      "score": 65
+    },
+    {
+      "title": "Boston Scientific hit by cyberattack causing ‘disruptions’ to parts of its business",
+      "url": "https://www.fiercebiotech.com/medtech/boston-scientific-hit-cyberattack-causing-disruptions-parts-its-business",
+      "summary": "This year has seen a growing number of medtechs hit by cyberattacks, and now Boston Scientific has become the latest victim.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 7:2",
+      "score": 65
+    },
+    {
+      "title": "Spyre’s rheumatoid arthritis plan toppled by subpar TL1A data",
+      "url": "https://www.fiercebiotech.com/biotech/spyres-rheumatoid-arthritis-plan-toppled-subpar-tl1a-data",
+      "summary": "Phase 2 data on Spyre Therapeutics’ anti-TL1A antibody SPY072 in rheumatoid arthritis have fallen short of expectations, prompting the biotech to deprioritize monotherapy development in the indication.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 26, 2026 5:2",
+      "score": 65
+    },
+    {
+      "title": "SK Biopharma pens $795M deal to usher Biohaven’s epilepsy therapy towards hoped-for 2029 launch",
+      "url": "https://www.fiercebiotech.com/biotech/sk-biopharma-pens-795m-deal-usher-biohavens-epilepsy-therapy-towards-fda",
+      "summary": "SK Biopharmaceuticals has strengthened its epilepsy offering by paying $350 million upfront to help speed Biohaven’s Kv7 ion channel activator on its way to market.",
+      "source": "Fierce Biotech",
+      "category": "BD/M&A",
+      "date": "Aug 26, 2026 4:4",
+      "score": 65
+    },
+    {
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "url": "https://www.fiercebiotech.com/medtech/labcorp-launches-new-hepatitis-d-test-find-patients-most-severe-form-virus",
+      "summary": "Labcorp is looking to plug the gap in hepatitis D monitoring with a new reflex testing solution to help find more patients with this form of the virus earlier.",
+      "source": "Fierce Biotech",
+      "category": "Clinical",
+      "date": "Aug 25, 2026 11:",
+      "score": 65
+    },
+    {
+      "title": "McKesson strikes $2.25B deal to snap up Precision Medicine Group",
+      "url": "https://www.fiercebiotech.com/pharma/mckesson-strikes-225-billion-deal-precision-medicine-group",
+      "summary": "The healthcare conglomerate, which ranks eighth on the Fortune 500 list, is set to envelop privately held Precision Medicine Group into its oncology branch as part of an ongoing effort to grow its high-margin cancer and biopharma businesses.",
+      "source": "Fierce Biotech",
+      "category": "BD/M&A",
+      "date": "Aug 25, 2026 10:",
+      "score": 65
+    },
+    {
+      "title": "MrBeast, Snapchat, AI and more: Pharma marketing’s pulse check",
+      "url": "https://www.fiercepharma.com/marketing/mrbeast-snapchat-ai-and-more-pharma-marketings-pulse-check",
+      "summary": "In this week’s episode of “The Top Line,” Fierce’s Ben Adams and Zoey Becker discuss how pharma marketing is evolving across social media, creative work and agency strategy.",
+      "source": "Fierce Pharma",
+      "category": "CRO/CDMO",
+      "date": "Aug 28, 2026 10:",
+      "score": 65
+    },
+    {
+      "title": "The Oral GLP-1 Tracker: Lilly's Foundayo scripts cross 40K",
       "url": "https://www.fiercepharma.com/pharma/oral-glp-1-tracker-launch-trajectories-lilly-foundayo-novo-wegovy-pill",
       "summary": "Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.",
       "source": "Fierce Pharma",
       "category": "Clinical",
       "date": "Apr 21, 2026 10:",
+      "score": 65
+    },
+    {
+      "title": "Fierce Pharma Asia—Roche’s $2.5B obesity deal; Akeso CEO’s defense; Lawmaker’s reflection on China",
+      "url": "https://www.fiercepharma.com/pharma/roche-25b-obesity-deal-akeso-ceo-defense-congressman-reflection-china",
+      "summary": "Roche is taking a less-trodden path in obesity. Akeso CEO counters concerns over shrinking lung cancer data for ivonescimab. A U.S. congressman says China is \"beating us on our ground game\" in biotech. Plus more.",
+      "source": "Fierce Pharma",
+      "category": "Clinical",
+      "date": "Aug 27, 2026 3:3",
+      "score": 65
+    },
+    {
+      "title": "Omnicom PR consultancy injects new leadership into pharma push",
+      "url": "https://www.fiercepharma.com/marketing/omnicom-pr-consultancy-injects-new-leadership-pharma-push",
+      "summary": "Omnicom’s maslansky + partners has expanded its leadership team, hiring two new partners and expanding the role of a founding partner to strengthen its healthcare and life sciences practice.",
+      "source": "Fierce Pharma",
+      "category": "BD/M&A",
+      "date": "Aug 28, 2026 4:4",
+      "score": 65
+    },
+    {
+      "title": "Stephen Farquhar takes over as CEO of Publicis Health Media",
+      "url": "https://www.fiercepharma.com/marketing/stephen-farquhar-takes-over-ceo-publicis-health-media",
+      "summary": "Stephen Farquhar has taken over as CEO of Publicis Health Media (PHM), succeeding longtime Publicis executive Andrea Palmer.",
+      "source": "Fierce Pharma",
+      "category": "BD/M&A",
+      "date": "Aug 28, 2026 2:4",
       "score": 65
     }
   ]
