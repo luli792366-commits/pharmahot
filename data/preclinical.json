@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 04:58 UTC",
+  "updated_at": "2026-09-28 05:26 UTC",
   "window_days": 60,
   "sources": [
     "Europe PMC",
@@ -21,21 +21,6 @@
       "major_reason": "DMPK / PK-PD package",
       "score": 81,
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
-    },
-    {
-      "title": "Beyond ADCs: Antibody-encapsulated drug for targeted cancer therapy.",
-      "summary": "Antibody-drug conjugates (ADCs) have transformed cancer treatment by covalently linking the monoclonal antibody with cytotoxic payload, yet their clinical potential remains constrained by intrinsic limitations: heterogeneous drug-to-antibody ratios, linker instability, manufacturing complexity, and drug resistance. These challenges highlight the need for fundamentally different drug formulation and delivery platforms. Antibody-encapsulated drugs (AEDs) leverage the single protein encapsulation technology to enable one antibody to noncovalently encapsulate a predefined number of payload molecules. AEDs allow for a fixed drug-to-antibody ratio, mitigate premature drug release, simplify manufac",
-      "url": "https://europepmc.org/article/MED/42639490",
-      "date": "2026-07-25",
-      "source": "Europe PMC",
-      "authors": "Li L, Giuliano A, Sun Q, Cui X, Yuan Y.",
-      "modality": "ADC / ATTC",
-      "stage": "Developability / CMC",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "Developability / CMC signal",
-      "score": 76,
-      "finance": "Check process, formulation, stability, yield and scale-up assumptions; manufacturability can move cost and timeline before IND-enabling."
     },
     {
       "title": "Discovery of a Novel Tripeptide Linker that Broadens the Therapeutic Window of Auristatin-Based Antibody-Drug Conjugates by Reducing Bone Marrow Toxicity.",
@@ -160,81 +145,6 @@
   ],
   "research_watch": [
     {
-      "title": "Emrelis for c-Met Positive NSCLC: A Breakthrough in Antibody-Drug Conjugate-based Treatment Approved by the FDA.",
-      "summary": "Telisotuzumab Vedotin (Teliso-V), previously known as ABBV-399, is a novel, first-in-class antibodydrug conjugate developed by AbbVie. It combines an anti-c-Met monoclonal antibody (ABT-700) with monomethyl auristatin E (MMAE), a potent microtubule-disrupting agent, via a cleavable linker. This design allows selective delivery of the cytotoxic payload to c-Met-overexpressing tumour cells, thereby bypassing reliance on MET signalling for efficacy. Preclinical studies demonstrated that ABBV-399 effectively inhibited the growth of xenograft tumors refractory to other MET-targeted inhibitors. In early Phase I trials, the agent showed a favourable safety profile and elicited objective tumour resp",
-      "url": "https://europepmc.org/article/MED/42515912",
-      "date": "2026-07-23",
-      "source": "Europe PMC",
-      "authors": "Samui S, Kumar A, Patel P, Kurmi BD.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Combine antibody-drug conjugate with cmLumiOpto for triple-negative breast cancer treatment.",
-      "summary": "Triple-negative breast cancer (TNBC) is an aggressive and chemotherapy-resistant subtype characterized by high metastatic potential and frequent recurrence, making monotherapies largely ineffective. This study evaluates a combination strategy utilizing a CD276 (B7-H3)-targeted antibody-drug conjugate (ADC) alongside mitochondria-targeted gene therapy. The anti-CD276 monoclonal antibody-mertansine conjugate substantially reduces tumor burden at a low dose. It exhibits strong synergy with the cmLumiOpto platform, enhancing cytotoxicity across three TNBC cell lines, impairing mitochondrial function, and elevating the tumoral immune response. Furthermore, the ADC/cmLumiOpto combination suppresse",
-      "url": "https://europepmc.org/article/MED/42497865",
-      "date": "2026-07-24",
-      "source": "Europe PMC",
-      "authors": "Varadkar T, Zhou ZZ, Si Y, Zhang J, Du Z, Khanal AG, Chowdhury S, Tsaliki C, Zhou L, Liu XM.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Preclinical Pharmacological Evaluation of Sacituzumab Govitecan (IMMU-132) in TROP2-Positive Colorectal Liver Metastasis Models.",
-      "summary": "Background/Objectives : Sacituzumab govitecan (SG, IMMU-132) is a TROP2-directed antibody-drug conjugate carrying SN-38. Patients with colorectal liver metastasis (CRLM) still have limited treatment options after first-line systemic therapy, and the preclinical pharmacological value of TROP2-directed SN-38 delivery in CRLM remains insufficiently defined. Methods : Public single-cell RNA-sequencing data were reanalyzed to explore the distribution of TACSTD2/TROP2-positive epithelial-associated cells in adjacent normal tissues, primary colorectal cancer, and CRLM. The prognostic relevance of TACSTD2 was evaluated using the Kaplan-Meier Plotter database. TROP2-knockdown and TROP2-overexpressing",
-      "url": "https://europepmc.org/article/MED/42653662",
-      "date": "2026-07-25",
-      "source": "Europe PMC",
-      "authors": "Zhang W, Wang R, Situ Y, Wang W, Peng J, Lu Z.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Enhancing the efficacy of B7-H3-targeting antibody-drug conjugate DS-7300a in TP53-deficient tumors by inducing ferroptosis.",
-      "summary": "Immune checkpoint B7-H3 is an emerging target for immunotherapy. DS-7300a is an advanced B7-H3-targeting antibody-drug conjugate (ADC) warheaded with the topoisomerase I inhibitor DXd. DS-7300a has demonstrated clinical activity, but molecular biomarkers to predict its therapeutic response remain elusive. TP53 is one of the most mutated tumor suppressor genes across cancers, and effective therapies are urgently needed for TP53-deficient cancers. Using prostate cancer (PCa) as a model system, we reported that DS-7300a's anti-tumor efficacy is highly dependent on functional p53 in cancer cells, and TP53 defects confer resistance to DS-7300a. Mechanistically, we found that DS-7300a and its payl",
-      "url": "https://europepmc.org/article/MED/42509416",
-      "date": "2026-07-27",
-      "source": "Europe PMC",
-      "authors": "Leo J, Chen F, Shi W, Liang X, Meng C, Gu Q, Albittar Y, Fan Z, Zhang J, Gan B, Goswami S, Carmon KS, Frigo DE, Aparicio A, Zhao D.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "DLL3-directed immune redirection in small-cell lung cancer: a lineage-defined vulnerability that doubles as an escape route.",
-      "summary": "Delta-like ligand 3 (DLL3) is the first tumor cell surface antigen in small cell lung cancer (SCLC) to support an approved T-cell-redirecting therapy with demonstrated survival benefit, namely the DLL3×CD3 bispecific T-cell engager tarlatamab. DLL3-directed agents are usually surveyed by platform. Here, we argue instead that DLL3 is best understood not as a static surface target but as the surface readout of a plastic, ASCL1-associated neuroendocrine lineage state. DLL3-directed immune redirection works by holding two intrinsically unstable systems in transient alignment: a lineage-defined antigen state on the tumor side and an activatable but exhaustible T cell effector system on the host s",
-      "url": "https://europepmc.org/article/MED/42582332",
-      "date": "2026-07-28",
-      "source": "Europe PMC",
-      "authors": "Wang X, Wang F, Tian W.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical safety",
-      "evidence": "Early signal",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
-    },
-    {
       "title": "A PBD dimer-containing antibody-drug conjugate targeting CCRL2 for high-risk MDS/AML including TP53-mutated disease.",
       "summary": "Abstract Patients with myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML) with high-risk features including TP53 mutations have poor outcomes because of the lack of effective therapies. The atypical chemokine surface receptor C-C motif chemokine receptor-like 2 (CCRL2) is overexpressed in MDS and secondary AML compared with healthy hematopoietic cells, and we recently found that TP53-mutated MDS/AML and AML with erythroid features express the highest levels of this receptor across MDS/AML subtypes. To illustrate the therapeutic potential of CCRL2 as a therapeutic target, we developed an anti-CCRL2 antibody-drug conjugate (ADC) by conjugating an anti-CCRL2 antibody with the cytotoxic",
       "url": "https://europepmc.org/article/MED/42160756",
@@ -295,6 +205,21 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
+      "title": "PARP inhibition enhances the antitumor activity of HER3-DXd in non-small cell lung cancer.",
+      "summary": "Lung cancer, a leading cause of cancer-related mortality, is often driven by mutations in the key oncogenes epidermal growth factor receptor (EGFR) and Kirsten rat sarcoma virus (KRAS). Despite advancements of targeted therapies such as tyrosine kinase inhibitors, resistance remains a significant hurdle. Overexpression of HER3, associated with poor prognosis in non-small cell lung cancer (NSCLC), presents an alternative therapeutic target. In this study, we investigate the efficacy of the HER3-targeting antibody-drug conjugate HER3-DXd and its synergistic potential when combined with cell cycle and DNA damage response modulators. A significant synergy is observed with PARP inhibitors, effect",
+      "url": "https://europepmc.org/article/MED/42628527",
+      "date": "2026-08-21",
+      "source": "Europe PMC",
+      "authors": "Lin L, Moradi N, Lähdeniemi IA, Laitinen HK, Alsaed B, Lahtinen L, Lopez T, Jansouz S, Knott A, Soroko KM, Ilonen I, Gokhale PC, Jänne PA, Haikala HM.",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+    },
+    {
       "title": "Enfortumab vedotin induces immunogenic cell death and shows enhanced preclinical antitumor activity when combined with a PD-1 inhibitor.",
       "summary": "Enfortumab vedotin is a Nectin-4-directed antibody-drug conjugate designed to deliver the microtubule-disrupting agent monomethyl auristatin E (MMAE) to tumor cells. Using preclinical models of urothelial cancer (UC), we expand the understanding of the multifaceted mechanism of action for enfortumab vedotin that includes direct cytotoxicity on Nectin-4-positive tumor cells, indirect bystander effect on neighboring Nectin-4-negative tumor cells, and MMAE-mediated induction of immunogenic cell death (ICD) and associated increase in activated immune cells in the tumor microenvironment. Importantly, vaccination with enfortumab vedotin-treated tumor cells results in protection against tumor recha",
       "url": "https://europepmc.org/article/MED/42685702",
@@ -325,7 +250,7 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "From ICI Resistance to Therapeutic Vulnerability: A Resistance-State Framework for Appraising Antibody-Drug Conjugate Evidence in Solid Tumors.",
+      "title": "From ICI resistance to therapeutic vulnerability: A resistance-state framework for appraising antibody-drug conjugate evidence in solid tumors.",
       "summary": "Antibody-drug conjugates (ADCs) can alter tumor-immune interactions, but activity in immune checkpoint inhibitor (ICI)-resistant disease, ADC-ICI combination benefit, functional checkpoint re-enablement, and causal resensitization are often conflated. We propose a resistance-state appraisal framework that distinguishes three outcomes. Re-enable denotes renewed therapeutic contribution from a previously ineffective checkpoint pathway in an ADC-containing context. Bypass denotes ADC activity in an ICI-resistant state without demonstrated restoration of that pathway. Prime denotes immune remodeling that lowers the threshold for checkpoint responsiveness when prior ICI resistance has not been es",
       "url": "https://europepmc.org/article/MED/42754126",
       "date": "2026-09-17",
@@ -445,6 +370,21 @@
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
     {
+      "title": "TNG961 Is a Selective Oral HBS1L Molecular Glue Degrader for the Treatment of FOCAD-Deleted Cancers.",
+      "summary": "When tumor suppressor genes are lost through chromosomal deletion, the deletion of adjacent genes can generate therapeutic vulnerabilities. MTAP is frequently co-deleted with the chr9p21 tumor suppressor gene CDKN2A, creating a synthetic lethal dependency on protein arginine methyltransferase 5 (PRMT5). Telomeric to MTAP lies focadhesin (FOCAD), whose loss induces dependency on the HBS1-like translational GTPase (HBS1L)-protein pelota homolog (PELO) ribosome rescue complex for translational maintenance. FOCAD is deleted in ∼1 out of 3 MTAP-deleted cancers. We screened an immunomodulatory imide drug (IMiD)-focused diversity library and identified a weak hit that bound cereblon (CRBN), promote",
+      "url": "https://europepmc.org/article/MED/42001523",
+      "date": "2026-09-01",
+      "source": "Europe PMC",
+      "authors": "Nicholson HE, Whittington DA, Bruzzese FJ, Lazarides K, Martires LCM, Tonini MR, Jenkins HN, Zhang M, Shahagadkar P, Pratt CB, Briggs KJ, McCarren P, Tsai AW, Bandi M, Min C, Huang A, Zhang H, Meier SR, Shen B, Yu Y, Lia",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 53,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+    },
+    {
       "title": "Discovery and development of a bispecific antibody for the treatment of hemophilia.",
       "summary": "The 2026 Lasker~DeBakey Clinical Medical Research Award has been awarded to Kunihiro Hattori, Takehisa Kitazawa, and Tomoyuki Igawa (Chugai Pharmaceuticals, Tokyo, Japan) for invention of a bispecific antibody that joins blood clotting Factors IXa (FIXa) and X (FX), restoring deficient Factor VIII (FVIII) activity in patients with hemophilia A and preventing severe bleeding in this hereditary disorder. Starting from the 1960s, types of FVIII-replacement therapy remarkably improved on-demand hemostatic treatment for ongoing bleeds and enabled prophylactic reduction of bleeding episodes. However, these agents required burdensome intravenous infusions multiple times per week, and ~30% of patien",
       "url": "https://europepmc.org/article/MED/42713969",
@@ -458,6 +398,21 @@
       "major_reason": null,
       "score": 53,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
+    },
+    {
+      "title": "Characterization of PduU Reveals a Modular Tool for Tuning Microcompartment Permeability",
+      "summary": "Bacterial microcompartments (MCPs) are versatile proteinaceous organelles that compartmentalize metabolic pathways, offering promising scaffolds for synthetic biology and metabolic engineering. However, designing customized nanobioreactors requires distinguishing structurally indispensable shell proteins from those that can be modified or deleted to tune shell permeability without disrupting core organelle assembly. In this study, we performed a systematic biophysical and metabolic characterization of the hexameric shell protein PduU to evaluate its potential as a modular platform for synthetic organelle engineering. We tested whether deleting pduU or selectively truncating its N-terminal {b",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.29.741414",
+      "date": "2026-07-30",
+      "source": "bioRxiv",
+      "authors": "Timane, K. S.; Chowdhury, C.",
+      "modality": "Small Molecule",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 50,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
       "title": "Emerging Therapeutic Strategies in Small-Cell Lung Cancer: From Adaptive Resistance to Precision Therapy.",
@@ -518,6 +473,36 @@
       "major_reason": null,
       "score": 46,
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Antibody-Drug Conjugates and Peptide-Drug Conjugates: Current Understandings and Future Perspectives.",
+      "summary": "Antibody-drug conjugates (ADCs) and peptide-drug conjugates (PDCs) are modular targeted therapeutics in which molecular recognition is coupled with controlled payload delivery. Owing to their high specificity and precision, they have been regarded as a transformative paradigm for cancer therapy. In this review, current understandings and future perspectives of ADCs and PDCs are synthesized across rational design principles, historical evolution, clinical translation, and emerging formats, aiming to improve practical comprehension and application in oncology. Key determinants of performance: target selection, antibody or peptide carrier attributes, linker stability and cleavage mechanisms, pa",
+      "url": "https://europepmc.org/article/MED/42559290",
+      "date": "2026-08-05",
+      "source": "Europe PMC",
+      "authors": "Zheng R, Li S, Zhang Z, Niu M, Fei J, Zhang J, Zhou J, Wu K, Yi M, Li T.",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 46,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Disulfide rebridging platforms for site-specific ADC conjugation.",
+      "summary": "Antibody-drug conjugates (ADCs) have emerged as a transformative class of targeted therapeutics, combining the exquisite specificity of monoclonal antibodies with the potency of small-molecule cytotoxic payloads. While numerous strategies exist to generate ADCs, site-specific conjugation methods have gained prominence due to their ability to produce homogeneous constructs with defined drug-antibody ratios, improved stability, and predictable pharmacokinetics. Among these, disulfide rebridging chemistries have recently attracted considerable attention as an elegant and versatile platform for precise antibody modification. By exploiting native interchain disulfide bonds, rebridging approaches ",
+      "url": "https://europepmc.org/article/MED/42614813",
+      "date": "2026-08-11",
+      "source": "Europe PMC",
+      "authors": "Petri L, Kovács ÍK, Kiss BJ, Keserű GM.",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 46,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     }
   ],
   "items": [
@@ -535,21 +520,6 @@
       "major_reason": "DMPK / PK-PD package",
       "score": 81,
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
-    },
-    {
-      "title": "Beyond ADCs: Antibody-encapsulated drug for targeted cancer therapy.",
-      "summary": "Antibody-drug conjugates (ADCs) have transformed cancer treatment by covalently linking the monoclonal antibody with cytotoxic payload, yet their clinical potential remains constrained by intrinsic limitations: heterogeneous drug-to-antibody ratios, linker instability, manufacturing complexity, and drug resistance. These challenges highlight the need for fundamentally different drug formulation and delivery platforms. Antibody-encapsulated drugs (AEDs) leverage the single protein encapsulation technology to enable one antibody to noncovalently encapsulate a predefined number of payload molecules. AEDs allow for a fixed drug-to-antibody ratio, mitigate premature drug release, simplify manufac",
-      "url": "https://europepmc.org/article/MED/42639490",
-      "date": "2026-07-25",
-      "source": "Europe PMC",
-      "authors": "Li L, Giuliano A, Sun Q, Cui X, Yuan Y.",
-      "modality": "ADC / ATTC",
-      "stage": "Developability / CMC",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "Developability / CMC signal",
-      "score": 76,
-      "finance": "Check process, formulation, stability, yield and scale-up assumptions; manufacturability can move cost and timeline before IND-enabling."
     },
     {
       "title": "Discovery of a Novel Tripeptide Linker that Broadens the Therapeutic Window of Auristatin-Based Antibody-Drug Conjugates by Reducing Bone Marrow Toxicity.",
@@ -672,81 +642,6 @@
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
     },
     {
-      "title": "Emrelis for c-Met Positive NSCLC: A Breakthrough in Antibody-Drug Conjugate-based Treatment Approved by the FDA.",
-      "summary": "Telisotuzumab Vedotin (Teliso-V), previously known as ABBV-399, is a novel, first-in-class antibodydrug conjugate developed by AbbVie. It combines an anti-c-Met monoclonal antibody (ABT-700) with monomethyl auristatin E (MMAE), a potent microtubule-disrupting agent, via a cleavable linker. This design allows selective delivery of the cytotoxic payload to c-Met-overexpressing tumour cells, thereby bypassing reliance on MET signalling for efficacy. Preclinical studies demonstrated that ABBV-399 effectively inhibited the growth of xenograft tumors refractory to other MET-targeted inhibitors. In early Phase I trials, the agent showed a favourable safety profile and elicited objective tumour resp",
-      "url": "https://europepmc.org/article/MED/42515912",
-      "date": "2026-07-23",
-      "source": "Europe PMC",
-      "authors": "Samui S, Kumar A, Patel P, Kurmi BD.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Combine antibody-drug conjugate with cmLumiOpto for triple-negative breast cancer treatment.",
-      "summary": "Triple-negative breast cancer (TNBC) is an aggressive and chemotherapy-resistant subtype characterized by high metastatic potential and frequent recurrence, making monotherapies largely ineffective. This study evaluates a combination strategy utilizing a CD276 (B7-H3)-targeted antibody-drug conjugate (ADC) alongside mitochondria-targeted gene therapy. The anti-CD276 monoclonal antibody-mertansine conjugate substantially reduces tumor burden at a low dose. It exhibits strong synergy with the cmLumiOpto platform, enhancing cytotoxicity across three TNBC cell lines, impairing mitochondrial function, and elevating the tumoral immune response. Furthermore, the ADC/cmLumiOpto combination suppresse",
-      "url": "https://europepmc.org/article/MED/42497865",
-      "date": "2026-07-24",
-      "source": "Europe PMC",
-      "authors": "Varadkar T, Zhou ZZ, Si Y, Zhang J, Du Z, Khanal AG, Chowdhury S, Tsaliki C, Zhou L, Liu XM.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Preclinical Pharmacological Evaluation of Sacituzumab Govitecan (IMMU-132) in TROP2-Positive Colorectal Liver Metastasis Models.",
-      "summary": "Background/Objectives : Sacituzumab govitecan (SG, IMMU-132) is a TROP2-directed antibody-drug conjugate carrying SN-38. Patients with colorectal liver metastasis (CRLM) still have limited treatment options after first-line systemic therapy, and the preclinical pharmacological value of TROP2-directed SN-38 delivery in CRLM remains insufficiently defined. Methods : Public single-cell RNA-sequencing data were reanalyzed to explore the distribution of TACSTD2/TROP2-positive epithelial-associated cells in adjacent normal tissues, primary colorectal cancer, and CRLM. The prognostic relevance of TACSTD2 was evaluated using the Kaplan-Meier Plotter database. TROP2-knockdown and TROP2-overexpressing",
-      "url": "https://europepmc.org/article/MED/42653662",
-      "date": "2026-07-25",
-      "source": "Europe PMC",
-      "authors": "Zhang W, Wang R, Situ Y, Wang W, Peng J, Lu Z.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "Enhancing the efficacy of B7-H3-targeting antibody-drug conjugate DS-7300a in TP53-deficient tumors by inducing ferroptosis.",
-      "summary": "Immune checkpoint B7-H3 is an emerging target for immunotherapy. DS-7300a is an advanced B7-H3-targeting antibody-drug conjugate (ADC) warheaded with the topoisomerase I inhibitor DXd. DS-7300a has demonstrated clinical activity, but molecular biomarkers to predict its therapeutic response remain elusive. TP53 is one of the most mutated tumor suppressor genes across cancers, and effective therapies are urgently needed for TP53-deficient cancers. Using prostate cancer (PCa) as a model system, we reported that DS-7300a's anti-tumor efficacy is highly dependent on functional p53 in cancer cells, and TP53 defects confer resistance to DS-7300a. Mechanistically, we found that DS-7300a and its payl",
-      "url": "https://europepmc.org/article/MED/42509416",
-      "date": "2026-07-27",
-      "source": "Europe PMC",
-      "authors": "Leo J, Chen F, Shi W, Liang X, Meng C, Gu Q, Albittar Y, Fan Z, Zhang J, Gan B, Goswami S, Carmon KS, Frigo DE, Aparicio A, Zhao D.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
-    {
-      "title": "DLL3-directed immune redirection in small-cell lung cancer: a lineage-defined vulnerability that doubles as an escape route.",
-      "summary": "Delta-like ligand 3 (DLL3) is the first tumor cell surface antigen in small cell lung cancer (SCLC) to support an approved T-cell-redirecting therapy with demonstrated survival benefit, namely the DLL3×CD3 bispecific T-cell engager tarlatamab. DLL3-directed agents are usually surveyed by platform. Here, we argue instead that DLL3 is best understood not as a static surface target but as the surface readout of a plastic, ASCL1-associated neuroendocrine lineage state. DLL3-directed immune redirection works by holding two intrinsically unstable systems in transient alignment: a lineage-defined antigen state on the tumor side and an activatable but exhaustible T cell effector system on the host s",
-      "url": "https://europepmc.org/article/MED/42582332",
-      "date": "2026-07-28",
-      "source": "Europe PMC",
-      "authors": "Wang X, Wang F, Tian W.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical safety",
-      "evidence": "Early signal",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Treat this as a safety-learning signal; determine whether it changes molecule design, backup strategy or expected tox work."
-    },
-    {
       "title": "A PBD dimer-containing antibody-drug conjugate targeting CCRL2 for high-risk MDS/AML including TP53-mutated disease.",
       "summary": "Abstract Patients with myelodysplastic syndrome (MDS)/acute myeloid leukemia (AML) with high-risk features including TP53 mutations have poor outcomes because of the lack of effective therapies. The atypical chemokine surface receptor C-C motif chemokine receptor-like 2 (CCRL2) is overexpressed in MDS and secondary AML compared with healthy hematopoietic cells, and we recently found that TP53-mutated MDS/AML and AML with erythroid features express the highest levels of this receptor across MDS/AML subtypes. To illustrate the therapeutic potential of CCRL2 as a therapeutic target, we developed an anti-CCRL2 antibody-drug conjugate (ADC) by conjugating an anti-CCRL2 antibody with the cytotoxic",
       "url": "https://europepmc.org/article/MED/42160756",
@@ -807,6 +702,21 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
+      "title": "PARP inhibition enhances the antitumor activity of HER3-DXd in non-small cell lung cancer.",
+      "summary": "Lung cancer, a leading cause of cancer-related mortality, is often driven by mutations in the key oncogenes epidermal growth factor receptor (EGFR) and Kirsten rat sarcoma virus (KRAS). Despite advancements of targeted therapies such as tyrosine kinase inhibitors, resistance remains a significant hurdle. Overexpression of HER3, associated with poor prognosis in non-small cell lung cancer (NSCLC), presents an alternative therapeutic target. In this study, we investigate the efficacy of the HER3-targeting antibody-drug conjugate HER3-DXd and its synergistic potential when combined with cell cycle and DNA damage response modulators. A significant synergy is observed with PARP inhibitors, effect",
+      "url": "https://europepmc.org/article/MED/42628527",
+      "date": "2026-08-21",
+      "source": "Europe PMC",
+      "authors": "Lin L, Moradi N, Lähdeniemi IA, Laitinen HK, Alsaed B, Lahtinen L, Lopez T, Jansouz S, Knott A, Soroko KM, Ilonen I, Gokhale PC, Jänne PA, Haikala HM.",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+    },
+    {
       "title": "Enfortumab vedotin induces immunogenic cell death and shows enhanced preclinical antitumor activity when combined with a PD-1 inhibitor.",
       "summary": "Enfortumab vedotin is a Nectin-4-directed antibody-drug conjugate designed to deliver the microtubule-disrupting agent monomethyl auristatin E (MMAE) to tumor cells. Using preclinical models of urothelial cancer (UC), we expand the understanding of the multifaceted mechanism of action for enfortumab vedotin that includes direct cytotoxicity on Nectin-4-positive tumor cells, indirect bystander effect on neighboring Nectin-4-negative tumor cells, and MMAE-mediated induction of immunogenic cell death (ICD) and associated increase in activated immune cells in the tumor microenvironment. Importantly, vaccination with enfortumab vedotin-treated tumor cells results in protection against tumor recha",
       "url": "https://europepmc.org/article/MED/42685702",
@@ -837,7 +747,7 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "From ICI Resistance to Therapeutic Vulnerability: A Resistance-State Framework for Appraising Antibody-Drug Conjugate Evidence in Solid Tumors.",
+      "title": "From ICI resistance to therapeutic vulnerability: A resistance-state framework for appraising antibody-drug conjugate evidence in solid tumors.",
       "summary": "Antibody-drug conjugates (ADCs) can alter tumor-immune interactions, but activity in immune checkpoint inhibitor (ICI)-resistant disease, ADC-ICI combination benefit, functional checkpoint re-enablement, and causal resensitization are often conflated. We propose a resistance-state appraisal framework that distinguishes three outcomes. Re-enable denotes renewed therapeutic contribution from a previously ineffective checkpoint pathway in an ADC-containing context. Bypass denotes ADC activity in an ICI-resistant state without demonstrated restoration of that pathway. Prime denotes immune remodeling that lowers the threshold for checkpoint responsiveness when prior ICI resistance has not been es",
       "url": "https://europepmc.org/article/MED/42754126",
       "date": "2026-09-17",
@@ -957,6 +867,21 @@
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
     {
+      "title": "TNG961 Is a Selective Oral HBS1L Molecular Glue Degrader for the Treatment of FOCAD-Deleted Cancers.",
+      "summary": "When tumor suppressor genes are lost through chromosomal deletion, the deletion of adjacent genes can generate therapeutic vulnerabilities. MTAP is frequently co-deleted with the chr9p21 tumor suppressor gene CDKN2A, creating a synthetic lethal dependency on protein arginine methyltransferase 5 (PRMT5). Telomeric to MTAP lies focadhesin (FOCAD), whose loss induces dependency on the HBS1-like translational GTPase (HBS1L)-protein pelota homolog (PELO) ribosome rescue complex for translational maintenance. FOCAD is deleted in ∼1 out of 3 MTAP-deleted cancers. We screened an immunomodulatory imide drug (IMiD)-focused diversity library and identified a weak hit that bound cereblon (CRBN), promote",
+      "url": "https://europepmc.org/article/MED/42001523",
+      "date": "2026-09-01",
+      "source": "Europe PMC",
+      "authors": "Nicholson HE, Whittington DA, Bruzzese FJ, Lazarides K, Martires LCM, Tonini MR, Jenkins HN, Zhang M, Shahagadkar P, Pratt CB, Briggs KJ, McCarren P, Tsai AW, Bandi M, Min C, Huang A, Zhang H, Meier SR, Shen B, Yu Y, Lia",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 53,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+    },
+    {
       "title": "Discovery and development of a bispecific antibody for the treatment of hemophilia.",
       "summary": "The 2026 Lasker~DeBakey Clinical Medical Research Award has been awarded to Kunihiro Hattori, Takehisa Kitazawa, and Tomoyuki Igawa (Chugai Pharmaceuticals, Tokyo, Japan) for invention of a bispecific antibody that joins blood clotting Factors IXa (FIXa) and X (FX), restoring deficient Factor VIII (FVIII) activity in patients with hemophilia A and preventing severe bleeding in this hereditary disorder. Starting from the 1960s, types of FVIII-replacement therapy remarkably improved on-demand hemostatic treatment for ongoing bleeds and enabled prophylactic reduction of bleeding episodes. However, these agents required burdensome intravenous infusions multiple times per week, and ~30% of patien",
       "url": "https://europepmc.org/article/MED/42713969",
@@ -970,6 +895,21 @@
       "major_reason": null,
       "score": 53,
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
+    },
+    {
+      "title": "Characterization of PduU Reveals a Modular Tool for Tuning Microcompartment Permeability",
+      "summary": "Bacterial microcompartments (MCPs) are versatile proteinaceous organelles that compartmentalize metabolic pathways, offering promising scaffolds for synthetic biology and metabolic engineering. However, designing customized nanobioreactors requires distinguishing structurally indispensable shell proteins from those that can be modified or deleted to tune shell permeability without disrupting core organelle assembly. In this study, we performed a systematic biophysical and metabolic characterization of the hexameric shell protein PduU to evaluate its potential as a modular platform for synthetic organelle engineering. We tested whether deleting pduU or selectively truncating its N-terminal {b",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.07.29.741414",
+      "date": "2026-07-30",
+      "source": "bioRxiv",
+      "authors": "Timane, K. S.; Chowdhury, C.",
+      "modality": "Small Molecule",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 50,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
       "title": "Emerging Therapeutic Strategies in Small-Cell Lung Cancer: From Adaptive Resistance to Precision Therapy.",
@@ -1026,6 +966,36 @@
       "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 46,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Antibody-Drug Conjugates and Peptide-Drug Conjugates: Current Understandings and Future Perspectives.",
+      "summary": "Antibody-drug conjugates (ADCs) and peptide-drug conjugates (PDCs) are modular targeted therapeutics in which molecular recognition is coupled with controlled payload delivery. Owing to their high specificity and precision, they have been regarded as a transformative paradigm for cancer therapy. In this review, current understandings and future perspectives of ADCs and PDCs are synthesized across rational design principles, historical evolution, clinical translation, and emerging formats, aiming to improve practical comprehension and application in oncology. Key determinants of performance: target selection, antibody or peptide carrier attributes, linker stability and cleavage mechanisms, pa",
+      "url": "https://europepmc.org/article/MED/42559290",
+      "date": "2026-08-05",
+      "source": "Europe PMC",
+      "authors": "Zheng R, Li S, Zhang Z, Niu M, Fei J, Zhang J, Zhou J, Wu K, Yi M, Li T.",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 46,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Disulfide rebridging platforms for site-specific ADC conjugation.",
+      "summary": "Antibody-drug conjugates (ADCs) have emerged as a transformative class of targeted therapeutics, combining the exquisite specificity of monoclonal antibodies with the potency of small-molecule cytotoxic payloads. While numerous strategies exist to generate ADCs, site-specific conjugation methods have gained prominence due to their ability to produce homogeneous constructs with defined drug-antibody ratios, improved stability, and predictable pharmacokinetics. Among these, disulfide rebridging chemistries have recently attracted considerable attention as an elegant and versatile platform for precise antibody modification. By exploiting native interchain disulfide bonds, rebridging approaches ",
+      "url": "https://europepmc.org/article/MED/42614813",
+      "date": "2026-08-11",
+      "source": "Europe PMC",
+      "authors": "Petri L, Kovács ÍK, Kiss BJ, Keserű GM.",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Early signal",
       "signal_class": "Research Watch",
       "major_reason": null,
       "score": 46,
