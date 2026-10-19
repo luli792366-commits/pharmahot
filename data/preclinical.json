@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-12 06:00 UTC",
+  "updated_at": "2026-10-19 04:43 UTC",
   "window_days": 60,
   "sources": [
     "Europe PMC",
@@ -21,21 +21,6 @@
       "major_reason": "DMPK / PK-PD package",
       "score": 81,
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
-    },
-    {
-      "title": "CDCP1-targeted antibody-drug conjugates and immunocytokines for cancer therapy.",
-      "summary": "Purpose CUB domain-containing protein 1 (CDCP1) is an emerging tumor-associated surface antigen broadly expressed in solid tumors and linked to poor prognosis, making it an attractive target for selective therapeutic delivery. We evaluated CDCP1 as a platform for two distinct therapeutic modalities: an antibody-drug conjugate (ADC) for cytotoxic payload delivery and an immunocytokine for targeted delivery of interferon-α2b (IFNα2b). Methods Novel humanized anti-CDCP1 monoclonal antibodies were generated and characterized for binding to recombinant and cell-surface CDCP1. CDCP1 expression in tumor cells and xenografts was assessed by flow cytometry and immunohistochemistry. CDCP1-targeted ADC",
-      "url": "https://europepmc.org/article/MED/42604889",
-      "date": "2026-08-17",
-      "source": "Europe PMC",
-      "authors": "Mu G, Yu M, Zhou F, Bi H, Zha Z, Huang S, Jin Y, Han C, Chiu ML, Zhang D.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "Safety-window signal",
-      "score": 76,
-      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
     },
     {
       "title": "Effect of berahyaluronidase alfa on subcutaneous absorption and local tolerability of ALT-P7, an antibody-drug conjugate in preclinical studies.",
@@ -156,24 +141,24 @@
       "major_reason": "DMPK / PK-PD package",
       "score": 68,
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
+    },
+    {
+      "title": "Translational and phase I evaluation of AZD0292, a novel, half-life extended anti-Pseudomonal Psl-PcrV bispecific monoclonal antibody.",
+      "summary": "Background Chronic Pseudomonas aeruginosa airway colonization in bronchiectasis (BE) is associated with frequent exacerbations. Bispecific antibody AZD0292, targeting P. aeruginosa Psl and PcrV, was engineered from gremubamab with a Fc N3Y substitution to extend half-life and is being developed to reduce exacerbations in BE with chronic P. aeruginosa colonization. Methods Preclinical studies assessed opsonophagocytic killing and anti-cytotoxicity assays, repeat-dose toxicology with ex vivo pharmacodynamic analyses in cynomolgus monkeys, and pharmacokinetics in human FcRn transgenic mice. In Phase I, healthy adults were randomized to receive a single dose of AZD0292 (n =24) or placebo (n = 8)",
+      "url": "https://europepmc.org/article/MED/42853976",
+      "date": "2026-10-09",
+      "source": "Europe PMC",
+      "authors": "L E, Riff C, DiGiandomenico A, Reid F, Dsilva L, Kehl M, Kim J, Patnaik MM, Keller AE, Pehrson R, Rosengren S, Zhou J, Stamou M, Zhang H, Ryan PC, Baldry R, Abreu G, Husain M, Cartwright K, de Mendez I, Goldwater R, Brai",
+      "modality": "Biologics",
+      "stage": "Discovery / Preclinical",
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
     }
   ],
   "research_watch": [
-    {
-      "title": "Spatial proteogenomic profiling uncovers sensitization strategies for antibody-drug conjugate in HER2-positive breast cancer.",
-      "summary": "Antibody-drug conjugates (ADCs) have transformed the treatment of HER2-positive breast cancer, yet resistance remains poorly understood. Using imaging mass cytometry, we profiled 157 regions of interest comprising 912,360 single cells from 47 HER2-positive/hormone receptor-negative breast cancers treated with SHR-A1811 in the FASCINATE-N trial. Spatial proteomic analyses identified two determinants of ADC response: elevated tumor-cell H3K27ac expression was associated with improved ADC efficacy, whereas collagen-positive fibroblasts mediated resistance. Combining ADC with the histone deacetylase inhibitor chidamide or the collagen-modulating agent losartan produced synergistic antitumor effe",
-      "url": "https://europepmc.org/article/MED/42594874",
-      "date": "2026-08-13",
-      "source": "Europe PMC",
-      "authors": "Cai YW, Jia SH, Wang H, Hu H, Zhang YW, Shao ZM, Sun HD, Yu KD.",
-      "modality": "ADC / ATTC",
-      "stage": "Discovery / Preclinical",
-      "evidence": "Early signal",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
-    },
     {
       "title": "PARP inhibition enhances the antitumor activity of HER3-DXd in non-small cell lung cancer.",
       "summary": "Lung cancer, a leading cause of cancer-related mortality, is often driven by mutations in the key oncogenes epidermal growth factor receptor (EGFR) and Kirsten rat sarcoma virus (KRAS). Despite advancements of targeted therapies such as tyrosine kinase inhibitors, resistance remains a significant hurdle. Overexpression of HER3, associated with poor prognosis in non-small cell lung cancer (NSCLC), presents an alternative therapeutic target. In this study, we investigate the efficacy of the HER3-targeting antibody-drug conjugate HER3-DXd and its synergistic potential when combined with cell cycle and DNA damage response modulators. A significant synergy is observed with PARP inhibitors, effect",
@@ -235,12 +220,12 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "An Integrin β6-Targeted Antibody-Drug Conjugate Optimized for Intravesical Delivery to Treat Non-Muscle-Invasive Bladder Cancer.",
-      "summary": "Non-muscle-invasive bladder cancer (NMIBC) accounts for 75% of all new bladder cancer diagnoses. Despite new therapeutic treatment options aiming to replace Bacillus Calmette-Guérin (BCG), the standard of care for 40+ years, high rates of failure and recurrence of disease remain in patients with NMIBC. Integrins are a large family of cell surface receptors involved in key biological processes such as cellular adhesion, motility, and cytokinesis, and integrin β-6 (IB6) has emerged as a clinically relevant target due to its restricted expression in normal adult epithelial tissues and elevated levels in solid tumors. IB6 is being actively tested in lung cancer with the antibody-drug conjugate (",
-      "url": "https://europepmc.org/article/MED/42008114",
+      "title": "SLV-404, an anti-RYK antibody-drug conjugate, is effective in Richter transformation patient-derived xenografts.",
+      "summary": "Richter transformation (RT), a highly aggressive lymphoma arising from a preexisting chronic lymphocytic leukemia, represents a major unmet clinical need. Recent data have shown that an antibody-drug conjugate (ADC) targeting the cell-surface pseudokinase ROR1 is effective in RT patients. In this work, we explored other members of the ROR1 family and focused on RYK as a novel therapeutic target. Transcriptomic analyses revealed that RYK is expressed across multiple lymphoma subtypes, including indolent and aggressive lymphomas, such as RT, while it is absent in peripheral blood mononuclear cells (PBMCs) from healthy donors. To increase the selectivity of the ADC for highly proliferating B-ce",
+      "url": "https://europepmc.org/article/MED/42824998",
       "date": "2026-10-01",
       "source": "Europe PMC",
-      "authors": "Carosino CM, Olson DJ, Mazahreh RC, Ortiz DJ, Duniho S, Moskovitz E, Gray M, Hein RF, Garcia NH, Ardalani H, Farr L, Yan T, Burcher M, Mikell I, Levengood MR, Sandall S, Dekker JD.",
+      "authors": "Micillo M, Pirajno B, Vallone FE, Navarro-Tableros V, Bolli E, Griggio V, Lannutti BJ, Jessen KA, Vaisitti T, Deaglio S.",
       "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
@@ -250,12 +235,12 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "SLV-404, an anti-RYK antibody-drug conjugate, is effective in Richter transformation patient-derived xenografts.",
-      "summary": "Richter transformation (RT), a highly aggressive lymphoma arising from a preexisting chronic lymphocytic leukemia, represents a major unmet clinical need. Recent data have shown that an antibody-drug conjugate (ADC) targeting the cell-surface pseudokinase ROR1 is effective in RT patients. In this work, we explored other members of the ROR1 family and focused on RYK as a novel therapeutic target. Transcriptomic analyses revealed that RYK is expressed across multiple lymphoma subtypes, including indolent and aggressive lymphomas, such as RT, while it is absent in peripheral blood mononuclear cells (PBMCs) from healthy donors. To increase the selectivity of the ADC for highly proliferating B-ce",
-      "url": "https://europepmc.org/article/MED/42824998",
+      "title": "An Integrin β6-Targeted Antibody-Drug Conjugate Optimized for Intravesical Delivery to Treat Non-Muscle-Invasive Bladder Cancer.",
+      "summary": "Non-muscle-invasive bladder cancer (NMIBC) accounts for 75% of all new bladder cancer diagnoses. Despite new therapeutic treatment options aiming to replace Bacillus Calmette-Guérin (BCG), the standard of care for 40+ years, high rates of failure and recurrence of disease remain in patients with NMIBC. Integrins are a large family of cell surface receptors involved in key biological processes such as cellular adhesion, motility, and cytokinesis, and integrin β-6 (IB6) has emerged as a clinically relevant target due to its restricted expression in normal adult epithelial tissues and elevated levels in solid tumors. IB6 is being actively tested in lung cancer with the antibody-drug conjugate (",
+      "url": "https://europepmc.org/article/MED/42008114",
       "date": "2026-10-01",
       "source": "Europe PMC",
-      "authors": "Micillo M, Pirajno B, Vallone FE, Navarro-Tableros V, Bolli E, Griggio V, Lannutti BJ, Jessen KA, Vaisitti T, Deaglio S.",
+      "authors": "Carosino CM, Olson DJ, Mazahreh RC, Ortiz DJ, Duniho S, Moskovitz E, Gray M, Hein RF, Garcia NH, Ardalani H, Farr L, Yan T, Burcher M, Mikell I, Levengood MR, Sandall S, Dekker JD.",
       "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
@@ -280,19 +265,49 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "A New Recruitable E3 Ligase UHRF1 Supporting Targeted Protein Degradation: A Minimal Azide as a Recruitment Ligand.",
-      "summary": "Targeted protein degradation represents a promising therapeutic strategy, yet its broader application is often limited by the scarcity of usable E3 ligases. Glutathione peroxidase 4 (GPX4) is a key target for inducing ferroptosis, but achieving sustained and potent inhibition remains challenging with conventional enzymatic inhibitors. Herein, we report the first small-molecule GPX4 degraders that incorporate either electrophilic warheads or a minimal azide group as an E3 recruitment ligand. The azide-based degrader DK-5070 effectively drives potent GPX4 degradation, achieving a DC 50 of 17.4 nM and a Dmax of 84%, thereby outperforming larger PROTAC-based degraders. Notably, DK‑5070 exhibits ",
-      "url": "https://europepmc.org/article/MED/42615868",
-      "date": "2026-08-19",
+      "title": "STING reprogramming by estrogen promotes neutrophil extracellular trap formation and sex-biased resistance to ADC therapy.",
+      "summary": "Sex differences in cancer therapy response remain poorly understood. Using a \"phase II-like preclinical trial\" across 55 CLDN18.2 + pancreatic cancer patient-derived xenografts, we identify marked female-biased resistance to CLDN18.2-targeted antibody-drug conjugate (ADC) therapy despite equivalent antigen expression. Mechanistically, estrogen signals through GPER1 to upregulate TRAF6, redirecting tumor-intrinsic STING signaling from IRF3-mediated interferon production toward nuclear factor κB (NF-κB) activation. This drives CXCL1 secretion, neutrophil recruitment, and neutrophil extracellular trap (NET) formation. NETs form a charged extracellular network that restricts antibody access to t",
+      "url": "https://europepmc.org/article/MED/42838045",
+      "date": "2026-10-06",
       "source": "Europe PMC",
-      "authors": "Lin Z, Duan K, Wan R, Jiang T, Wei J, Sun M, Skryl'nikova MA, Gureev MA, Zhang ZM, Zhang Z, Ding K, Ma N, Liu T, Tan Y, Li Z.",
-      "modality": "Small Molecule",
+      "authors": "Yan J, Zhou T, Shi S, Mao G, Xu J, Zhang Y, Zhang Y, Sun H, Wang Y, Wang X, Huang C, Liu R, Hu D, Yang S, Yu J, Feng Y, Xie Y, Wang B, Hao J.",
+      "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
       "major_reason": null,
-      "score": 53,
-      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Preclinical Characterization of ADCT-241, an Exatecan-Based Antibody-Drug Conjugate Against PSMA for the Treatment of Metastatic Castration-Resistant Prostate Cancer.",
+      "summary": "Prostate-specific membrane antigen (PSMA) is a type II transmembrane glycoprotein with elevated expression in primary and metastatic prostate cancer (PCa) compared with normal prostate tissues; with low levels in renal proximal tubules, small intestine, and the brain. PSMA is a clinically validated target and is associated with progression and aggressiveness of disease. ADCT-241 is a novel antibody-drug conjugate (ADC) composed of the fully human monoclonal antibody (mAb) 2A10, directed against PSMA, to which the exatecan-containing PL2202 payload was stochastically conjugated with a drug-to-antibody ratio of 4. 2A10 was selected over J591, as it showed good binding affinity, a better half-l",
+      "url": "https://europepmc.org/article/MED/42841485",
+      "date": "2026-10-07",
+      "source": "Europe PMC",
+      "authors": "Jabeen A, Leatherdale B, Martin R, Gomez V, Cucchi D, Rajeenthira B, Omar H, Faid A, Alves PL, Zaitseva K, Veillard N, Janghra N, Ilkow V, Horsley E, Baxter L, Gallagher C, Oblette C, Hogg PW, Lamba Saini M, de Haan L, B",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Trastuzumab deruxtecan kills skin and uveal melanoma in vivo by HER2-independent payload release",
+      "summary": "Background HER2-directed CAR-T cells can eradicate melanoma despite low HER2 expression. We therefore asked whether melanoma would also respond to trastuzumab deruxtecan (T-DXd), an antibody-drug conjugate targeting HER2. Patients and methods T-DXd was evaluated in several patient-derived xenograft (PDX) models and as a compassionate use in one patient with metastatic uveal melanoma. We compared T-DXd with another ADC, trastuzumab emtansine (T-DM1), and examined ADC sensitivity and trastuzumab uptake in vitro, and expression of HER2 and cathepsin L (CTSL) in xenografts. Results T-DXd inhibited all subcutaneous PDXs, while liver models were less sensitive. T-DM1 had limited activity. Unexpect",
+      "url": "https://doi.org/10.64898/2026.10.09.757939",
+      "date": "2026-10-12",
+      "source": "Europe PMC",
+      "authors": "Nilsson LM, Tanaydin ES, Stenqvist S, Jansson D, Ny L, Nilsson JA.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
       "title": "17 Preclinical Study of Anti-CAIX/CD70 DFIR CAR-T Cell Therapy Secreting Anti-PD-1/CTLA-4 Bispecific Payload for Advanced Clear Cell Renal Cell Carcinoma Treatment",
@@ -415,21 +430,6 @@
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
     {
-      "title": "Long-read sequencing quantifies synthetic mRNA abundance, integrity and host response in vivo",
-      "summary": "Synthetic mRNA can be used to reprogram biological systems and is increasingly used in vaccines, gene therapies and other advanced therapeutics. However, measuring mRNA abundance, molecular integrity and biological effects in complex samples remains challenging. Existing assays typically quantify short transcript regions or infer delivery from lipid or protein readouts. Here we present a long-read nanopore sequencing method that directly quantifies synthetic mRNA in complex cell and tissue samples. The approach enables absolute quantification of full-length synthetic mRNA, maps degradation at nucleotide resolution and simultaneously profiles associated host transcriptional responses. Applied",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.08.10.741180",
-      "date": "2026-08-19",
-      "source": "bioRxiv",
-      "authors": "McLeod, V. M.; Yuen, D.; Chen, M. Z.; Beckham, S. A.; Feeney, O. M.; Herling, B. R.; Yang, Y.; Molle, L. M.; Kaur, P.; Payne, T. J.; Fabb, S. A.; Pouton, C. W.; Porter, C. J. H.; Johnston, A. P. R.",
-      "modality": "Biologics",
-      "stage": "Developability / CMC",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 50,
-      "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
-    },
-    {
       "title": "Discovery and optimization of the next generation of cell active Protein Kinase Novel 3 (PKN3) inhibitors",
       "summary": "Protein Kinase Novel 3 (PKN3) understudied kinase with a diverse array of biological functions that are yet to be fully defined. Here, we report the design and development of a novel advanced functional chemical tool inhibitor for PKN3. A pyridyl imidazole series has been synthesized and evaluated against PKN3 in vitro and in cells. These efforts led to the discovery of 6e (URS03-06), a submicromolar cell active functional inhibitor with a narrow kinome spectrum, to enable the elucidation and interrogation of PKN3 cellular biology.",
       "url": "https://www.biorxiv.org/content/10.64898/2026.08.20.745975",
@@ -490,19 +490,19 @@
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
-      "title": "Antibody-Drug Conjugates in Contemporary Oncology: A Clinical Perspective on Dose Optimization, Sequencing, and Combination Strategies.",
-      "summary": "Antibody-drug conjugates (ADCs) have matured from a technically challenging concept into an established therapeutic platform across hematologic and solid malignancies. By linking a monoclonal antibody to a potent cytotoxic payload, ADCs seek to increase tumor-directed drug delivery while limiting systemic exposure; however, clinical performance depends on much more than target expression. Target accessibility, antigen density and heterogeneity, internalization, intracellular trafficking, linker stability, payload properties, drug-to-antibody ratio, bystander effect, tumor penetration, and host-tissue handling jointly shape efficacy and toxicity. This review provides a clinician-oriented asse",
-      "url": "https://europepmc.org/article/MED/42649965",
-      "date": "2026-08-17",
-      "source": "Europe PMC",
-      "authors": "Philipovskiy A, Shurmur S, Abid MB.",
-      "modality": "ADC / ATTC",
-      "stage": "Developability / CMC",
-      "evidence": "Early signal",
+      "title": "Molecular logic of pheromone recognition enables rational design of insect behavior modulators",
+      "summary": "Reproductive success across animal taxa relies on the unequivocal identification of volatile chemical cues used for sexual communication. These chemical signals, called pheromones, are often structurally nearly identical, sometimes differing only by the oxidation state of a functional group, yet elicit vastly different behaviors. The structural mechanisms driving this exquisite selectivity remain elusive, hindering the rational development of tools to modulate these pathways. Here, we decode the structural logic of pheromone recognition to rationally manipulate insect behavior. Using cryo-electron microscopy and functional mutagenesis, we show that the silkmoth Bombyx mori distinguishes betw",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.05.30.657074",
+      "date": "2026-08-21",
+      "source": "bioRxiv",
+      "authors": "Jang, S. S.; McDowell, S. A. T.; KC, P.; Simjanoska, M.; Mandala, S.; Zhang, X.; Jiang, H.; Cole, P. A.; Riffell, J. A.; Zheng, Q.; del Marmol, J. I.",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
       "signal_class": "Research Watch",
       "major_reason": null,
-      "score": 46,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "score": 50,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
       "title": "T-Cell Engagers in Lung Cancer: A Comprehensive Literature Review from Tarlatamab Approval to Next-Generation Strategies.",
@@ -537,21 +537,6 @@
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
     },
     {
-      "title": "CDCP1-targeted antibody-drug conjugates and immunocytokines for cancer therapy.",
-      "summary": "Purpose CUB domain-containing protein 1 (CDCP1) is an emerging tumor-associated surface antigen broadly expressed in solid tumors and linked to poor prognosis, making it an attractive target for selective therapeutic delivery. We evaluated CDCP1 as a platform for two distinct therapeutic modalities: an antibody-drug conjugate (ADC) for cytotoxic payload delivery and an immunocytokine for targeted delivery of interferon-α2b (IFNα2b). Methods Novel humanized anti-CDCP1 monoclonal antibodies were generated and characterized for binding to recombinant and cell-surface CDCP1. CDCP1 expression in tumor cells and xenografts was assessed by flow cytometry and immunohistochemistry. CDCP1-targeted ADC",
-      "url": "https://europepmc.org/article/MED/42604889",
-      "date": "2026-08-17",
-      "source": "Europe PMC",
-      "authors": "Mu G, Yu M, Zhou F, Bi H, Zha Z, Huang S, Jin Y, Han C, Chiu ML, Zhang D.",
-      "modality": "ADC / ATTC",
-      "stage": "Preclinical efficacy",
-      "evidence": "Decision-relevant package",
-      "signal_class": "Major Development Signal",
-      "major_reason": "Safety-window signal",
-      "score": 76,
-      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
-    },
-    {
       "title": "Effect of berahyaluronidase alfa on subcutaneous absorption and local tolerability of ALT-P7, an antibody-drug conjugate in preclinical studies.",
       "summary": "Subcutaneous (SC) delivery of antibody-drug conjugates (ADCs) poses distinct challenges including the potential for local toxicity associated with cytotoxic payloads. The present study evaluated the effect of berahyaluronidase alfa (BHα) on the pharmacokinetics and local tolerability of ALT-P7, a HER2-targeting ADC, following SC injection in Yucatan minipigs and intradermal (ID) injection in Sprague-Dawley rats. ALT-P7 was administered intravenously (IV) or SC at the inguinal or dorsal site in minipigs (n = 3-5 per group), with or without BHα co-administration as a pre-mixed formulation or by sequential pre-injection. In rats, ALT-P7 was administered IV or ID with or without BHα. Serum conce",
       "url": "https://europepmc.org/article/MED/42641930",
@@ -672,19 +657,19 @@
       "finance": "Check whether exposure and PK-PD are strong enough to reduce formulation or dosing uncertainty and support resource concentration."
     },
     {
-      "title": "Spatial proteogenomic profiling uncovers sensitization strategies for antibody-drug conjugate in HER2-positive breast cancer.",
-      "summary": "Antibody-drug conjugates (ADCs) have transformed the treatment of HER2-positive breast cancer, yet resistance remains poorly understood. Using imaging mass cytometry, we profiled 157 regions of interest comprising 912,360 single cells from 47 HER2-positive/hormone receptor-negative breast cancers treated with SHR-A1811 in the FASCINATE-N trial. Spatial proteomic analyses identified two determinants of ADC response: elevated tumor-cell H3K27ac expression was associated with improved ADC efficacy, whereas collagen-positive fibroblasts mediated resistance. Combining ADC with the histone deacetylase inhibitor chidamide or the collagen-modulating agent losartan produced synergistic antitumor effe",
-      "url": "https://europepmc.org/article/MED/42594874",
-      "date": "2026-08-13",
+      "title": "Translational and phase I evaluation of AZD0292, a novel, half-life extended anti-Pseudomonal Psl-PcrV bispecific monoclonal antibody.",
+      "summary": "Background Chronic Pseudomonas aeruginosa airway colonization in bronchiectasis (BE) is associated with frequent exacerbations. Bispecific antibody AZD0292, targeting P. aeruginosa Psl and PcrV, was engineered from gremubamab with a Fc N3Y substitution to extend half-life and is being developed to reduce exacerbations in BE with chronic P. aeruginosa colonization. Methods Preclinical studies assessed opsonophagocytic killing and anti-cytotoxicity assays, repeat-dose toxicology with ex vivo pharmacodynamic analyses in cynomolgus monkeys, and pharmacokinetics in human FcRn transgenic mice. In Phase I, healthy adults were randomized to receive a single dose of AZD0292 (n =24) or placebo (n = 8)",
+      "url": "https://europepmc.org/article/MED/42853976",
+      "date": "2026-10-09",
       "source": "Europe PMC",
-      "authors": "Cai YW, Jia SH, Wang H, Hu H, Zhang YW, Shao ZM, Sun HD, Yu KD.",
-      "modality": "ADC / ATTC",
+      "authors": "L E, Riff C, DiGiandomenico A, Reid F, Dsilva L, Kehl M, Kim J, Patnaik MM, Keller AE, Pehrson R, Rosengren S, Zhou J, Stamou M, Zhang H, Ryan PC, Baldry R, Abreu G, Husain M, Cartwright K, de Mendez I, Goldwater R, Brai",
+      "modality": "Biologics",
       "stage": "Discovery / Preclinical",
-      "evidence": "Early signal",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 61,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "evidence": "Decision-relevant package",
+      "signal_class": "Major Development Signal",
+      "major_reason": "Safety-window signal",
+      "score": 68,
+      "finance": "Check whether the therapeutic window meaningfully changes dose feasibility, tox risk, backup-molecule needs or timeline assumptions."
     },
     {
       "title": "PARP inhibition enhances the antitumor activity of HER3-DXd in non-small cell lung cancer.",
@@ -747,12 +732,12 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "An Integrin β6-Targeted Antibody-Drug Conjugate Optimized for Intravesical Delivery to Treat Non-Muscle-Invasive Bladder Cancer.",
-      "summary": "Non-muscle-invasive bladder cancer (NMIBC) accounts for 75% of all new bladder cancer diagnoses. Despite new therapeutic treatment options aiming to replace Bacillus Calmette-Guérin (BCG), the standard of care for 40+ years, high rates of failure and recurrence of disease remain in patients with NMIBC. Integrins are a large family of cell surface receptors involved in key biological processes such as cellular adhesion, motility, and cytokinesis, and integrin β-6 (IB6) has emerged as a clinically relevant target due to its restricted expression in normal adult epithelial tissues and elevated levels in solid tumors. IB6 is being actively tested in lung cancer with the antibody-drug conjugate (",
-      "url": "https://europepmc.org/article/MED/42008114",
+      "title": "SLV-404, an anti-RYK antibody-drug conjugate, is effective in Richter transformation patient-derived xenografts.",
+      "summary": "Richter transformation (RT), a highly aggressive lymphoma arising from a preexisting chronic lymphocytic leukemia, represents a major unmet clinical need. Recent data have shown that an antibody-drug conjugate (ADC) targeting the cell-surface pseudokinase ROR1 is effective in RT patients. In this work, we explored other members of the ROR1 family and focused on RYK as a novel therapeutic target. Transcriptomic analyses revealed that RYK is expressed across multiple lymphoma subtypes, including indolent and aggressive lymphomas, such as RT, while it is absent in peripheral blood mononuclear cells (PBMCs) from healthy donors. To increase the selectivity of the ADC for highly proliferating B-ce",
+      "url": "https://europepmc.org/article/MED/42824998",
       "date": "2026-10-01",
       "source": "Europe PMC",
-      "authors": "Carosino CM, Olson DJ, Mazahreh RC, Ortiz DJ, Duniho S, Moskovitz E, Gray M, Hein RF, Garcia NH, Ardalani H, Farr L, Yan T, Burcher M, Mikell I, Levengood MR, Sandall S, Dekker JD.",
+      "authors": "Micillo M, Pirajno B, Vallone FE, Navarro-Tableros V, Bolli E, Griggio V, Lannutti BJ, Jessen KA, Vaisitti T, Deaglio S.",
       "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
@@ -762,12 +747,12 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "SLV-404, an anti-RYK antibody-drug conjugate, is effective in Richter transformation patient-derived xenografts.",
-      "summary": "Richter transformation (RT), a highly aggressive lymphoma arising from a preexisting chronic lymphocytic leukemia, represents a major unmet clinical need. Recent data have shown that an antibody-drug conjugate (ADC) targeting the cell-surface pseudokinase ROR1 is effective in RT patients. In this work, we explored other members of the ROR1 family and focused on RYK as a novel therapeutic target. Transcriptomic analyses revealed that RYK is expressed across multiple lymphoma subtypes, including indolent and aggressive lymphomas, such as RT, while it is absent in peripheral blood mononuclear cells (PBMCs) from healthy donors. To increase the selectivity of the ADC for highly proliferating B-ce",
-      "url": "https://europepmc.org/article/MED/42824998",
+      "title": "An Integrin β6-Targeted Antibody-Drug Conjugate Optimized for Intravesical Delivery to Treat Non-Muscle-Invasive Bladder Cancer.",
+      "summary": "Non-muscle-invasive bladder cancer (NMIBC) accounts for 75% of all new bladder cancer diagnoses. Despite new therapeutic treatment options aiming to replace Bacillus Calmette-Guérin (BCG), the standard of care for 40+ years, high rates of failure and recurrence of disease remain in patients with NMIBC. Integrins are a large family of cell surface receptors involved in key biological processes such as cellular adhesion, motility, and cytokinesis, and integrin β-6 (IB6) has emerged as a clinically relevant target due to its restricted expression in normal adult epithelial tissues and elevated levels in solid tumors. IB6 is being actively tested in lung cancer with the antibody-drug conjugate (",
+      "url": "https://europepmc.org/article/MED/42008114",
       "date": "2026-10-01",
       "source": "Europe PMC",
-      "authors": "Micillo M, Pirajno B, Vallone FE, Navarro-Tableros V, Bolli E, Griggio V, Lannutti BJ, Jessen KA, Vaisitti T, Deaglio S.",
+      "authors": "Carosino CM, Olson DJ, Mazahreh RC, Ortiz DJ, Duniho S, Moskovitz E, Gray M, Hein RF, Garcia NH, Ardalani H, Farr L, Yan T, Burcher M, Mikell I, Levengood MR, Sandall S, Dekker JD.",
       "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
@@ -792,19 +777,49 @@
       "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
-      "title": "A New Recruitable E3 Ligase UHRF1 Supporting Targeted Protein Degradation: A Minimal Azide as a Recruitment Ligand.",
-      "summary": "Targeted protein degradation represents a promising therapeutic strategy, yet its broader application is often limited by the scarcity of usable E3 ligases. Glutathione peroxidase 4 (GPX4) is a key target for inducing ferroptosis, but achieving sustained and potent inhibition remains challenging with conventional enzymatic inhibitors. Herein, we report the first small-molecule GPX4 degraders that incorporate either electrophilic warheads or a minimal azide group as an E3 recruitment ligand. The azide-based degrader DK-5070 effectively drives potent GPX4 degradation, achieving a DC 50 of 17.4 nM and a Dmax of 84%, thereby outperforming larger PROTAC-based degraders. Notably, DK‑5070 exhibits ",
-      "url": "https://europepmc.org/article/MED/42615868",
-      "date": "2026-08-19",
+      "title": "STING reprogramming by estrogen promotes neutrophil extracellular trap formation and sex-biased resistance to ADC therapy.",
+      "summary": "Sex differences in cancer therapy response remain poorly understood. Using a \"phase II-like preclinical trial\" across 55 CLDN18.2 + pancreatic cancer patient-derived xenografts, we identify marked female-biased resistance to CLDN18.2-targeted antibody-drug conjugate (ADC) therapy despite equivalent antigen expression. Mechanistically, estrogen signals through GPER1 to upregulate TRAF6, redirecting tumor-intrinsic STING signaling from IRF3-mediated interferon production toward nuclear factor κB (NF-κB) activation. This drives CXCL1 secretion, neutrophil recruitment, and neutrophil extracellular trap (NET) formation. NETs form a charged extracellular network that restricts antibody access to t",
+      "url": "https://europepmc.org/article/MED/42838045",
+      "date": "2026-10-06",
       "source": "Europe PMC",
-      "authors": "Lin Z, Duan K, Wan R, Jiang T, Wei J, Sun M, Skryl'nikova MA, Gureev MA, Zhang ZM, Zhang Z, Ding K, Ma N, Liu T, Tan Y, Li Z.",
-      "modality": "Small Molecule",
+      "authors": "Yan J, Zhou T, Shi S, Mao G, Xu J, Zhang Y, Zhang Y, Sun H, Wang Y, Wang X, Huang C, Liu R, Hu D, Yang S, Yu J, Feng Y, Xie Y, Wang B, Hao J.",
+      "modality": "ADC / ATTC",
       "stage": "Preclinical efficacy",
       "evidence": "Reproducible package",
       "signal_class": "Research Watch",
       "major_reason": null,
-      "score": 53,
-      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Preclinical Characterization of ADCT-241, an Exatecan-Based Antibody-Drug Conjugate Against PSMA for the Treatment of Metastatic Castration-Resistant Prostate Cancer.",
+      "summary": "Prostate-specific membrane antigen (PSMA) is a type II transmembrane glycoprotein with elevated expression in primary and metastatic prostate cancer (PCa) compared with normal prostate tissues; with low levels in renal proximal tubules, small intestine, and the brain. PSMA is a clinically validated target and is associated with progression and aggressiveness of disease. ADCT-241 is a novel antibody-drug conjugate (ADC) composed of the fully human monoclonal antibody (mAb) 2A10, directed against PSMA, to which the exatecan-containing PL2202 payload was stochastically conjugated with a drug-to-antibody ratio of 4. 2A10 was selected over J591, as it showed good binding affinity, a better half-l",
+      "url": "https://europepmc.org/article/MED/42841485",
+      "date": "2026-10-07",
+      "source": "Europe PMC",
+      "authors": "Jabeen A, Leatherdale B, Martin R, Gomez V, Cucchi D, Rajeenthira B, Omar H, Faid A, Alves PL, Zaitseva K, Veillard N, Janghra N, Ilkow V, Horsley E, Baxter L, Gallagher C, Oblette C, Hogg PW, Lamba Saini M, de Haan L, B",
+      "modality": "ADC / ATTC",
+      "stage": "Developability / CMC",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+    },
+    {
+      "title": "Trastuzumab deruxtecan kills skin and uveal melanoma in vivo by HER2-independent payload release",
+      "summary": "Background HER2-directed CAR-T cells can eradicate melanoma despite low HER2 expression. We therefore asked whether melanoma would also respond to trastuzumab deruxtecan (T-DXd), an antibody-drug conjugate targeting HER2. Patients and methods T-DXd was evaluated in several patient-derived xenograft (PDX) models and as a compassionate use in one patient with metastatic uveal melanoma. We compared T-DXd with another ADC, trastuzumab emtansine (T-DM1), and examined ADC sensitivity and trastuzumab uptake in vitro, and expression of HER2 and cathepsin L (CTSL) in xenografts. Results T-DXd inhibited all subcutaneous PDXs, while liver models were less sensitive. T-DM1 had limited activity. Unexpect",
+      "url": "https://doi.org/10.64898/2026.10.09.757939",
+      "date": "2026-10-12",
+      "source": "Europe PMC",
+      "authors": "Nilsson LM, Tanaydin ES, Stenqvist S, Jansson D, Ny L, Nilsson JA.",
+      "modality": "ADC / ATTC",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
+      "signal_class": "Research Watch",
+      "major_reason": null,
+      "score": 61,
+      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
     },
     {
       "title": "17 Preclinical Study of Anti-CAIX/CD70 DFIR CAR-T Cell Therapy Secreting Anti-PD-1/CTLA-4 Bispecific Payload for Advanced Clear Cell Renal Cell Carcinoma Treatment",
@@ -927,21 +942,6 @@
       "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
     },
     {
-      "title": "Long-read sequencing quantifies synthetic mRNA abundance, integrity and host response in vivo",
-      "summary": "Synthetic mRNA can be used to reprogram biological systems and is increasingly used in vaccines, gene therapies and other advanced therapeutics. However, measuring mRNA abundance, molecular integrity and biological effects in complex samples remains challenging. Existing assays typically quantify short transcript regions or infer delivery from lipid or protein readouts. Here we present a long-read nanopore sequencing method that directly quantifies synthetic mRNA in complex cell and tissue samples. The approach enables absolute quantification of full-length synthetic mRNA, maps degradation at nucleotide resolution and simultaneously profiles associated host transcriptional responses. Applied",
-      "url": "https://www.biorxiv.org/content/10.64898/2026.08.10.741180",
-      "date": "2026-08-19",
-      "source": "bioRxiv",
-      "authors": "McLeod, V. M.; Yuen, D.; Chen, M. Z.; Beckham, S. A.; Feeney, O. M.; Herling, B. R.; Yang, Y.; Molle, L. M.; Kaur, P.; Payne, T. J.; Fabb, S. A.; Pouton, C. W.; Porter, C. J. H.; Johnston, A. P. R.",
-      "modality": "Biologics",
-      "stage": "Developability / CMC",
-      "evidence": "Reproducible package",
-      "signal_class": "Research Watch",
-      "major_reason": null,
-      "score": 50,
-      "finance": "Track developability, PK, immunogenicity, process yield, analytics and tox-material readiness before moving timeline assumptions."
-    },
-    {
       "title": "Discovery and optimization of the next generation of cell active Protein Kinase Novel 3 (PKN3) inhibitors",
       "summary": "Protein Kinase Novel 3 (PKN3) understudied kinase with a diverse array of biological functions that are yet to be fully defined. Here, we report the design and development of a novel advanced functional chemical tool inhibitor for PKN3. A pyridyl imidazole series has been synthesized and evaluated against PKN3 in vitro and in cells. These efforts led to the discovery of 6e (URS03-06), a submicromolar cell active functional inhibitor with a narrow kinome spectrum, to enable the elucidation and interrogation of PKN3 cellular biology.",
       "url": "https://www.biorxiv.org/content/10.64898/2026.08.20.745975",
@@ -1002,19 +1002,19 @@
       "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
-      "title": "Antibody-Drug Conjugates in Contemporary Oncology: A Clinical Perspective on Dose Optimization, Sequencing, and Combination Strategies.",
-      "summary": "Antibody-drug conjugates (ADCs) have matured from a technically challenging concept into an established therapeutic platform across hematologic and solid malignancies. By linking a monoclonal antibody to a potent cytotoxic payload, ADCs seek to increase tumor-directed drug delivery while limiting systemic exposure; however, clinical performance depends on much more than target expression. Target accessibility, antigen density and heterogeneity, internalization, intracellular trafficking, linker stability, payload properties, drug-to-antibody ratio, bystander effect, tumor penetration, and host-tissue handling jointly shape efficacy and toxicity. This review provides a clinician-oriented asse",
-      "url": "https://europepmc.org/article/MED/42649965",
-      "date": "2026-08-17",
-      "source": "Europe PMC",
-      "authors": "Philipovskiy A, Shurmur S, Abid MB.",
-      "modality": "ADC / ATTC",
-      "stage": "Developability / CMC",
-      "evidence": "Early signal",
+      "title": "Molecular logic of pheromone recognition enables rational design of insect behavior modulators",
+      "summary": "Reproductive success across animal taxa relies on the unequivocal identification of volatile chemical cues used for sexual communication. These chemical signals, called pheromones, are often structurally nearly identical, sometimes differing only by the oxidation state of a functional group, yet elicit vastly different behaviors. The structural mechanisms driving this exquisite selectivity remain elusive, hindering the rational development of tools to modulate these pathways. Here, we decode the structural logic of pheromone recognition to rationally manipulate insect behavior. Using cryo-electron microscopy and functional mutagenesis, we show that the silkmoth Bombyx mori distinguishes betw",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.05.30.657074",
+      "date": "2026-08-21",
+      "source": "bioRxiv",
+      "authors": "Jang, S. S.; McDowell, S. A. T.; KC, P.; Simjanoska, M.; Mandala, S.; Zhang, X.; Jiang, H.; Cole, P. A.; Riffell, J. A.; Zheng, Q.; del Marmol, J. I.",
+      "modality": "Small Molecule",
+      "stage": "Preclinical efficacy",
+      "evidence": "Reproducible package",
       "signal_class": "Research Watch",
       "major_reason": null,
-      "score": 46,
-      "finance": "Track safety margin, payload/linker supply, conjugation control, stability and GMP scale-up before treating efficacy as development-ready."
+      "score": 50,
+      "finance": "Track DMPK, selectivity, formulation, off-target/tox risk and scale-up chemistry before moving timeline or valuation assumptions."
     },
     {
       "title": "T-Cell Engagers in Lung Cancer: A Comprehensive Literature Review from Tarlatamab Approval to Next-Generation Strategies.",
