@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 04:43 UTC",
+  "updated_at": "2026-10-26 04:49 UTC",
   "tox_nhp": [
     {
       "title": "FDA: Monoclonal Antibodies — Streamlined Nonclinical Safety Studies",
@@ -57,21 +57,10 @@
       "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
     },
     {
-      "title": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US - Bloomberg.com",
+      "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDhkMTZ2V0VENnM3emFyNGNPX3FHYUpmVjI3NW1fVHJyR1Q5VlZYYkh3a2VKb1BLeFNHVmhMQmU1VGJDREVmQzVXV085LTU3aFBOLWc1eTV1cFhHZHBjaXR5V0w1aGJGUUF1b1NvRlRnTlQwSnNaX1k5YncxSEJCblcwRTctekNyZ2FGLV80QWp2aWU3eEZYZEpxMHFBNTVPUldXY3lEV2E4bTNUdkpxR1dn?oc=5",
-      "summary": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US &nbsp;&nbsp; Bloomberg.com",
+      "summary": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech &nbsp;&nbsp; Bloomberg.com",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
-      "title": "$33,800 lab monkeys show China’s quest to rival US biotech - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEdHbmItdFNuSUFtT0dQdUYzOFBYMlBBaF9FV2tGTVF1al96Y3dDVkpacDBNM3VEUS1vbXI4b3dRRUJGNTM3MWlNS0RJQVlFbG95ZTE3VkY3TFRWY2UtVEtJbzhfNHNadDFjYU5DOEVQY3d2ZUVaR01IZkdWUlNRbzFfcE16cEdOeG5sa09TakNLTnctT015Sg?oc=5",
-      "summary": "$33,800 lab monkeys show China’s quest to rival US biotech &nbsp;&nbsp; The Straits Times",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -169,6 +158,17 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
+      "title": "U.S. Companion Diagnostic Assay Development Services Market - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWNCSkYzYXZROTZXbUl0S0J3MlhBWmhkaXFwQXQ5T2V5U0JVX1pXUTRMc3Q5aEFZMzVDeW1NUTJDUHl2aXJBWGhnRDNIOWxnSXdsVTlRNDU1SmRwMGowNGthVWdYMEl5ZGNQbTFTck1lLUdZM0I5WElKQ1ZDUGFSNWNZeVZ6RThpMzVQQzg4YW1fWnpERGxnQ2F3?oc=5",
+      "summary": "U.S. Companion Diagnostic Assay Development Services Market &nbsp;&nbsp; openPR.com",
+      "date": "Fri, 23 Oct 2026 06:45:15 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
       "title": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood - Medical Daily",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRXTE1iVHFDUVlnenFCWF92bEdWT3RPQVl6dl9xOFdWOEh5MTRIUU1UM1dEUUE1N1lONnRLaUNyWjYzVWR2Y1FtMmV3TEpqb3VSRnhQVVFuOU5vNUltNzdFelBYMFlORFczV0FKd2M0eVdtTHVTY3FZUUZWUkNRY1dQSWpqbUYyUS1mR2dBaVR1Z2tJUHVZckdB?oc=5",
       "summary": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood &nbsp;&nbsp; Medical Daily",
@@ -180,10 +180,10 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
-      "title": "BRACAnalysis CDx Companion Diagnostic Progresses Personalized Ovarian Cancer Care - Targeted Oncology",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUpJMHN0UmlONGFQV0NLMXpldGFVQ3BDRnc3MlNuNG1uUVBqYkxoUVJUZk4yWWdOcVM0R2x6bVJNLWRQWTdtUjVuRGZ3VENPX0gzaGlTWEVZaFhycGRyek5HYWVuam5BNkpNUzVGeDBuR19YcERaMlJPd2VxaUF2RXpvRWlPMmEzYm9aRGN0NDlZeTNMeFlweHFHMnpvb2NkV2FBdXRNYUhsZG9qR0F5OE5wc0ZKaHI1M0Zz?oc=5",
-      "summary": "BRACAnalysis CDx Companion Diagnostic Progresses Personalized Ovarian Cancer Care &nbsp;&nbsp; Targeted Oncology",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "title": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTVTOGpRam0xeE9iM3ZFRUhzVjVvaEFZczJSd2haMFJ0VThFUXV1RFlHdFo5aFhJSldJWklFVVFrVmRQRFNORWhVd1N6eHBOYVR4ZjBYTm1nYjdaRkptdlBST1FqandCU2xjX3VsdGJiZ3ZoWGpIVnFsU3ZRNjFkVDd2MTNWNWw5cm9NWWZFWDU1VHFOVGJSUDNENWZfZkdTN1dDOVhFZWxBTWo2aVNrNXhKcTlBQWpabWJSZ1RlejV2czlGNGpBS2tMcHJlQlNuZjJGWHBBeUNYRmVzRF9qYTJvZw?oc=5",
+      "summary": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
@@ -195,17 +195,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBsVW1MYzI3WW9EX19VbFMxMXBsb1VacGxlVnd6NWF6NzZsOERrbHFzZmhLaGcxSnlHQ25rMHN5LUJhS2E4TEFyR2JqTVdGLS1aUlBIVWg5aC1LU0EzWnVNQWdwRERTZVdSODJKV29aOEdBYnE2WFRNcGtJVUQtTkVPMWY4SFJSUnJMNXRnSGdKbGVfZldIZkZRVTgwaVBiODd6VFlELS1taEx5bUwtbQ?oc=5",
       "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; Yahoo Finance",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration - Voice of Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE90SUZZRk1XbVJOMGRha25pNW1ybTRvWlZNMk1POV8wYm1YSWpQaDBzT0lMSEVJM3dTWE9GUEh1NVZ5TlB3c3F5RURyMnNyRXhSRmwwM2NKdTRPa3NpVkxFR3B2aEdpSWdHeTFaSGJMNU1aSFE4c1Bwa182czJjd1ZQS0VBQUtMaDQ2WUhvMGpDOWE4VUZuU0poS3BJMGtiNjlrUm1GTTZScUN2X2NGR2puVk03OTRJd2VnTmxoXzBvOGt2SVNtZkRVOTZ6UXdoQzBFNzhIRWc0TElXTmhB?oc=5",
-      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration &nbsp;&nbsp; Voice of Healthcare",
-      "date": "Mon, 05 Oct 2026 07:14:46 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
@@ -270,21 +259,10 @@
       "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
     },
     {
-      "title": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US - Bloomberg.com",
+      "title": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZDhkMTZ2V0VENnM3emFyNGNPX3FHYUpmVjI3NW1fVHJyR1Q5VlZYYkh3a2VKb1BLeFNHVmhMQmU1VGJDREVmQzVXV085LTU3aFBOLWc1eTV1cFhHZHBjaXR5V0w1aGJGUUF1b1NvRlRnTlQwSnNaX1k5YncxSEJCblcwRTctekNyZ2FGLV80QWp2aWU3eEZYZEpxMHFBNTVPUldXY3lEV2E4bTNUdkpxR1dn?oc=5",
-      "summary": "Lab Monkeys for $26,000 Show China’s Biotech Quest to Rival US &nbsp;&nbsp; Bloomberg.com",
+      "summary": "$26,000 Lab Monkeys Show China’s Quest to Rival US Biotech &nbsp;&nbsp; Bloomberg.com",
       "date": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
-      "title": "$33,800 lab monkeys show China’s quest to rival US biotech - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaEdHbmItdFNuSUFtT0dQdUYzOFBYMlBBaF9FV2tGTVF1al96Y3dDVkpacDBNM3VEUS1vbXI4b3dRRUJGNTM3MWlNS0RJQVlFbG95ZTE3VkY3TFRWY2UtVEtJbzhfNHNadDFjYU5DOEVQY3d2ZUVaR01IZkdWUlNRbzFfcE16cEdOeG5sa09TakNLTnctT015Sg?oc=5",
-      "summary": "$33,800 lab monkeys show China’s quest to rival US biotech &nbsp;&nbsp; The Straits Times",
-      "date": "Wed, 05 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -380,6 +358,17 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
+      "title": "U.S. Companion Diagnostic Assay Development Services Market - openPR.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWNCSkYzYXZROTZXbUl0S0J3MlhBWmhkaXFwQXQ5T2V5U0JVX1pXUTRMc3Q5aEFZMzVDeW1NUTJDUHl2aXJBWGhnRDNIOWxnSXdsVTlRNDU1SmRwMGowNGthVWdYMEl5ZGNQbTFTck1lLUdZM0I5WElKQ1ZDUGFSNWNZeVZ6RThpMzVQQzg4YW1fWnpERGxnQ2F3?oc=5",
+      "summary": "U.S. Companion Diagnostic Assay Development Services Market &nbsp;&nbsp; openPR.com",
+      "date": "Fri, 23 Oct 2026 06:45:15 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
       "title": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood - Medical Daily",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRXTE1iVHFDUVlnenFCWF92bEdWT3RPQVl6dl9xOFdWOEh5MTRIUU1UM1dEUUE1N1lONnRLaUNyWjYzVWR2Y1FtMmV3TEpqb3VSRnhQVVFuOU5vNUltNzdFelBYMFlORFczV0FKd2M0eVdtTHVTY3FZUUZWUkNRY1dQSWpqbUYyUS1mR2dBaVR1Z2tJUHVZckdB?oc=5",
       "summary": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood &nbsp;&nbsp; Medical Daily",
@@ -391,10 +380,10 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
-      "title": "BRACAnalysis CDx Companion Diagnostic Progresses Personalized Ovarian Cancer Care - Targeted Oncology",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVUpJMHN0UmlONGFQV0NLMXpldGFVQ3BDRnc3MlNuNG1uUVBqYkxoUVJUZk4yWWdOcVM0R2x6bVJNLWRQWTdtUjVuRGZ3VENPX0gzaGlTWEVZaFhycGRyek5HYWVuam5BNkpNUzVGeDBuR19YcERaMlJPd2VxaUF2RXpvRWlPMmEzYm9aRGN0NDlZeTNMeFlweHFHMnpvb2NkV2FBdXRNYUhsZG9qR0F5OE5wc0ZKaHI1M0Zz?oc=5",
-      "summary": "BRACAnalysis CDx Companion Diagnostic Progresses Personalized Ovarian Cancer Care &nbsp;&nbsp; Targeted Oncology",
-      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "title": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTVTOGpRam0xeE9iM3ZFRUhzVjVvaEFZczJSd2haMFJ0VThFUXV1RFlHdFo5aFhJSldJWklFVVFrVmRQRFNORWhVd1N6eHBOYVR4ZjBYTm1nYjdaRkptdlBST1FqandCU2xjX3VsdGJiZ3ZoWGpIVnFsU3ZRNjFkVDd2MTNWNWw5cm9NWWZFWDU1VHFOVGJSUDNENWZfZkdTN1dDOVhFZWxBTWo2aVNrNXhKcTlBQWpabWJSZ1RlejV2czlGNGpBS2tMcHJlQlNuZjJGWHBBeUNYRmVzRF9qYTJvZw?oc=5",
+      "summary": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
@@ -406,17 +395,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBsVW1MYzI3WW9EX19VbFMxMXBsb1VacGxlVnd6NWF6NzZsOERrbHFzZmhLaGcxSnlHQ25rMHN5LUJhS2E4TEFyR2JqTVdGLS1aUlBIVWg5aC1LU0EzWnVNQWdwRERTZVdSODJKV29aOEdBYnE2WFRNcGtJVUQtTkVPMWY4SFJSUnJMNXRnSGdKbGVfZldIZkZRVTgwaVBiODd6VFlELS1taEx5bUwtbQ?oc=5",
       "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; Yahoo Finance",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration - Voice of Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTE90SUZZRk1XbVJOMGRha25pNW1ybTRvWlZNMk1POV8wYm1YSWpQaDBzT0lMSEVJM3dTWE9GUEh1NVZ5TlB3c3F5RURyMnNyRXhSRmwwM2NKdTRPa3NpVkxFR3B2aEdpSWdHeTFaSGJMNU1aSFE4c1Bwa182czJjd1ZQS0VBQUtMaDQ2WUhvMGpDOWE4VUZuU0poS3BJMGtiNjlrUm1GTTZScUN2X2NGR2puVk03OTRJd2VnTmxoXzBvOGt2SVNtZkRVOTZ6UXdoQzBFNzhIRWc0TElXTmhB?oc=5",
-      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration &nbsp;&nbsp; Voice of Healthcare",
-      "date": "Mon, 05 Oct 2026 07:14:46 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",

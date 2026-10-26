@@ -1,6 +1,12 @@
 {
   "editions": [
     {
+      "week": "2026-W44",
+      "file": "2026-W44.json",
+      "updated_at": "2026-10-19 04:43 UTC",
+      "count": 40
+    },
+    {
       "week": "2026-W43",
       "file": "2026-W43.json",
       "updated_at": "2026-10-12 06:00 UTC",
