@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 04:49 UTC",
+  "updated_at": "2026-11-02 06:08 UTC",
   "tox_nhp": [
     {
       "title": "FDA: Monoclonal Antibodies — Streamlined Nonclinical Safety Studies",
@@ -103,6 +103,17 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
+      "title": "CellCarta, Imagene AI Partner on Biomarker, CDx Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUI1RFp6THZNSTctVEFmSzdsXzk1SjdWRE1UdDY3cDY3UkJHSVFkc3ZpaUFJcXBSSndWTVRpc3h6eUNzanM5OU12NWJuOV82MFRneW5wTV9iTTZ3aEg5bkZkREFuU0lSZllKbC1JOUJvZ01WejlxYWRDU2pCaGoxM3VYRHVqVU1vOEk4YXZIS1FaMGQtMWtfLTZybnpmQ21QQWxVQmx0VUctMUlBMnRNYzhBSnNqU1Roc0h2dWdfWENzUQ?oc=5",
+      "summary": "CellCarta, Imagene AI Partner on Biomarker, CDx Development &nbsp;&nbsp; GenomeWeb",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
       "title": "AI Pathology Bridges the Gap to NSCLC CDx Development - www.the-scientist.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFdySVFBZ0FqYmdGbUg3MlMwblJSRVJCdEhXdDBQcGppMUhXNUZ3WGpOemI1X2VxT1hacXYwajlnOWV4UElVZFUtOW14WWkybWJXVXZqOGs3Nkgzb29BZGt0ekJyMXI0QkhQNVR0UHRrdTZfSmNFMXR5YXJnYUZWWnVlQkpBYm8wZERUOXI1bXRxVFk?oc=5",
       "summary": "AI Pathology Bridges the Gap to NSCLC CDx Development &nbsp;&nbsp; www.the-scientist.com",
@@ -158,21 +169,10 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "U.S. Companion Diagnostic Assay Development Services Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWNCSkYzYXZROTZXbUl0S0J3MlhBWmhkaXFwQXQ5T2V5U0JVX1pXUTRMc3Q5aEFZMzVDeW1NUTJDUHl2aXJBWGhnRDNIOWxnSXdsVTlRNDU1SmRwMGowNGthVWdYMEl5ZGNQbTFTck1lLUdZM0I5WElKQ1ZDUGFSNWNZeVZ6RThpMzVQQzg4YW1fWnpERGxnQ2F3?oc=5",
-      "summary": "U.S. Companion Diagnostic Assay Development Services Market &nbsp;&nbsp; openPR.com",
-      "date": "Fri, 23 Oct 2026 06:45:15 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood - Medical Daily",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRXTE1iVHFDUVlnenFCWF92bEdWT3RPQVl6dl9xOFdWOEh5MTRIUU1UM1dEUUE1N1lONnRLaUNyWjYzVWR2Y1FtMmV3TEpqb3VSRnhQVVFuOU5vNUltNzdFelBYMFlORFczV0FKd2M0eVdtTHVTY3FZUUZWUkNRY1dQSWpqbUYyUS1mR2dBaVR1Z2tJUHVZckdB?oc=5",
-      "summary": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood &nbsp;&nbsp; Medical Daily",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "title": "FDA Approves Lilly’s Inluriyo-Verzenio Combo With Guardant360 CDx for ESR1-Mutant Breast Cancer - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3o0WE9jSHBQb1drVGVJMkhnUFpodTMxb1gwNWxTbkotTldwOWFYRmFYSFdweVFoQlBNZE1BQTJjS01SVjVwQTZMZWtwNFVvUDBSazg4QW1HRmtTcVZrdzFWQWFYV0dKZXdxSEhPMmZoWnpaWHF4eFlMVEgzR2NraVdvMi1CY0pwcFdsR19mQ3pzeFpmcmd1ejZnN0k2Yzl3NUVFUXJQd0pBVU5aUmc?oc=5",
+      "summary": "FDA Approves Lilly’s Inluriyo-Verzenio Combo With Guardant360 CDx for ESR1-Mutant Breast Cancer &nbsp;&nbsp; GenomeWeb",
+      "date": "Fri, 18 Sep 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Regulatory change",
@@ -180,10 +180,10 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
-      "title": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTVTOGpRam0xeE9iM3ZFRUhzVjVvaEFZczJSd2haMFJ0VThFUXV1RFlHdFo5aFhJSldJWklFVVFrVmRQRFNORWhVd1N6eHBOYVR4ZjBYTm1nYjdaRkptdlBST1FqandCU2xjX3VsdGJiZ3ZoWGpIVnFsU3ZRNjFkVDd2MTNWNWw5cm9NWWZFWDU1VHFOVGJSUDNENWZfZkdTN1dDOVhFZWxBTWo2aVNrNXhKcTlBQWpabWJSZ1RlejV2czlGNGpBS2tMcHJlQlNuZjJGWHBBeUNYRmVzRF9qYTJvZw?oc=5",
-      "summary": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies &nbsp;&nbsp; PR Newswire",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "title": "CellCarta, Waters Partner on Companion Diagnostics Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmdnR0ZtSFc3dk5ncjhNUnlTVmdMZHY3bkdJWmxGbmU2b1ZSczZfVVlyQkYtLXkxTm9mSWgza1J2QkhTZU8zXzVJc3UwS01KeEpSYXFESjUxdkZCMFB1MGFGU0FUeUdGM1BRekhTWmR2QkFGc0RFa2ZFZVpzSGN2NjR2OWRzS2F5d3A2alFZOFNQZw?oc=5",
+      "summary": "CellCarta, Waters Partner on Companion Diagnostics Development &nbsp;&nbsp; GenomeWeb",
+      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
@@ -303,6 +303,17 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
+      "title": "CellCarta, Imagene AI Partner on Biomarker, CDx Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOUI1RFp6THZNSTctVEFmSzdsXzk1SjdWRE1UdDY3cDY3UkJHSVFkc3ZpaUFJcXBSSndWTVRpc3h6eUNzanM5OU12NWJuOV82MFRneW5wTV9iTTZ3aEg5bkZkREFuU0lSZllKbC1JOUJvZ01WejlxYWRDU2pCaGoxM3VYRHVqVU1vOEk4YXZIS1FaMGQtMWtfLTZybnpmQ21QQWxVQmx0VUctMUlBMnRNYzhBSnNqU1Roc0h2dWdfWENzUQ?oc=5",
+      "summary": "CellCarta, Imagene AI Partner on Biomarker, CDx Development &nbsp;&nbsp; GenomeWeb",
+      "date": "Fri, 02 Oct 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
       "title": "AI Pathology Bridges the Gap to NSCLC CDx Development - www.the-scientist.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWFdySVFBZ0FqYmdGbUg3MlMwblJSRVJCdEhXdDBQcGppMUhXNUZ3WGpOemI1X2VxT1hacXYwajlnOWV4UElVZFUtOW14WWkybWJXVXZqOGs3Nkgzb29BZGt0ekJyMXI0QkhQNVR0UHRrdTZfSmNFMXR5YXJnYUZWWnVlQkpBYm8wZERUOXI1bXRxVFk?oc=5",
       "summary": "AI Pathology Bridges the Gap to NSCLC CDx Development &nbsp;&nbsp; www.the-scientist.com",
@@ -358,21 +369,10 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "U.S. Companion Diagnostic Assay Development Services Market - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOWNCSkYzYXZROTZXbUl0S0J3MlhBWmhkaXFwQXQ5T2V5U0JVX1pXUTRMc3Q5aEFZMzVDeW1NUTJDUHl2aXJBWGhnRDNIOWxnSXdsVTlRNDU1SmRwMGowNGthVWdYMEl5ZGNQbTFTck1lLUdZM0I5WElKQ1ZDUGFSNWNZeVZ6RThpMzVQQzg4YW1fWnpERGxnQ2F3?oc=5",
-      "summary": "U.S. Companion Diagnostic Assay Development Services Market &nbsp;&nbsp; openPR.com",
-      "date": "Fri, 23 Oct 2026 06:45:15 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood - Medical Daily",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQblRXTE1iVHFDUVlnenFCWF92bEdWT3RPQVl6dl9xOFdWOEh5MTRIUU1UM1dEUUE1N1lONnRLaUNyWjYzVWR2Y1FtMmV3TEpqb3VSRnhQVVFuOU5vNUltNzdFelBYMFlORFczV0FKd2M0eVdtTHVTY3FZUUZWUkNRY1dQSWpqbUYyUS1mR2dBaVR1Z2tJUHVZckdB?oc=5",
-      "summary": "FDA Renamed and Updated Its Companion Diagnostics List, Including the First Test That Detects Cancer's Return in Blood &nbsp;&nbsp; Medical Daily",
-      "date": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "title": "FDA Approves Lilly’s Inluriyo-Verzenio Combo With Guardant360 CDx for ESR1-Mutant Breast Cancer - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3o0WE9jSHBQb1drVGVJMkhnUFpodTMxb1gwNWxTbkotTldwOWFYRmFYSFdweVFoQlBNZE1BQTJjS01SVjVwQTZMZWtwNFVvUDBSazg4QW1HRmtTcVZrdzFWQWFYV0dKZXdxSEhPMmZoWnpaWHF4eFlMVEgzR2NraVdvMi1CY0pwcFdsR19mQ3pzeFpmcmd1ejZnN0k2Yzl3NUVFUXJQd0pBVU5aUmc?oc=5",
+      "summary": "FDA Approves Lilly’s Inluriyo-Verzenio Combo With Guardant360 CDx for ESR1-Mutant Breast Cancer &nbsp;&nbsp; GenomeWeb",
+      "date": "Fri, 18 Sep 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Regulatory change",
@@ -380,10 +380,10 @@
       "action": "Check whether biomarker strategy, assay validation, bridging or filing assumptions need to move earlier."
     },
     {
-      "title": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies - PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcTVTOGpRam0xeE9iM3ZFRUhzVjVvaEFZczJSd2haMFJ0VThFUXV1RFlHdFo5aFhJSldJWklFVVFrVmRQRFNORWhVd1N6eHBOYVR4ZjBYTm1nYjdaRkptdlBST1FqandCU2xjX3VsdGJiZ3ZoWGpIVnFsU3ZRNjFkVDd2MTNWNWw5cm9NWWZFWDU1VHFOVGJSUDNENWZfZkdTN1dDOVhFZWxBTWo2aVNrNXhKcTlBQWpabWJSZ1RlejV2czlGNGpBS2tMcHJlQlNuZjJGWHBBeUNYRmVzRF9qYTJvZw?oc=5",
-      "summary": "Genprex Announces Collaboration with Roche Diagnostics for Biomarker Assay Validation Studies &nbsp;&nbsp; PR Newswire",
-      "date": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "title": "CellCarta, Waters Partner on Companion Diagnostics Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmdnR0ZtSFc3dk5ncjhNUnlTVmdMZHY3bkdJWmxGbmU2b1ZSczZfVVlyQkYtLXkxTm9mSWgza1J2QkhTZU8zXzVJc3UwS01KeEpSYXFESjUxdkZCMFB1MGFGU0FUeUdGM1BRekhTWmR2QkFGc0RFa2ZFZVpzSGN2NjR2OWRzS2F5d3A2alFZOFNQZw?oc=5",
+      "summary": "CellCarta, Waters Partner on Companion Diagnostics Development &nbsp;&nbsp; GenomeWeb",
+      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
