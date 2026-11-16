@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 06:33 UTC",
+  "updated_at": "2026-11-16 06:32 UTC",
   "tox_nhp": [
     {
       "title": "FDA: Monoclonal Antibodies — Streamlined Nonclinical Safety Studies",
@@ -35,21 +35,10 @@
       "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
     },
     {
-      "title": "'Global meltdown' caused by China 'running out of lab monkeys to test on' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdZXzRiQXNLNmxSQnVNWUx2eS1UR1JvWk5xRkJiWWJOWmRBWmtuQ0g5TUVPaWVFTnZrdzNBOVVfTWZuSC01OFlQM3pHQ3ppdFBOQWJreEZQWUUyUUY1V2ViUUE5Y1RGdFRNQVkzdTU4a2pyczYxZVE5X0pTT2hzRGM1RkZZRDQ?oc=5",
-      "summary": "'Global meltdown' caused by China 'running out of lab monkeys to test on' &nbsp;&nbsp; AOL.com",
-      "date": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
       "title": "30,000 Macaques: Lonsdale Plan, AI Link Unproven [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXphbW4wMWh2YUZWUkt2V3pBaW5HT0VmYm9UOFl3V090SlVTSS1nVnlseDZqNzNSWGpzN0JQX3JsLUdIUEhwT3FGSUlUTFpKS2VkbWtfeEZLSEQxTUw1NDF6TkhNaXBzNVprSERnZVFTRUplWVJXUWpQMzFLQ0RwTlhUVUtrcDVOUEZVamVkQ3J1bndPNGZYQw?oc=5",
       "summary": "30,000 Macaques: Lonsdale Plan, AI Link Unproven [2026] &nbsp;&nbsp; shattered.io",
-      "date": "Tue, 03 Nov 2026 03:32:23 GMT",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -61,17 +50,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGZtSndJTHVVRDIxTElsY1VMYXpJeGRwYkp4U0EtNmZyOVRTdTVaaWtSeUEtOGpnbi1jRGJqT2RMa1dmMzdOSmRDRHJSZ3ZSejJVSnBuQmZnSDZrWDB0SjFTZlJjaEx3YjdQUmpBbDR5aGFiSlZzcVdpM09Id1ZqWWRLYVhPamUxcjA4bUFCcHZjMklJVFE4QkVKeE81SDI1ZUZaS29adlFEaHJmUHREN2V1WDV6Rm1CNDN4VDdhMW8?oc=5",
       "summary": "China needs monkeys: lab animal shortage could hinder biotech growth &nbsp;&nbsp; South China Morning Post",
       "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
-      "title": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmd0eWVURjdhaTBXR01rNlFRVGczQXpSTVFZRXZxTEg2Z2dJMzM5Q1FwcktQRW9WX1M4Z05fcGwtQU0tOE1oT05IUE1HS2ZBYmV3UG9DU1VkREhuM0dwZTdtQjB5LTJUVGVSSHpLMzE4bnBtVHF1dGtHcnNHLUhFb05mYnBBWGZEdWZkU3l1ZmdCQjVJZHNfN0ZEcXVHWGdDRmFyZTl2bGViaGJmSW9UZXVPYUxpZm1ta1JpQmNB?oc=5",
-      "summary": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques &nbsp;&nbsp; Fierce Biotech",
-      "date": "Wed, 12 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -125,20 +103,9 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "Companion Diagnostic Development Market Is Going to Boom |• Roche • Agilent Technologies - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlNtNnJLTTBaaVBoVWhvWXZpNXNMODFBZ211b015OS1zNkJXZl9UMjhOZU9fbnBCbks5RjJ1cU5rbUZ1UG9TVE5Dbmw2NEFPU3RfVThUMU1yUEtOQ1FXQ1BfMVVOOThzZXVtVFVIZE5Hci11YWVnTFBLQ3p6b25CSm5sUjRtaFEwcmVjSmgzZEpobmowdGJr?oc=5",
-      "summary": "Companion Diagnostic Development Market Is Going to Boom |• Roche • Agilent Technologies &nbsp;&nbsp; openPR.com",
-      "date": "Mon, 02 Nov 2026 10:47:24 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBsVW1MYzI3WW9EX19VbFMxMXBsb1VacGxlVnd6NWF6NzZsOERrbHFzZmhLaGcxSnlHQ25rMHN5LUJhS2E4TEFyR2JqTVdGLS1aUlBIVWg5aC1LU0EzWnVNQWdwRERTZVdSODJKV29aOEdBYnE2WFRNcGtJVUQtTkVPMWY4SFJSUnJMNXRnSGdKbGVfZldIZkZRVTgwaVBiODd6VFlELS1taEx5bUwtbQ?oc=5",
-      "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; Yahoo Finance",
+      "title": "CellCarta, Waters Partner on Companion Diagnostics Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmdnR0ZtSFc3dk5ncjhNUnlTVmdMZHY3bkdJWmxGbmU2b1ZSczZfVVlyQkYtLXkxTm9mSWgza1J2QkhTZU8zXzVJc3UwS01KeEpSYXFESjUxdkZCMFB1MGFGU0FUeUdGM1BRekhTWmR2QkFGc0RFa2ZFZVpzSGN2NjR2OWRzS2F5d3A2alFZOFNQZw?oc=5",
+      "summary": "CellCarta, Waters Partner on Companion Diagnostics Development &nbsp;&nbsp; GenomeWeb",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
@@ -147,9 +114,20 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration - Voice of Healthcare",
+      "title": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblhKSndWWmE1RUNQcC1fbEQ2VVdmRW1mTkVFMmVIdksxUHpEd2hpd1JiV3puaXJ0bWJESGhQanVnUTk0SzhtUDVVSnlmdWkzSHFkS1NuMDhqRkcwYk9Id0pXMmJmakNlaDV6QmJaODRoVUJCWDBtVlZGMnRMa2V1cWtwU1g3Z0ozOHVBd0MyRUk2cExkRTNVVEpJRnNVcEhuZHhpazZxbU9YaTJEbjY1ajJkQVVtNWFyMWR2VTdZeFJsMDFuekRrWVNCZndzS1czZE5ndXh6TG5PcjhUcGZoSkpUWkZiamJJTC1YbQ?oc=5",
+      "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration | Voice of Healthcare - Voice of Healthcare",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0tZRUd1dHRFQ0xPcHhFQUNHeGRoTTR4bW1QYVpIb2FyNU9LajBCZFRrTl9PVS1ZQVIyVENnYlNOMWVlZ0JJWWhaYVAwM1lYWFVsUk5TaVd3TDE4M3ZGV2NfUlRqNWZMVmhYZWRFTy1UQm5pV01PNGhqamtkb1RWZHN6WEVyWUtNeG83Y05WdU1yeTFwNXF1NHhja3pUZ20yU21FRVJqUm9WTzBTTUF1TkpNZHN0NC1rWHg2MkRRNG1KUQ?oc=5",
-      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration &nbsp;&nbsp; Voice of Healthcare",
+      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration | Voice of Healthcare &nbsp;&nbsp; Voice of Healthcare",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
@@ -180,10 +158,10 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "What turns an AI pathology tool into a companion diagnostic? - Drug Discovery News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnpJVktPVFl6cmhFOEpwY1RYb0tfSURvZXJhSDY1cTFPTUY1b1Y4TFNCQTdodEsxekVSNnRtcjZpMzVVWF9UUVR5SUdrZktmNmUtVVVHbE1TekQzY3IxWVBIYnBINnlmbjE2cDdYR2FrLVdrSjJwR0ZWUlR1MVlGR1dIZWVXX1lnMVhqWnNUc3IwSkdKMnhuMEQtZHRRT1JO?oc=5",
-      "summary": "What turns an AI pathology tool into a companion diagnostic? &nbsp;&nbsp; Drug Discovery News",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "title": "Facing Sluggish Sales, NanoString Plugs CDx Business Despite Losing Merck Deal - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEJCRGNnTl9oc3hweHU3QVU2ZE5KNVFUNjBFRTFTMVh1Z3RmclpqdGZLVlZZTEpjWVd6R0tWVVJnNmxWTUhFUW5LZjdUUl8tdnk3WDdCMVFBRWJzSDZuTVpxQ2pSejBHQ0ZYRjM5REF0UVhMYUVCSUdwaDNGVml6MFZQemRka1FTU3hObU42ellONlJsVTZ4eUdCZ2JiZ2NXRjJla0FkanNnVUtPYnhDeHU5Y25vREhCVFE?oc=5",
+      "summary": "Facing Sluggish Sales, NanoString Plugs CDx Business Despite Losing Merck Deal &nbsp;&nbsp; GenomeWeb",
+      "date": "Thu, 05 Nov 2026 21:52:53 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
@@ -226,21 +204,10 @@
       "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
     },
     {
-      "title": "'Global meltdown' caused by China 'running out of lab monkeys to test on' - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcDdZXzRiQXNLNmxSQnVNWUx2eS1UR1JvWk5xRkJiWWJOWmRBWmtuQ0g5TUVPaWVFTnZrdzNBOVVfTWZuSC01OFlQM3pHQ3ppdFBOQWJreEZQWUUyUUY1V2ViUUE5Y1RGdFRNQVkzdTU4a2pyczYxZVE5X0pTT2hzRGM1RkZZRDQ?oc=5",
-      "summary": "'Global meltdown' caused by China 'running out of lab monkeys to test on' &nbsp;&nbsp; AOL.com",
-      "date": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
       "title": "30,000 Macaques: Lonsdale Plan, AI Link Unproven [2026] - shattered.io",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXphbW4wMWh2YUZWUkt2V3pBaW5HT0VmYm9UOFl3V090SlVTSS1nVnlseDZqNzNSWGpzN0JQX3JsLUdIUEhwT3FGSUlUTFpKS2VkbWtfeEZLSEQxTUw1NDF6TkhNaXBzNVprSERnZVFTRUplWVJXUWpQMzFLQ0RwTlhUVUtrcDVOUEZVamVkQ3J1bndPNGZYQw?oc=5",
       "summary": "30,000 Macaques: Lonsdale Plan, AI Link Unproven [2026] &nbsp;&nbsp; shattered.io",
-      "date": "Tue, 03 Nov 2026 03:32:23 GMT",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -252,17 +219,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbGZtSndJTHVVRDIxTElsY1VMYXpJeGRwYkp4U0EtNmZyOVRTdTVaaWtSeUEtOGpnbi1jRGJqT2RMa1dmMzdOSmRDRHJSZ3ZSejJVSnBuQmZnSDZrWDB0SjFTZlJjaEx3YjdQUmpBbDR5aGFiSlZzcVdpM09Id1ZqWWRLYVhPamUxcjA4bUFCcHZjMklJVFE4QkVKeE81SDI1ZUZaS29adlFEaHJmUHREN2V1WDV6Rm1CNDN4VDdhMW8?oc=5",
       "summary": "China needs monkeys: lab animal shortage could hinder biotech growth &nbsp;&nbsp; South China Morning Post",
       "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "source": "Google News",
-      "lane": "Tox / NHP Cost & Capacity",
-      "signal": "Cost / capacity pressure",
-      "impact": "Could raise GLP tox cost or extend study start dates through animal/CRO supply constraints.",
-      "action": "Refresh tox budget, animal assumptions and CRO slot timing; secure capacity earlier if exposure is material."
-    },
-    {
-      "title": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques - Fierce Biotech",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmd0eWVURjdhaTBXR01rNlFRVGczQXpSTVFZRXZxTEg2Z2dJMzM5Q1FwcktQRW9WX1M4Z05fcGwtQU0tOE1oT05IUE1HS2ZBYmV3UG9DU1VkREhuM0dwZTdtQjB5LTJUVGVSSHpLMzE4bnBtVHF1dGtHcnNHLUhFb05mYnBBWGZEdWZkU3l1ZmdCQjVJZHNfN0ZEcXVHWGdDRmFyZTl2bGViaGJmSW9UZXVPYUxpZm1ta1JpQmNB?oc=5",
-      "summary": "CytoDyn’s leronlimab reaffirms HIV potential after combo treatment eradicates virus in infant macaques &nbsp;&nbsp; Fierce Biotech",
-      "date": "Wed, 12 Aug 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "Tox / NHP Cost & Capacity",
       "signal": "Cost / capacity pressure",
@@ -314,20 +270,9 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "Companion Diagnostic Development Market Is Going to Boom |• Roche • Agilent Technologies - openPR.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSlNtNnJLTTBaaVBoVWhvWXZpNXNMODFBZ211b015OS1zNkJXZl9UMjhOZU9fbnBCbks5RjJ1cU5rbUZ1UG9TVE5Dbmw2NEFPU3RfVThUMU1yUEtOQ1FXQ1BfMVVOOThzZXVtVFVIZE5Hci11YWVnTFBLQ3p6b25CSm5sUjRtaFEwcmVjSmgzZEpobmowdGJr?oc=5",
-      "summary": "Companion Diagnostic Development Market Is Going to Boom |• Roche • Agilent Technologies &nbsp;&nbsp; openPR.com",
-      "date": "Mon, 02 Nov 2026 10:47:24 GMT",
-      "source": "Google News",
-      "lane": "CDx Development & Regulation",
-      "signal": "Cost / execution signal",
-      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
-      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
-    },
-    {
-      "title": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRzBsVW1MYzI3WW9EX19VbFMxMXBsb1VacGxlVnd6NWF6NzZsOERrbHFzZmhLaGcxSnlHQ25rMHN5LUJhS2E4TEFyR2JqTVdGLS1aUlBIVWg5aC1LU0EzWnVNQWdwRERTZVdSODJKV29aOEdBYnE2WFRNcGtJVUQtTkVPMWY4SFJSUnJMNXRnSGdKbGVfZldIZkZRVTgwaVBiODd6VFlELS1taEx5bUwtbQ?oc=5",
-      "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; Yahoo Finance",
+      "title": "CellCarta, Waters Partner on Companion Diagnostics Development - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmdnR0ZtSFc3dk5ncjhNUnlTVmdMZHY3bkdJWmxGbmU2b1ZSczZfVVlyQkYtLXkxTm9mSWgza1J2QkhTZU8zXzVJc3UwS01KeEpSYXFESjUxdkZCMFB1MGFGU0FUeUdGM1BRekhTWmR2QkFGc0RFa2ZFZVpzSGN2NjR2OWRzS2F5d3A2alFZOFNQZw?oc=5",
+      "summary": "CellCarta, Waters Partner on Companion Diagnostics Development &nbsp;&nbsp; GenomeWeb",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
@@ -336,9 +281,20 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration - Voice of Healthcare",
+      "title": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOblhKSndWWmE1RUNQcC1fbEQ2VVdmRW1mTkVFMmVIdksxUHpEd2hpd1JiV3puaXJ0bWJESGhQanVnUTk0SzhtUDVVSnlmdWkzSHFkS1NuMDhqRkcwYk9Id0pXMmJmakNlaDV6QmJaODRoVUJCWDBtVlZGMnRMa2V1cWtwU1g3Z0ozOHVBd0MyRUk2cExkRTNVVEpJRnNVcEhuZHhpazZxbU9YaTJEbjY1ajJkQVVtNWFyMWR2VTdZeFJsMDFuekRrWVNCZndzS1czZE5ndXh6TG5PcjhUcGZoSkpUWkZiamJJTC1YbQ?oc=5",
+      "summary": "CellCarta Establishes Strategic Partnership with Waters to Advance Companion Diagnostics Development &nbsp;&nbsp; PR Newswire",
+      "date": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "Google News",
+      "lane": "CDx Development & Regulation",
+      "signal": "Cost / execution signal",
+      "impact": "May affect assay-development scope, testing volume, external lab/CRO spend or launch-readiness timing.",
+      "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
+    },
+    {
+      "title": "CellCarta, Imagene AI Expand AI CDx Collaboration | Voice of Healthcare - Voice of Healthcare",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0tZRUd1dHRFQ0xPcHhFQUNHeGRoTTR4bW1QYVpIb2FyNU9LajBCZFRrTl9PVS1ZQVIyVENnYlNOMWVlZ0JJWWhaYVAwM1lYWFVsUk5TaVd3TDE4M3ZGV2NfUlRqNWZMVmhYZWRFTy1UQm5pV01PNGhqamtkb1RWZHN6WEVyWUtNeG83Y05WdU1yeTFwNXF1NHhja3pUZ20yU21FRVJqUm9WTzBTTUF1TkpNZHN0NC1rWHg2MkRRNG1KUQ?oc=5",
-      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration &nbsp;&nbsp; Voice of Healthcare",
+      "summary": "CellCarta, Imagene AI Expand AI CDx Collaboration | Voice of Healthcare &nbsp;&nbsp; Voice of Healthcare",
       "date": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
@@ -369,10 +325,10 @@
       "action": "Check CDx vendor plan, sample strategy, validation package and contingency budget."
     },
     {
-      "title": "What turns an AI pathology tool into a companion diagnostic? - Drug Discovery News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnpJVktPVFl6cmhFOEpwY1RYb0tfSURvZXJhSDY1cTFPTUY1b1Y4TFNCQTdodEsxekVSNnRtcjZpMzVVWF9UUVR5SUdrZktmNmUtVVVHbE1TekQzY3IxWVBIYnBINnlmbjE2cDdYR2FrLVdrSjJwR0ZWUlR1MVlGR1dIZWVXX1lnMVhqWnNUc3IwSkdKMnhuMEQtZHRRT1JO?oc=5",
-      "summary": "What turns an AI pathology tool into a companion diagnostic? &nbsp;&nbsp; Drug Discovery News",
-      "date": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "title": "Facing Sluggish Sales, NanoString Plugs CDx Business Despite Losing Merck Deal - GenomeWeb",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUEJCRGNnTl9oc3hweHU3QVU2ZE5KNVFUNjBFRTFTMVh1Z3RmclpqdGZLVlZZTEpjWVd6R0tWVVJnNmxWTUhFUW5LZjdUUl8tdnk3WDdCMVFBRWJzSDZuTVpxQ2pSejBHQ0ZYRjM5REF0UVhMYUVCSUdwaDNGVml6MFZQemRka1FTU3hObU42ellONlJsVTZ4eUdCZ2JiZ2NXRjJla0FkanNnVUtPYnhDeHU5Y25vREhCVFE?oc=5",
+      "summary": "Facing Sluggish Sales, NanoString Plugs CDx Business Despite Losing Merck Deal &nbsp;&nbsp; GenomeWeb",
+      "date": "Thu, 05 Nov 2026 21:52:53 GMT",
       "source": "Google News",
       "lane": "CDx Development & Regulation",
       "signal": "Cost / execution signal",
